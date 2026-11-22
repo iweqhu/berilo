@@ -197,22 +197,26 @@ function castPanel(cast) {
   return card('Osebe',groups.map(([role,label])=>{
     const members=cast.filter(([key])=>key[0]===role);
     if(!members.length) return '';
-    return '<section class="cast-group"><h3>'+label+'</h3><div class="cast-grid">'+members.map(([key,name,traits,roleInStory,appearance])=>
-      '<article class="cast-card'+(key.includes('*')?' cast-card--main':'')+'"><div><h4>'+esc(name)+'</h4><small>'+(key.includes('!')?'Nasprotna sila':key.includes('*')?'Glavna oseba':'Stranska oseba')+'</small></div><p>'+esc(traits)+'</p>'+(appearance?'<p class="muted">'+esc(appearance)+'</p>':'')+'<p><strong>Vloga</strong> '+esc(roleInStory)+'</p></article>').join('')+'</div></section>';
+    return '<section class="cast-group"><h3>'+label+'</h3><div class="cast-grid">'+members.map(([key,name,traits,roleInStory,appearance,identity])=>
+      '<article class="cast-card'+(key.includes('*')?' cast-card--main':'')+'"><div><h4>'+esc(name)+'</h4><small>'+(key.includes('!')?'Nasprotna sila':key.includes('*')?'Glavna oseba':'Stranska oseba')+'</small></div><p class="cast-identity">'+esc(identity)+'</p><p><strong>Značaj</strong> '+esc(traits)+'</p>'+(appearance?'<p class="muted">'+esc(appearance)+'</p>':'')+'<p><strong>Vloga v delu</strong> '+esc(roleInStory)+'</p></article>').join('')+'</div></section>';
   }).join(''));
+}
+function periodTraitsPanel(traits) {
+  return card('Značilnosti literarnega obdobja','<ul class="study-points period-traits">'+traits.map(([label,example])=>
+    '<li><strong>'+esc(label)+'</strong><p>'+esc(example)+'</p></li>').join('')+'</ul>');
 }
 function work(w) {
   const info={...analysis[w.id],...editions[w.id],...study.works[w.id]};
   const person=people[w.author];
   const related=topics.filter(t=>t.related.includes(w.n));
   const marked=saved.includes(w.id);
-  const contacts=[info.edition,w.primary&&[w.primary,'Besedilo ali analiza'],w.detail?.url&&[w.detail.url,'Dodatna razlaga'],...(info.sources||[]),
+  const contacts=[info.edition,w.primary&&[w.primary,'Besedilo ali analiza'],w.detail?.url&&[w.detail.url,'Dodatna razlaga'],...(info.sources||[]),...(info.periodSources||[]),
     person?.bio&&[person.bio,'Življenjepis'],person?.extra&&[person.extra,'Dodatni življenjepis'],person?.credit&&[person.credit,'Vir portreta']].filter(Boolean);
   return '<div class="work-head">'+back('dela','Dela')+heading(w.title,'',w.era+' · '+w.genre)+
     '<button type="button" class="chip" id="save" aria-pressed="'+marked+'">'+(marked?'Odstrani zaznamek':'Dodaj zaznamek')+'</button><span id="save-status" role="status"></span></div>'+
     '<div class="work-layout">'+authorPanel(w,person)+(info.triangle?trianglePanel(info.stages||info.triangle):reader(w,info))+
     '<div class="stack analysis-column"><section class="analysis-heading"><h2>Analiza</h2></section>'+
-    paragraphCard('Razlaga',info.crit||info.readings||w.detail?.paragraphs)+castPanel(info.cast)+paragraphCard('Snov',info.material)+
+    paragraphCard('Razlaga',info.crit||info.readings||w.detail?.paragraphs)+periodTraitsPanel(info.periodTraits)+castPanel(info.cast)+paragraphCard('Snov',info.material)+
     paragraphCard('Zvrst in zgradba',info.genre||[w.form])+devicesPanel(info)+
     paragraphCard('Motivi',info.motifs)+paragraphCard('Tema in ideja',info.meaning||[w.theme])+
     links('Povezane teme',related.map(t=>link('tema',t)))+sourcePanel(contacts)+'</div></div>';

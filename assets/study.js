@@ -260,43 +260,77 @@ window.STUDY = {
           "P*",
           "Ahil",
           "Ponosen in izjemno sposoben bojevnik, zvest prijatelju.",
-          "S sporom zažene osrednje dogajanje, po Patroklovi smrti znova stopi v boj."
+          "S sporom zažene osrednje dogajanje, po Patroklovi smrti znova stopi v boj.",
+          null,
+          "Najmočnejši ahajski bojevnik, vodja Mirmidoncev in sin boginje Tetide."
         ],
         [
           "A*",
           "Hektor",
           "Odgovoren do Troje in vdan družini.",
-          "Premaga Patrokla in pade v dvoboju z Ahilom."
+          "Premaga Patrokla in pade v dvoboju z Ahilom.",
+          null,
+          "Trojanski princ, Priamov sin, Andromahin mož in glavni branilec Troje."
         ],
         [
           "A",
           "Agamemnon",
           "Oblasten in občutljiv na svoj položaj.",
-          "Z odvzemom Brizeide povzroči spor v ahajskem taboru."
+          "Z odvzemom Brizeide povzroči spor v ahajskem taboru.",
+          null,
+          "Mikenski kralj in vrhovni poveljnik ahajske vojske pred Trojo."
         ],
         [
           "S*",
           "Patroklos",
           "Sočuten do ranjenih tovarišev in odločen v boju.",
-          "Njegova smrt preusmeri Ahilovo jezo."
+          "Njegova smrt preusmeri Ahilovo jezo.",
+          null,
+          "Ahilov najbližji tovariš in bojevnik na ahajski strani."
         ],
         [
           "S",
           "Priam",
           "Zbere pogum, da obišče sovražnika.",
-          "Izprosi Hektorjevo truplo."
+          "Izprosi Hektorjevo truplo.",
+          null,
+          "Trojanski kralj in Hektorjev oče."
         ],
         [
           "S",
           "Andromaha",
           "Skrbi za moža in otroka, pozna ceno nadaljnje obrambe.",
-          "Pred bojem Hektorja spomni na družinske posledice."
+          "Pred bojem Hektorja spomni na družinske posledice.",
+          null,
+          "Hektorjeva žena in Astianaksova mati."
         ],
         [
           "S",
           "Tetida",
           "Kot mati poskuša obvarovati Ahilovo čast in življenje.",
-          "Prosi Zevsa za pomoč ter pozneje sinu prinese oklep."
+          "Prosi Zevsa za pomoč ter pozneje sinu prinese oklep.",
+          null,
+          "Morska boginja in Ahilova mati."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Junaški ideal",
+          "V antičnem epu čast junaka določa njegov položaj med bojevniki. Ahil se umakne iz boja, ko mu Agamemnon vzame Brizeido: razdelitev plena je javno znamenje ugleda."
+        ],
+        [
+          "Bogovi v človeškem svetu",
+          "Grški bogovi posegajo v spopad in podpirajo različne strani. Tetida prosi Zevsa za pomoč Ahilu, zato spor med poveljnikoma vpliva na potek vojne."
+        ],
+        [
+          "Sledi ustnega epa",
+          "Ustaljeni pridevki in ponavljajoči se prizori so del epskega načina pripovedovanja. Ahila večkrat označuje hitrost njegovih nog, tudi kadar v prizoru ne teče."
+        ]
+      ],
+      "periodSources": [
+        [
+          "https://eucbeniki.sio.si/slo1/2421/index3.html",
+          "Antična književnost · e-učbenik"
         ]
       ]
     },
@@ -305,6 +339,16 @@ window.STUDY = {
         "Moški s svojo mirno bližino postane merilo govorkine stiske. Razlika med njegovim poslušanjem in njeno izgubo glasu pokaže, da isti družabni prizor vsak doživi drugače.",
         "Zaznavanje se podira od govora do sluha, vida in gibanja. Kratki sklepni verz o nemih ustih že z obliko uresniči občutek prekinitve.",
         "Zadnja ohranjena vrstica nakazuje možen obrat k vztrajanju. Fragment se prekine, preden izvemo, kako bi govorka to držo razvila."
+      ],
+      "periodTraits": [
+        [
+          "Osebni glas arhaične lirike",
+          "Govorka izraža izkušnjo v prvi osebi. Pogled na ljubljeno osebo se razgrne prek telesnih znakov, denimo prek izgube glasu in drhtenja."
+        ],
+        [
+          "Pesem in glasba",
+          "Grška arhaična lirika je bila izvajana ob glasbi. V izvirniku se dolžine in ritem verzov urejajo v ponavljajočo se sapfiško kitico s krajšim sklepnim verzom."
+        ]
       ]
     },
     "3": {
@@ -312,6 +356,16 @@ window.STUDY = {
         "Horacij postavi skrb za prihodnost v kontekst znamenj in božje odločitve. Nasvet o vinu preseli pozornost na ravnanje, ki ga človek lahko izbere v tem trenutku.",
         "Uvodne prepovedi in sklepni velelnik ustvarijo premik od omejitve k dejanju. Najostrejši dokaz bega časa je sam pogovor: medtem ko se pogovarjata, čas že odteka.",
         "Latinski carpe vabi k obiranju, kakor da je dan dozorel sadež. Gantarjev »užij« bolj neposredno poudari izkušnjo sedanjosti."
+      ],
+      "periodTraits": [
+        [
+          "Rimska predelava grške lirike",
+          "Horacij grško metrično izročilo uporabi v latinski odi. Izvirnik je sestavljen v asklepiadskih verzih, slovenski prevod pa misel prenese v drugačni metrični obliki."
+        ],
+        [
+          "Premislek o dobrem življenju",
+          "Antična etična misel se pokaže v vsakdanjem nasvetu. Govorec Leukonoo odvrne od vedeževanja ter ji predlaga, naj zajame vino in izkoristi dan."
+        ]
       ]
     },
     "4": {
@@ -346,44 +400,71 @@ window.STUDY = {
           "P*",
           "Ojdip",
           "Odločen, hiter pri sodbi, vztrajen pri iskanju podatkov.",
-          "Odpre preiskavo in izpelje razkritje lastnega rodu."
+          "Odpre preiskavo in izpelje razkritje lastnega rodu.",
+          null,
+          "Tebanski kralj, Jokastin mož ter biološki sin Laja in Jokaste."
         ],
         [
           "A!",
           "Prerokba",
           "Predpove očetomor in poroko z materjo.",
-          "Ustvari pogoj, ob katerem se Ojdipovo in Lajevo izogibanje prihodnosti izjalovi."
+          "Ustvari pogoj, ob katerem se Ojdipovo in Lajevo izogibanje prihodnosti izjalovi.",
+          null,
+          "Apolevo svarilo o očetomoru in zakonski zvezi z materjo."
         ],
         [
           "S*",
           "Jokasta",
           "Praktična in sprva nezaupljiva do prerokb.",
-          "Prva poveže pričevanja in poskuša ustaviti preiskavo."
+          "Prva poveže pričevanja in poskuša ustaviti preiskavo.",
+          null,
+          "Tebanska kraljica in Lajeva vdova, pozneje Ojdipova žena."
         ],
         [
           "S",
           "Tejrezias",
           "Zadržan in neodvisen od kraljevega pritiska.",
           "Prvi izgovori ime storilca.",
-          "Slep videc."
+          "Slep videc.",
+          "Slepi tebanski vedež."
         ],
         [
           "S",
           "Kreon",
           "Pri obtožbah mirno zagovarja svoj položaj.",
-          "Prinese delfski ukaz in po razkritju prevzame odločanje."
+          "Prinese delfski ukaz in po razkritju prevzame odločanje.",
+          null,
+          "Jokastin brat in član tebanske vladarske družine."
         ],
         [
           "S",
           "Korintski sel",
           "Nosi dobro novico in želi Ojdipa razbremeniti skrbi.",
-          "Razkrije, da ga je Polib vzgojil kot posvojenega otroka."
+          "Razkrije, da ga je Polib vzgojil kot posvojenega otroka.",
+          null,
+          "Glasnik iz Korinta, ki je kot pastir nekoč prejel zapuščenega Ojdipa."
         ],
         [
           "S",
           "Tebanski pastir",
           "Okleva, ker pozna težo svojega pričevanja.",
-          "Potrdi, od kod je prišel otrok iz Lajeve hiše."
+          "Potrdi, od kod je prišel otrok iz Lajeve hiše.",
+          null,
+          "Nekdanji Lajev služabnik in priča napada na Laja."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Usoda in človekovo ravnanje",
+          "Preroško svarilo poganja antično tragedijo: Ojdip zaradi njega zapusti Korint in tako stopi na pot, na kateri se prerokba uresniči."
+        ],
+        [
+          "Prepoznanje in preobrat",
+          "Pričevanji sla in pastirja spremenita smer preiskave. Kralj, ki je iskal krivca za nesrečo mesta, prepozna v njem samega sebe."
+        ],
+        [
+          "Zbor kot glas skupnosti",
+          "Tebanski zbor se odziva na vladarjeve odločitve in mestno nesrečo. Po razkritju se Ojdipov vzpon in padec pokažeta kot primer negotovosti človeške sreče."
         ]
       ]
     },
@@ -420,37 +501,59 @@ window.STUDY = {
           "P*",
           "Antigona",
           "Odločna, ponosna in zvesta pogrebni dolžnosti.",
-          "Pokoplje brata in pred Kreonom zagovarja dejanje."
+          "Pokoplje brata in pred Kreonom zagovarja dejanje.",
+          null,
+          "Ojdipova hči, Polinejkova sestra in Hajmonova zaročenka."
         ],
         [
           "A*",
           "Kreon",
           "Strog, občutljiv na ugovor in zavezan svojemu pojmovanju reda.",
-          "Prepove pokop ter spreminja odločitev šele ob Tejrezijevi grožnji."
+          "Prepove pokop ter spreminja odločitev šele ob Tejrezijevi grožnji.",
+          null,
+          "Tebanski kralj po smrti Eteokla in Polinejka, Antigonin stric in Hajmonov oče."
         ],
         [
           "S",
           "Ismena",
           "Previdna in zaskrbljena za preostalo družino.",
-          "Odkloni sodelovanje, pozneje želi deliti sestrino krivdo."
+          "Odkloni sodelovanje, pozneje želi deliti sestrino krivdo.",
+          null,
+          "Antigonina sestra in Ojdipova hči."
         ],
         [
           "S",
           "Hajmon",
           "Zvest Antigoni, sprva išče prepričljiv pogovor z očetom.",
-          "Prenese glas meščanov in izgubi življenje v grobnici."
+          "Prenese glas meščanov in izgubi življenje v grobnici.",
+          null,
+          "Kreonov in Evridikin sin ter Antigonin zaročenec."
         ],
         [
           "S",
           "Tejrezias",
           "Premišljen in odločen v svarilu.",
-          "Opiše posledice oskrunitve ter doseže Kreonov obrat."
+          "Opiše posledice oskrunitve ter doseže Kreonov obrat.",
+          null,
+          "Slepi tebanski vedež, ki kralju razlaga znamenja bogov."
         ],
         [
           "S",
           "Evridika",
           "Ob novici navzven zadržana.",
-          "Njena smrt razširi Kreonovo izgubo na kraljevo hišo."
+          "Njena smrt razširi Kreonovo izgubo na kraljevo hišo.",
+          null,
+          "Tebanska kraljica, Kreonova žena in Hajmonova mati."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Polis in nenapisani zakoni",
+          "Spor zadeva vso skupnost. Kreon prepove pokop napadalca zaradi reda v mestu, Antigona pa Polinejka pokoplje zaradi dolžnosti do mrtvega in bogov."
+        ],
+        [
+          "Tragični obrat in zbor",
+          "Tejreziasovo svarilo prisili Kreona, da spremeni ukaz, vendar pride do grobnice prepozno. Zbor tebanskih starešin dogajanje spremlja tudi z razmislekom o mejah človeške moči."
         ]
       ]
     },
@@ -469,19 +572,41 @@ window.STUDY = {
           "P*",
           "Mlajši sin",
           "Ob odhodu je nepremišljen, pozneje sposoben priznati svoj delež krivde.",
-          "Vrne se in sproži vprašanje odpuščanja."
+          "Vrne se in sproži vprašanje odpuščanja.",
+          null,
+          "Mlajši od dveh dedičev, ki od očeta vnaprej zahteva svoj delež."
         ],
         [
           "S*",
           "Oče",
           "Dejaven in radodaren do obeh sinov.",
-          "Prvega sprejme, drugega pa osebno povabi v hišo."
+          "Prvega sprejme, drugega pa osebno povabi v hišo.",
+          null,
+          "Poglavar premožnega gospodinjstva, oče dveh sinov."
         ],
         [
           "A*",
           "Starejši sin",
           "Delaven in občutljiv za pravično odmero nagrade.",
-          "Z ugovorom predstavi drugačno razumevanje poštenosti."
+          "Z ugovorom predstavi drugačno razumevanje poštenosti.",
+          null,
+          "Starejši dedič, ki ostane pri očetu in dela na njegovem posestvu."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Prilika zgodnjega krščanstva",
+          "Besedilo spada v antični čas kot novozavezna prilika. Iz vsakdanjega razmerja med očetom in otrokoma oblikuje prispodobo za spreobrnjenje in odpuščanje."
+        ],
+        [
+          "Spor o sprejetju",
+          "Dialog s starejšim sinom odpre vprašanje, zakaj ima vrnitev izgubljenega prednost pred računanjem zaslug. V Lukovem evangeliju Jezus priliko pove po očitku, da sprejema grešnike."
+        ]
+      ],
+      "periodSources": [
+        [
+          "https://www.biblegateway.com/passage/?search=Luke%2015%3A1-32&version=NRSVUE",
+          "Lukov evangelij 15,1–32 · okvir prilike"
         ]
       ]
     },
@@ -501,43 +626,77 @@ window.STUDY = {
           "P*",
           "Dante popotnik",
           "Sprva zmeden in prestrašen, pozneje natančnejši pri presoji.",
-          "Z njegovim učenjem se spreminja smisel potovanja."
+          "Z njegovim učenjem se spreminja smisel potovanja.",
+          null,
+          "Izmišljena podoba pesnika Danteja, živ človek na poti skozi onstranstvo."
         ],
         [
           "A!",
           "Tri zveri in grešna nagnjenja",
           "Zveri dajejo oviram vidno podobo.",
-          "Zaprejo neposredno pot in sprožijo potovanje z vodnikom."
+          "Zaprejo neposredno pot in sprožijo potovanje z vodnikom.",
+          null,
+          "Zveri na začetku Pekla, pogosto brane kot alegorične ovire na duhovni poti."
         ],
         [
           "S*",
           "Vergil",
           "Razumsko pojasnjuje in varuje popotnika na poti.",
-          "Vodi skozi pekel in vice."
+          "Vodi skozi pekel in vice.",
+          null,
+          "Antični rimski pesnik in duša iz limba, Danteju poslan kot vodnik."
         ],
         [
           "S*",
           "Beatrice",
           "Odločno povezuje vednost z vero in ljubeznijo.",
-          "V zemeljskem raju prevzame vodstvo in spremlja Danteja v raj."
+          "V zemeljskem raju prevzame vodstvo in spremlja Danteja v raj.",
+          null,
+          "Pokojna Dantejeva ljubljena, v pesnitvi blažena duša in vodnica."
         ],
         [
           "S",
           "Francesca",
           "Svojo ljubezen razlaga z govorico dvorne lirike.",
-          "Popotnika sooči z močjo sočutja do obsojenih."
+          "Popotnika sooči z močjo sočutja do obsojenih.",
+          null,
+          "Francesca da Rimini, žena Giovannija Malateste in ena od duš v drugem krogu pekla."
         ],
         [
           "S",
           "Paolo",
           "Ob Francescini pripovedi molči in joka.",
-          "Njegova gesta dopolni njen govor."
+          "Njegova gesta dopolni njen govor.",
+          null,
+          "Paolo Malatesta, Giovannijev brat in Francescin ljubimec."
         ],
         [
           "S",
           "Bernard",
           "Zbran in usmerjen v kontemplacijo.",
-          "Danteja pripravi na sklepno videnje."
+          "Danteja pripravi na sklepno videnje.",
+          null,
+          "Sveti Bernard iz Clairvauxa, cistercijanski opat in Dantejev zadnji vodnik."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Krščanska ureditev onstranstva",
+          "Srednjeveško predstavo o moralnem redu uteleša razporeditev pekla, vic in raja. Francesca in Paolo sta denimo v drugem krogu, kjer vrtinec nosi duše, izročene poželenju."
+        ],
+        [
+          "Alegorično potovanje",
+          "Zgodba o izgubi poti v temnem gozdu ima tudi duhovni pomen. Vergilovo vodstvo in poznejši prevzem vloge Beatrice kažeta različne načine spoznavanja."
+        ],
+        [
+          "Povezovanje antike in krščanstva",
+          "Vergil je cenjeni pesniški vzor in vodnik, kot pogan pa sam ostane v limbu. Njegov položaj pokaže, kako pesnitev hkrati uporablja in omejuje antično izročilo."
+        ]
+      ],
+      "periodSources": [
+        [
+          "https://eucbeniki.sio.si/slo1/2457/index4.html",
+          "Srednjeveška književnost · e-učbenik"
         ]
       ]
     },
@@ -546,6 +705,16 @@ window.STUDY = {
         "Ponavljajoči se blagoslov posveti srečanje in rano. Govor, podoben molitvi, je namenjen tudi očem, vzdihom in pesnikovim besedam.",
         "Amorjev lok iz pogleda naredi telesno rano. Grenkoba in sladkost sta v enem vzdihu, zato je bolečina vpisana v samo ljubezensko izkušnjo.",
         "V zadnji tercini nastopi pisanje. Enkratno srečanje se spremeni v navado spominjanja, iz katere nastanejo verzi."
+      ],
+      "periodTraits": [
+        [
+          "Oblikovanje zgodnje renesančne lirike",
+          "Petrarca v sonetnem okviru po svoje uporabi starejše izročilo opevanja nedosegljive ljubljene. Dva kvarteta in dve tercini uredijo zaporedje blagoslovov."
+        ],
+        [
+          "Opazovanje lastne notranjosti",
+          "Govorec obnavlja, kako se je zaljubil in kako zdaj doživlja to ljubezen. Blagoslavlja tako prvi vzdih kakor rane in solze, zato je občutje hkrati prijetno in boleče."
+        ]
       ]
     },
     "9": {
@@ -563,31 +732,55 @@ window.STUDY = {
           "P*",
           "Federigo",
           "Časten, velikodušen in sprva gmotno nepremišljen.",
-          "Sokolovo žrtev opravi iz gostoljubja."
+          "Sokolovo žrtev opravi iz gostoljubja.",
+          null,
+          "Federigo degli Alberighi, obubožani florentinski plemič in nekdanji Giovannin snubec."
         ],
         [
           "P*",
           "Giovanna",
           "Skrbna do sina in samostojna pri izbiri moža.",
-          "Obisk in sklepna izbira vodita preobrata novele."
+          "Obisk in sklepna izbira vodita preobrata novele.",
+          null,
+          "Monna Giovanna, plemkinja, vdova in mati bolnega sina."
         ],
         [
           "A!",
           "Bolezen in pomanjkanje",
           "Otrokovo zdravje se slabša, Federigo ima malo sredstev.",
-          "Zaradi obeh omejitev postaneta njegova gesta in njena prošnja nezdružljivi."
+          "Zaradi obeh omejitev postaneta njegova gesta in njena prošnja nezdružljivi.",
+          null,
+          "Sinova bolezen in Federigova revščina, ki omejita ravnanje obeh odraslih."
         ],
         [
           "S",
           "Giovannin sin",
           "Med boleznijo si vztrajno želi sokola.",
-          "Njegova prošnja sproži materin obisk."
+          "Njegova prošnja sproži materin obisk.",
+          null,
+          "Edini otrok vdove Giovanne, ki se na podeželju spoprijatelji s Federigom."
         ],
         [
           "S",
           "Giovannini bratje",
           "Na ponovno poroko gledajo praktično.",
-          "Njihov pritisk pripravi okvir za Giovannino izbiro."
+          "Njihov pritisk pripravi okvir za Giovannino izbiro.",
+          null,
+          "Giovannini sorodniki iz premožne družine, ki jo nagovarjajo k ponovni poroki."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Posvetni svet zgodnje renesanse",
+          "Ljudje ravnajo v okoliščinah denarja, posesti in poroke. Giovannini bratje pričakujejo novo poroko, ona pa med snubci izbere obubožanega Federiga."
+        ],
+        [
+          "Razčlenjene človeške odločitve",
+          "Darilo je utemeljeno z značajem in napačno domnevo. Federigo ne ve, zakaj je Giovanna prišla, zato ji iz gostoljubnosti postreže prav sokola, ki ga želi odnesti sinu."
+        ],
+        [
+          "Novela in odločilni predmet",
+          "Sokol najprej pomeni ostanek plemiškega življenja, nato postane obrok in naposled dokaz velikodušnosti. Zgoščeno dogajanje s tem predmetom poveže dve družbeni usodi."
         ]
       ]
     },
@@ -625,61 +818,94 @@ window.STUDY = {
           "Hamlet",
           "Bister in nezaupljiv, zmožen razmisleka in nenadnega nasilja.",
           "Preveri izpoved duha in skuša maščevati očeta.",
-          "Na začetku nosi žalna oblačila."
+          "Na začetku nosi žalna oblačila.",
+          "Danski princ, sin pokojnega kralja Hamleta in kraljice Gertrude."
         ],
         [
           "A*",
           "Klavdij",
           "Spreten politik, zasebno se zaveda teže svojega zločina.",
-          "Skrije umor in pripravi odstranitev Hamleta."
+          "Skrije umor in pripravi odstranitev Hamleta.",
+          null,
+          "Novi danski kralj, Hamletov stric in Gertrudin drugi mož."
         ],
         [
           "A",
           "Laert",
           "Odkrito jezen in hiter pri maščevanju.",
-          "Sprejme zastrupljeno orožje, nato razkrije zaroto."
+          "Sprejme zastrupljeno orožje, nato razkrije zaroto.",
+          null,
+          "Polonijev sin in Ofelijin brat."
         ],
         [
           "S*",
           "Ofelija",
           "Uboga očeta in je izpostavljena nasprotujočim si zahtevam.",
-          "Očetova smrt razkrije posledice princovega dejanja zunaj kraljeve družine."
+          "Očetova smrt razkrije posledice princovega dejanja zunaj kraljeve družine.",
+          null,
+          "Polonijeva hči in Laertova sestra, v ljubezenskem odnosu s Hamletom."
         ],
         [
           "S*",
           "Gertruda",
           "Išče mir na dvoru in skuša govoriti s sinom.",
-          "Njena poroka in zastrupitev povezujeta začetek s koncem drame."
+          "Njena poroka in zastrupitev povezujeta začetek s koncem drame.",
+          null,
+          "Danska kraljica, Hamletova mati in žena dveh zaporednih kraljev."
         ],
         [
           "S",
           "Polonij",
           "Zgovoren in nagnjen k nadzoru.",
-          "Organizira prisluškovanje in umre v skrivanju za zaveso."
+          "Organizira prisluškovanje in umre v skrivanju za zaveso.",
+          null,
+          "Kraljevi svetovalec, oče Laerta in Ofelije."
         ],
         [
           "S",
           "Horacij",
           "Zanesljiv prijatelj in pozoren opazovalec.",
-          "Pomaga pri opazovanju Klavdija in preživi kot priča."
+          "Pomaga pri opazovanju Klavdija in preživi kot priča.",
+          null,
+          "Hamletov prijatelj in znanec iz študijskega okolja v Wittenbergu."
         ],
         [
           "S",
           "Fortinbras",
           "Dosleden pri političnih ciljih in vojaškem delovanju.",
-          "Po smrti danske kraljeve družine prevzame oblast."
+          "Po smrti danske kraljeve družine prevzame oblast.",
+          null,
+          "Norveški princ in sin pokojnega norveškega kralja Fortinbrasa."
         ],
         [
           "S",
           "Rosencrantz",
           "Sodeluje s kraljem pri opazovanju nekdanjega prijatelja.",
-          "Spremlja Hamleta na poti v Anglijo."
+          "Spremlja Hamleta na poti v Anglijo.",
+          null,
+          "Hamletov nekdanji prijatelj, ki ga danski dvor pokliče za posrednika."
         ],
         [
           "S",
           "Guildenstern",
           "Skupaj z Rosencrantzem sprejme dvorno nalogo.",
-          "Potuje s princem in poskuša odkriti, kaj ta ve."
+          "Potuje s princem in poskuša odkriti, kaj ta ve.",
+          null,
+          "Hamletov nekdanji prijatelj, ki skupaj z Rosencrantzem dobi naročilo kraljevega para."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Renesančno vprašanje človeškega delovanja",
+          "Hamlet v samogovorih pretresa, kaj človeka zadrži pred dejanjem. Dvom o posledicah in o tem, kar sledi smrti, postane del dramskega dejanja."
+        ],
+        [
+          "Elizabetinska odrska raznolikost",
+          "Tragedija združi dvor, prikazen, odrsko igro in prizor z grobarjema. Grobarjeva besedna igra se dotakne smrti iz drugega družbenega položaja kot Hamletov samogovor."
+        ],
+        [
+          "Gledališče presoja resnico",
+          "Hamlet da igralcem uprizoriti zločin, podoben očetovemu umoru. Klavdijev odziv mu služi kot preizkus pripovedi, ki jo je slišal od duha."
         ]
       ]
     },
@@ -715,49 +941,81 @@ window.STUDY = {
           "P*",
           "Elmira",
           "Mirna, praktična in sposobna voditi pogovor pod pritiskom.",
-          "Izvede preizkus, v katerem se Tartuffe izda."
+          "Izvede preizkus, v katerem se Tartuffe izda.",
+          null,
+          "Orgonova žena in mačeha Damisa ter Mariane."
         ],
         [
           "P*",
           "Orgon",
           "Zaslepljen in oblasten, zato dolgo vztraja pri svoji presoji.",
-          "Omogoči prevaro, nato poskuša omejiti njene posledice."
+          "Omogoči prevaro, nato poskuša omejiti njene posledice.",
+          null,
+          "Premožen gospodar hiše, Elmirin mož in Tartuffov gostitelj."
         ],
         [
           "A*",
           "Tartuffe",
           "Preračunljiv, v javnosti igra skromnost.",
-          "S pomočjo verskega slovarja pridobi vpliv in premoženje."
+          "S pomočjo verskega slovarja pridobi vpliv in premoženje.",
+          null,
+          "Orgonov varovanec in gost, ki nastopa kot izredno pobožen človek."
         ],
         [
           "S",
           "Dorina",
           "Bistra in neposredna.",
-          "Izgovori ugovore, ki jih gospodinjstvo težko pove na glas."
+          "Izgovori ugovore, ki jih gospodinjstvo težko pove na glas.",
+          null,
+          "Marianina služkinja."
         ],
         [
           "S",
           "Mariana",
           "Naklonjena Valerju, pred očetom pogosto zadržana.",
-          "Zaradi načrtovane poroke pokaže doseg Orgonove oblasti."
+          "Zaradi načrtovane poroke pokaže doseg Orgonove oblasti.",
+          null,
+          "Orgonova hči in Valerjeva izbranka."
         ],
         [
           "S",
           "Valer",
           "Zaljubljen, a sprva hitro prizadet ob novici o poroki.",
-          "Predstavlja izbrano zvezo, ki jo družina na koncu znova lahko uredi."
+          "Predstavlja izbrano zvezo, ki jo družina na koncu znova lahko uredi.",
+          null,
+          "Marianin snubec."
         ],
         [
           "S",
           "Damis",
           "Zaletav v prepričanju, da bo njegovo pričevanje zadostovalo.",
-          "Razkrije Tartuffovo ravnanje in izgubi očetovo podporo."
+          "Razkrije Tartuffovo ravnanje in izgubi očetovo podporo.",
+          null,
+          "Orgonov sin in Marianin brat."
         ],
         [
           "S",
           "Gospa Pernelle",
           "Zagovarja Tartuffa in je nezaupljiva do ostalih.",
-          "Podaljša prevarančevo veljavo v hiši."
+          "Podaljša prevarančevo veljavo v hiši.",
+          null,
+          "Orgonova mati in babica Damisa ter Mariane."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Francoska klasicistična komedija",
+          "Dogajanje je zgoščeno okoli ene hiše in osrednje prevare. Družinski spor, ogrožena poroka in izguba premoženja izvirajo iz Orgonovega zaupanja Tartuffu."
+        ],
+        [
+          "Komika značaja in nravi",
+          "Tartuffova hlinjena pobožnost je prepoznavna po razliki med govorom in ravnanjem. Prizor, v katerem Orgon pod mizo posluša snubljenje Elmire, to razliko razkrije tudi njemu."
+        ]
+      ],
+      "periodSources": [
+        [
+          "https://eucbeniki.sio.si/slo1/2426/index.html",
+          "Evropski klasicizem · e-učbenik"
         ]
       ]
     },
@@ -776,31 +1034,61 @@ window.STUDY = {
           "P*",
           "Vida",
           "Razpeta med skrbjo za domače in obljubo drugačnega življenja.",
-          "Njen odhod in hrepenenje povezujeta balado."
+          "Njen odhod in hrepenenje povezujeta balado.",
+          null,
+          "Žena in mati bolnega otroka, ki jo pot od doma pripelje na tuji dvor."
         ],
         [
           "A",
           "Tujec",
           "Ponekod zavaja, drugod predvsem ponuja odhod.",
-          "Omogoči prehod čez morje."
+          "Omogoči prehod čez morje.",
+          null,
+          "Moški na ladji, ki Vidi ponudi odhod čez morje."
         ],
         [
           "S",
           "Vidin mož",
           "V delu različic je ob njenem odhodu prizadet in jo išče.",
-          "Predstavlja dom, o katerem Vida poizveduje."
+          "Predstavlja dom, o katerem Vida poizveduje.",
+          null,
+          "Vidin mož in oče otroka, ki po njenem odhodu ostane doma."
         ],
         [
           "S",
           "Vidin otrok",
           "Majhen in odvisen od materine skrbi.",
-          "Vida v novem okolju primerja njegovo izgubo s svojo dnevno službo."
+          "Vida v novem okolju primerja njegovo izgubo s svojo dnevno službo.",
+          null,
+          "Bolan otrok, za katerega Vida skrbi pred odhodom."
         ],
         [
           "S",
           "Kraljica in njen otrok",
           "Kraljica potrebuje dojiljo, otrok pa njeno nego.",
-          "Na dvoru ustvarita okoliščine, ki Vido spominjajo na dom."
+          "Na dvoru ustvarita okoliščine, ki Vido spominjajo na dom.",
+          null,
+          "Gospodarica tujega dvora in otrok, ki ga tam doji Vida."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Ustno izročilo in različice",
+          "Ljudsko balado poznamo v več zapisih. Od različice je odvisno, ali Vida odide zaradi prevare ali na ponujeni odhod pristane, zato se spremeni branje njene odgovornosti."
+        ],
+        [
+          "Obrazci ljudske pesmi",
+          "Ponavljanja, stalni pridevki in dvogovor pomagajo zgraditi ter ohraniti zgodbo. Vida ogovori rumeno sonce in skuša tako izvedeti, kaj je z možem in otrokom."
+        ],
+        [
+          "Preplet pripovedi in lirike",
+          "Pot čez morje in delo na dvoru tvorita pripoved. Vidini nagovori soncu in luni pa ohranjajo v ospredju njeno hrepenenje po domu."
+        ]
+      ],
+      "periodSources": [
+        [
+          "https://eucbeniki.sio.si/slo1/2670/index.html",
+          "Ustno izročilo in ljudske pesmi · e-učbenik"
         ]
       ]
     },
@@ -837,49 +1125,81 @@ window.STUDY = {
           "P*",
           "Matiček",
           "Duhovit, iznajdljiv in z občutkom za protislovja v jeziku.",
-          "Brani poroko, doseže prepoznanje in sodeluje pri razkritju barona."
+          "Brani poroko, doseže prepoznanje in sodeluje pri razkritju barona.",
+          null,
+          "Graščinski vrtnar in baronov služabnik, Nežkin zaročenec."
         ],
         [
           "P*",
           "Nežka",
           "Pronicljiva in odločna pri preprečevanju baronovega načrta.",
-          "Gospo pridobi za zaveznico in sodeluje pri zamenjavi oblek."
+          "Gospo pridobi za zaveznico in sodeluje pri zamenjavi oblek.",
+          null,
+          "Graščinska hišna služkinja in Matičkova zaročenka."
         ],
         [
           "A*",
           "Baron",
           "Vzvišen in prepričan, da mu položaj zagotavlja zasebno poslušnost.",
-          "Izkorišča sobo, doto in pravdo za poseganje v poroko."
+          "Izkorišča sobo, doto in pravdo za poseganje v poroko.",
+          null,
+          "Baron Naletel, graščak in gospodar Matička ter Nežke."
         ],
         [
           "S*",
           "Gospa",
           "Užaljena zaradi moževega vedenja, vendar dejavna in potrpežljiva.",
-          "V Nežkini obleki omogoči, da se baron izda."
+          "V Nežkini obleki omogoči, da se baron izda.",
+          null,
+          "Baronica, žena barona Naletela."
         ],
         [
           "S",
           "Žužek",
           "Grajski uradnik, rad je pri postopku navzoč.",
-          "Ob prepoznanju se izkaže za Matičkovega očeta."
+          "Ob prepoznanju se izkaže za Matičkovega očeta.",
+          null,
+          "Graščinski kancelir in Matičkov biološki oče."
         ],
         [
           "S",
           "Smrekarica",
           "Odločna pri izterjavi dogovorjenega denarja.",
-          "S tožbo ogrozi poroko, nato se izkaže za Matičkovo mater."
+          "S tožbo ogrozi poroko, nato se izkaže za Matičkovo mater.",
+          null,
+          "Ženska, pri kateri se je Matiček zadolžil, pozneje prepoznana kot njegova mati."
         ],
         [
           "S",
           "Tonček",
           "Zaletav mladenič, ki ga privlačita ljubezen in dvorno dogajanje.",
-          "Njegovo skrivališče razgiba drugo dejanje."
+          "Njegovo skrivališče razgiba drugo dejanje.",
+          null,
+          "Mladi študent, ki se zadržuje na graščini."
         ],
         [
           "S",
           "Zmešnjava",
           "Advokat, ki se zanaša na uradno besedičenje.",
-          "Zastopa Smrekarico pri pravdi."
+          "Zastopa Smrekarico pri pravdi.",
+          null,
+          "Podeželski advokat."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Razsvetljenska kritika privilegijev",
+          "Baron uporablja družbeni položaj za poseg v služabnikovo poroko. Matiček in Nežka mu lahko kljubujeta z razlago pogodbe, domislico in sodelovanjem."
+        ],
+        [
+          "Slovensko posvetno gledališče",
+          "Linhart francosko komedijo prestavi na gorenjsko graščino. Prizor pravde sooči govor domačih oseb z učenim in slabo razumljivim uradnim jezikom."
+        ]
+      ],
+      "periodSources": [
+        [
+          "https://www.mgl.si/en/shows/the-marry-day-or-the-marriage-of-maticek/",
+          "Matiček · osebe in priredba, MGL"
         ]
       ]
     },
@@ -895,19 +1215,39 @@ window.STUDY = {
           "P*",
           "Harold",
           "Odtujen in ponosen mlad plemič, nemiren na poti.",
-          "Njegovo potovanje ponuja okvir za različne pokrajine in premisleke."
+          "Njegovo potovanje ponuja okvir za različne pokrajine in premisleke.",
+          null,
+          "Mladi angleški plemič, ki zapusti domovino in potuje po Evropi."
         ],
         [
           "S",
           "Govorec v odlomkih",
           "Ocenjuje družbo in zgodovino, včasih govori povsem osebno.",
-          "Pri Renu, morju in v slovesu usmerja pogled ob popotnikovih doživetjih."
+          "Pri Renu, morju in v slovesu usmerja pogled ob popotnikovih doživetjih.",
+          null,
+          "Pesniški glas, ki premišljuje ob pokrajinah in zgodovinskih prizorih."
         ],
         [
           "A!",
           "Družbeni pritisk",
           "Od govorca pričakuje prilagajanje, ki ga dojema kot laskanje.",
-          "Ustvari odtujenost, po kateri se prepozna byronski junak."
+          "Ustvari odtujenost, po kateri se prepozna byronski junak.",
+          null,
+          "Pričakovanje, da se posameznik prilagodi družbi, od katere se govorec odmika."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Byronski junak",
+          "Harold je plemič, ki se odmakne od družbe in odpotuje. V odlomku Samota je ta romantična odtujenost izražena kot osamljenost sredi ljudi."
+        ],
+        [
+          "Vzvišena narava",
+          "V Morju je ocean mogočen in nevaren, govorca pa kljub temu privlači. Njegova moč sega onkraj nadzora, ki ga lahko človek uveljavi na kopnem."
+        ],
+        [
+          "Pogled v preteklost",
+          "Razvaline ob Renu sprožijo premislek o viteštvu, nekdanjih bojih in pozabi. Pokrajina tako povezuje zgodovinski prizor z osebnim razmišljanjem."
         ]
       ]
     },
@@ -915,6 +1255,16 @@ window.STUDY = {
       "crit": [
         "Jadro se najprej vidi kot majhna točka, nato dobi z vprašanjema človeško željo po odhodu. Pokrajina postane prostor, kamor opazovalec položi misel o lastnem nemiru.",
         "Mirni prizor zadnje kitice pride po viharju. Jadro ima na dosegu prav tisto, kar bi drugi imeli za cilj, vendar želi prav burjo, v kateri more občutiti pobudo."
+      ],
+      "periodTraits": [
+        [
+          "Romantični nemir",
+          "Jadro se ob koncu usmeri k viharju. Mirno morje mu ne zadostuje, zato njegova pot ponazarja romantično željo po preseganju danega."
+        ],
+        [
+          "Narava kot podoba notranjosti",
+          "Sončni sij in mirna gladina stojita ob podobi upornega jadra. Nasprotje med vremenom in njegovo željo omogoča branje jadra kot simbola osamljenega iskalca."
+        ]
       ]
     },
     "16": {
@@ -928,20 +1278,35 @@ window.STUDY = {
           "P*",
           "Čolnar",
           "Ob petju ga prevzameta otožnost in radovednost.",
-          "Zaradi pogleda navzgor ne opazi čeri."
+          "Zaradi pogleda navzgor ne opazi čeri.",
+          null,
+          "Moški, ki pluje po Renu pod pečino."
         ],
         [
           "A*",
           "Lorelaj",
           "Očarljiva pevka na gorskem grebenu.",
           "Njen glas preusmeri čolnarjevo pozornost.",
-          "Zlati lasje in nakit, zlati glavnik."
+          "Zlati lasje in nakit, zlati glavnik.",
+          "Skrivnostna pevka na pečini nad Renom, postava iz pripovedne legende."
         ],
         [
           "S",
           "Pripovedovalec",
           "Žalosten in zatopljen v staro zgodbo.",
-          "Vzpostavi okvir pripovedi in na koncu njeno usodo poda kot domnevo."
+          "Vzpostavi okvir pripovedi in na koncu njeno usodo poda kot domnevo.",
+          null,
+          "Prvoosebni glas, ki ga stara zgodba preganja in jo pove v pesmi."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Romantična folklorna snov",
+          "Heine pesem uvede s staro zgodbo o pevki nad Renom. Legendarna postava in resnična rečna pokrajina se združita v isti prizor."
+        ],
+        [
+          "Skrivnostna moč lepote",
+          "Večerna svetloba, zlati lasje in petje pritegnejo čolnarja. Čolnar zaradi tega gleda proti pečini in spregleda čeri, zato se občudovanje spremeni v nevarnost."
         ]
       ]
     },
@@ -950,6 +1315,16 @@ window.STUDY = {
         "Pogojne oblike o domu, ženi in mirni barki pokažejo, da si govorec predstavlja preteklost, ki je nikoli ni živel. Izguba zato obsega tudi zamišljeno prihodnost.",
         "Peti sonet razporedi stisko v ječo s služabniki. Ključ, vrata in cesta ponudijo izhod, ponavljanje »tje« pa pot podaljšuje do groba kot postelje.",
         "Šesti sonet preizkusi čustveno otrplost. Tnalo prenese udarec in božanje, obenem pa ob izgubi strahu izgine tudi upanje. Zmes teh posledic določa ceno obrambe."
+      ],
+      "periodTraits": [
+        [
+          "Romantični razkol z življenjem",
+          "Izkušnjo nemira oblikujejo podobe doma in sveta. V prvem sonetu se govorec obrne k domu, v petem pa življenje nagovori kot ječo in čas kot rablja."
+        ],
+        [
+          "Notranja izkušnja v strogi obliki",
+          "Cikel romantično izpoved oblikuje v sonetih. V šestem nagovor nesreče vodi v željo po neobčutljivosti, ki naj konča dotedanje trpljenje."
+        ]
       ]
     },
     "18": {
@@ -967,31 +1342,55 @@ window.STUDY = {
           "P*",
           "Črtomir",
           "Pogumen v obrambi in ranljiv po izgubi soborcev.",
-          "Iz poganskega vodje postane krščanski oznanjevalec."
+          "Iz poganskega vodje postane krščanski oznanjevalec.",
+          null,
+          "Poganski vojskovodja, branilec stare vere in Bogomilin ljubljeni."
         ],
         [
           "A*",
           "Valjhun",
           "Usmerjen k vojaški zmagi in pokristjanjevanju.",
-          "Njegov napad spremeni Črtomirjeve politične in verske možnosti."
+          "Njegov napad spremeni Črtomirjeve politične in verske možnosti.",
+          null,
+          "Krščanski oblastnik in poveljnik vojske, ki premaga Črtomirjeve može."
         ],
         [
           "S*",
           "Bogomila",
           "Odločna pri verski izbiri in predana zaobljubi.",
-          "V pogovoru določi pogoje za novo obliko njune zveze."
+          "V pogovoru določi pogoje za novo obliko njune zveze.",
+          null,
+          "Hči duhovnika Staroslava, Črtomirjeva ljubljena, ki sprejme krščanstvo."
         ],
         [
           "S",
           "Ribič",
           "Praktičen in pripravljen pomagati.",
-          "Črtomirju pomaga priti do Bogomile."
+          "Črtomirju pomaga priti do Bogomile.",
+          null,
+          "Človek, ki Črtomirju po porazu ponudi prevoz s čolnom."
         ],
         [
           "S",
           "Duhovnik",
           "Zagovarja novo vero in njeno obredno obliko.",
-          "Ob Savici krsti Črtomirja."
+          "Ob Savici krsti Črtomirja.",
+          null,
+          "Krščanski duhovnik ob Savici, ki Črtomirja krsti."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Narodna preteklost kot pesniška snov",
+          "Spopad ob pokristjanjevanju Prešeren prenese v zasebno zgodbo Črtomirja in Bogomile. Vojaški poraz usmeri junaka k odločitvi, ki je boj sam ne more rešiti."
+        ],
+        [
+          "Razkol med željo in danostjo",
+          "Ljubezen med junakoma ostane, a se Bogomila odpove skupnemu življenju. V romantični zgodbi postane razdalja med osebnim idealom in mogočim bistveni vir napetosti."
+        ],
+        [
+          "Preoblikovanje prejšnjih oblik",
+          "Uvod uporablja verižne tercine, osrednji Krst pa osemvrstične kitice. Prešeren evropski pesniški obliki uporabi za slovensko zgodovinsko in ljubezensko snov."
         ]
       ]
     },
@@ -1000,6 +1399,16 @@ window.STUDY = {
         "Vprašanja zajamejo spomin, sedanjost in prihodnost, zato stiska deluje v vseh časih. Najprej govorec išče pot, kako bi jo tako ali drugače odpravil.",
         "Kraguljevo kljuvanje da bolečini ponavljajoč se telesni ritem. Ob Prometejevi kazni se pokaže, zakaj je pomembno trajanje, srce v pesmi pa prenese motiv v pesnikovo notranjost.",
         "Kratek zadnji ukaz zamenja vprašanja. Pesniški poklic zahteva, da izkušnjo obdrži dovolj dolgo, da jo lahko ubesedi."
+      ],
+      "periodTraits": [
+        [
+          "Romantična podoba pesnika",
+          "Govorec postavi pesnika pred vprašanje, kako živeti s spominom na trpljenje. S tem postane položaj pesnika sam tema pesmi."
+        ],
+        [
+          "Izpoved v obliki vprašanj",
+          "Zaporedje vprašanj odpre izkušnjo dvoma. Sklepna zapoved, naj pesnik nosi svoj pekel ali nebo, poveže ustvarjanje z bremenom, ki ga prinaša življenje."
+        ]
       ]
     },
     "20": {
@@ -1019,61 +1428,91 @@ window.STUDY = {
           "P*",
           "Rodion Raskolnikov",
           "Inteligenten in ponosen, niha med sočutjem in prepričanjem o izjemnosti.",
-          "S svojim dejanjem preizkusi teorijo in izkusi njene posledice."
+          "S svojim dejanjem preizkusi teorijo in izkusi njene posledice.",
+          null,
+          "Obubožani nekdanji študent prava v Peterburgu in Dunjin brat."
         ],
         [
           "S*",
           "Sonja Marmeladova",
           "Sočutna, vztrajna in verna.",
-          "Prisluhne priznanju in ohrani stik z njim po obsodbi."
+          "Prisluhne priznanju in ohrani stik z njim po obsodbi.",
+          null,
+          "Hči uradnika Marmeladova, ki družino preživlja s prostitucijo."
         ],
         [
           "A*",
           "Porfirij Petrovič",
           "Pronicljiv in potrpežljiv preiskovalec.",
-          "Preverja teorijo in spodbuja prostovoljno priznanje."
+          "Preverja teorijo in spodbuja prostovoljno priznanje.",
+          null,
+          "Preiskovalni sodnik, pristojen za primer umora."
         ],
         [
           "A",
           "Lužin",
           "Preračunljiv in željan nadzora nad bodočo ženo.",
-          "Ob zavrnitvi poskusi Sonjo osramotiti s podtaknjenim denarjem."
+          "Ob zavrnitvi poskusi Sonjo osramotiti s podtaknjenim denarjem.",
+          null,
+          "Pravnik in premožni Dunjin zaročenec."
         ],
         [
           "A",
           "Svidrigajlov",
           "Vsiljiv do Dunje in moralno protisloven.",
-          "Prisluškuje priznanju in ga izkoristi pri pritisku na Dunjo."
+          "Prisluškuje priznanju in ga izkoristi pri pritisku na Dunjo.",
+          null,
+          "Posestnik in nekdanji Dunjin delodajalec, vdovec Marfe Petrovne."
         ],
         [
           "S",
           "Dunja",
           "Odločna pri obrambi samostojnosti.",
-          "Zavrne Lužina in se upre Svidrigajlovu."
+          "Zavrne Lužina in se upre Svidrigajlovu.",
+          null,
+          "Avdotja Romanovna, Raskolnikova sestra in nekdanja guvernanta pri Svidrigajlovih."
         ],
         [
           "S",
           "Razumihin",
           "Zanesljiv in praktičen prijatelj.",
-          "Skrbi za Raskolnikova v bolezni in pomaga njegovi družini."
+          "Skrbi za Raskolnikova v bolezni in pomaga njegovi družini.",
+          null,
+          "Raskolnikov prijatelj iz študentskih let in poznejši Dunjin mož."
         ],
         [
           "S",
           "Nikolaj",
           "Soboslikar, ki prevzame krivdo za tuje dejanje.",
-          "Njegovo priznanje preizkusi Porfirijevo presojo."
+          "Njegovo priznanje preizkusi Porfirijevo presojo.",
+          null,
+          "Pleskar, ki je ob času umora delal v isti hiši."
         ],
         [
           "S",
           "Aljona",
           "Stroga zastavljavka, na katero je Raskolnikov usmeril načrt.",
-          "Njena smrt je predvideni del njegovega preizkusa teorije."
+          "Njena smrt je predvideni del njegovega preizkusa teorije.",
+          null,
+          "Aljona Ivanovna, stara zastavljavka, pri kateri si Raskolnikov izposoja denar."
         ],
         [
           "S",
           "Lizaveta",
           "Podrejena sestri in z osebnimi vezmi zunaj zastavljalnice.",
-          "Nepričakovani prihod razširi zločin na drugo žrtev."
+          "Nepričakovani prihod razširi zločin na drugo žrtev.",
+          null,
+          "Aljonina polsestra, ki živi v njeni senci in opravlja posle zanjo."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Družbeno okolje vedenja",
+          "Roman dejanja postavi v revno in prenatrpano peterburško okolje. Raskolnikova soba, dolgovi in Sonjino preživljanje družine izrišejo materialne okoliščine njunih izbir."
+        ],
+        [
+          "Ruski psihološki realizem",
+          "Zločin je prikazan skupaj z razpadanjem junakovega samorazumevanja. V pogovorih s Porfirijem Raskolnikov svojo teorijo brani, čeprav se njegova dejanja in odzivi z njo ne ujemajo."
         ]
       ]
     },
@@ -1092,43 +1531,67 @@ window.STUDY = {
           "P*",
           "Emma Bovary",
           "Hrepeneča, domišljijska in ranljiva za obljube o drugačnem življenju.",
-          "Poveže zakon, branje, ljubezensko željo in dolg."
+          "Poveže zakon, branje, ljubezensko željo in dolg.",
+          null,
+          "Hči premožnega kmeta in žena podeželskega zdravnika Charlesa Bovaryja."
         ],
         [
           "A*",
           "Lheureux",
           "Ustrežljiv pri prodaji, nepopustljiv pri izterjavi.",
-          "Nakupovanje spremeni v finančno past."
+          "Nakupovanje spremeni v finančno past.",
+          null,
+          "Trgovec, ki Emmi prodaja na kredit in ima v rokah njene dolgove."
         ],
         [
           "S*",
           "Charles Bovary",
           "Dobrodušen, zaupljiv in omejen pri razumevanju žene.",
-          "Vztraja v zakonu in šele pozno odkrije obseg prikrivanja."
+          "Vztraja v zakonu in šele pozno odkrije obseg prikrivanja.",
+          null,
+          "Podeželski zdravstveni praktik, Emmin mož in Berthein oče."
         ],
         [
           "S",
           "Rodolphe",
           "Spreten in preračunljiv pri zapeljevanju.",
-          "Emmi obljublja pobeg, na dan odhoda pa se umakne."
+          "Emmi obljublja pobeg, na dan odhoda pa se umakne.",
+          null,
+          "Rodolphe Boulanger, premožen posestnik in Emmin ljubimec."
         ],
         [
           "S",
           "Léon",
           "Sprva zadržan, pozneje sprejme skrivno razmerje.",
-          "Obnovi stik z Emmo v Rouenu in je del njenega drugega ljubezenskega pobega."
+          "Obnovi stik z Emmo v Rouenu in je del njenega drugega ljubezenskega pobega.",
+          null,
+          "Notarski pisar in Emmin poznejši ljubimec."
         ],
         [
           "S",
           "Berthe",
           "Otrok, ki je odvisen od odraslih.",
-          "Po izgubi družinskega premoženja konča pri delu v predilnici."
+          "Po izgubi družinskega premoženja konča pri delu v predilnici.",
+          null,
+          "Majhna hči Emme in Charlesa."
         ],
         [
           "S",
           "Homais",
           "Samozavesten in ambiciozen lekarnar.",
-          "Njegov družbeni uspeh po Emminem propadu izostri ironijo konca."
+          "Njegov družbeni uspeh po Emminem propadu izostri ironijo konca.",
+          null,
+          "Lekarnar iz Yonvilla in sosed Bovaryjevih."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Realistični prikaz okolja",
+          "Podeželsko meščanstvo vidimo prek poklicev, denarja in vsakdanjih opravkov. Lheureuxovi krediti razkrijejo, kako Emmina želja po drugačnem življenju postane izterljiv dolg."
+        ],
+        [
+          "Pripovedni odmik in ironija",
+          "Flaubert se približa Emminemu doživljanju, ob njem pa pokaže njegove okoliščine. Blišč plesa v Vaubyessardu dobi pomen v primerjavi z dolgočasjem doma in poznejšimi nakupi."
         ]
       ]
     },
@@ -1164,37 +1627,63 @@ window.STUDY = {
           "P*",
           "Gospa Alving",
           "Zmožna samostojne presoje, dolgo zadržana pred javno sodbo.",
-          "Razkrije družinsko skrivnost in ostane pred sklepno odločitvijo."
+          "Razkrije družinsko skrivnost in ostane pred sklepno odločitvijo.",
+          null,
+          "Helene Alving, vdova po stotniku Alvingu in Osvaldova mati."
         ],
         [
           "P*",
           "Osvald Alving",
           "Ustvarjalen, navezan na življenje in prestrašen ob bolezni.",
-          "Njegova vrnitev spremeni zamolčano preteklost v nujno vprašanje."
+          "Njegova vrnitev spremeni zamolčano preteklost v nujno vprašanje.",
+          null,
+          "Sin gospe Alving in slikar, ki se vrne iz tujine."
         ],
         [
           "A*",
           "Pastor Manders",
           "Urejen in skrben za ugled, odvisen od pričakovanj okolja.",
-          "S prejšnjim nasvetom in zavarovalno odločitvijo podaljša posledice molka."
+          "S prejšnjim nasvetom in zavarovalno odločitvijo podaljša posledice molka.",
+          null,
+          "Duhovnik, družinski zaupnik in sodelavec pri ustanovitvi sirotišnice."
         ],
         [
           "A",
           "Stotnik Alving",
           "V javnosti ugleden, v zakonu nezvest in neodgovoren.",
-          "Po smrti je še vedno vir konfliktov zaradi zamolčanih dejanj."
+          "Po smrti je še vedno vir konfliktov zaradi zamolčanih dejanj.",
+          null,
+          "Pokojni mož gospe Alving in biološki oče Osvalda ter Regine."
         ],
         [
           "S",
           "Regina Engstrand",
           "Ambiciozna in pripravljena sama odločati o delu.",
-          "Odhod po razkritju porekla pokaže, da hiša zanjo ne ponuja prihodnosti."
+          "Odhod po razkritju porekla pokaže, da hiša zanjo ne ponuja prihodnosti.",
+          null,
+          "Služkinja gospe Alving in hči služkinje Johanne ter stotnika Alvinga."
         ],
         [
           "S",
           "Jakob Engstrand",
           "Prilagodljiv in zasleduje svoj gmotni interes.",
-          "Po požaru skuša pridobiti Mandersovo podporo za svoj načrt."
+          "Po požaru skuša pridobiti Mandersovo podporo za svoj načrt.",
+          null,
+          "Tesar in Reginin uradni oče, ki se je poročil z njeno materjo."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Realistična problemska drama",
+          "Družina v ospredje postavi vprašanje ugleda, zakonske dolžnosti in družbenih posledic molka. Pastor Manders je gospo Alving nekoč prepričal, da se je vrnila k možu."
+        ],
+        [
+          "Analitična zgradba",
+          "Sedanje dogajanje postopoma odkrije stare odločitve. Razkritje, kdo je Reginin oče, spremeni pomen njenega odnosa z Osvaldom."
+        ],
+        [
+          "Naturalistična težnja",
+          "Ibsen bolezni, dednosti in družinskemu okolju nameni pomembno mesto. Osvaldovo stanje omaje domnevo, da družina z molkom lahko obvaruje prihodnost otrok."
         ]
       ]
     },
@@ -1213,25 +1702,43 @@ window.STUDY = {
           "P*",
           "Stotnik Bitič",
           "Trmast, občutljiv za zasmeh in vezan na stalne navade.",
-          "Njegova skrb za obrok vodi zgradbo značajevke."
+          "Njegova skrb za obrok vodi zgradbo značajevke.",
+          null,
+          "Upokojeni stotnik in reden gost Zelenikove gostilne."
         ],
         [
           "A",
           "Mladi gostje in nezaupanje",
           "Mladi mu ugovarjajo, sumnja pa mu odvzame občutek varnosti.",
-          "Zmanjšajo njegov vpliv v gostilni in ga oddaljijo od ustaljene družbe."
+          "Zmanjšajo njegov vpliv v gostilni in ga oddaljijo od ustaljene družbe.",
+          null,
+          "Mlajši člani gostilniške družbe ter Bitičev sum o pripravi obroka."
         ],
         [
           "S",
           "Zelenik",
           "Praktičen gostilničar in del stotnikovega stalnega reda.",
-          "Njegova gostilna je prizorišče Bitičevega družabnega vzpona in zadnjega večera."
+          "Njegova gostilna je prizorišče Bitičevega družabnega vzpona in zadnjega večera.",
+          null,
+          "Gostilničar, pri katerem se Bitič redno prehranjuje."
         ],
         [
           "S",
           "Bitičeva gospodinja",
           "Posreduje pri urejanju vsakdana in snubitve.",
-          "Njena vloga pokaže, kako stotnikov zasebni načrt temelji na tuji pomoči."
+          "Njena vloga pokaže, kako stotnikov zasebni načrt temelji na tuji pomoči.",
+          null,
+          "Ženska, ki Bitiču gospodinji in mu posreduje pri snubitvi."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Opazovanje vsakdana",
+          "Slovenski realizem se pokaže v gostilniških pogovorih, obrokih in skrbi za gospodinjstvo. Bitičeva redna naročila razkrijejo, od česa je odvisen njegov občutek reda."
+        ],
+        [
+          "Značaj skozi navado",
+          "Bitiča spoznamo po odzivih na znane ljudi in jedi. Ko se mu pečenka zazdi sumljiva, se pokažeta njegova neprožnost in potreba po zanesljivem okolju."
         ]
       ]
     },
@@ -1251,43 +1758,77 @@ window.STUDY = {
           "P*",
           "Izidor Khallan",
           "Premišljen in razpet med vestjo ter omahovanjem.",
-          "Zapiše družinsko zgodovino in lastno vlogo v njej."
+          "Zapiše družinsko zgodovino in lastno vlogo v njej.",
+          null,
+          "Polikarpov starejši sin, dedič na Visokem in pisec kronike."
         ],
         [
           "A",
           "Čarovniška obtožba in njeni izvrševalci",
           "Vztrajajo pri napačni domnevi o krivdi.",
-          "Agato izpostavijo vodnemu preizkusu."
+          "Agato izpostavijo vodnemu preizkusu.",
+          null,
+          "Lažna obtožba zoper Agato in oblast, ki odredi vodni preizkus."
         ],
         [
           "S*",
           "Agata Schwarzkoblerica",
           "Vztrajna in pozneje pripravljena pomagati Izidorju.",
-          "Njena rešitev odloči o usodi obeh bratov."
+          "Njena rešitev odloči o usodi obeh bratov.",
+          null,
+          "Izidorjeva prva zaročenka, pozneje Jurijeva žena."
         ],
         [
           "S*",
           "Jurij",
           "Pobuden in pripravljen tvegati.",
-          "S skokom reši Agato in razkrije Izidorjevo omahovanje."
+          "S skokom reši Agato in razkrije Izidorjevo omahovanje.",
+          null,
+          "Izidorjev mlajši brat in poznejši Agatin mož."
         ],
         [
           "S",
           "Polikarp",
           "Vojni veteran, ki živi z bremenom svojega dejanja.",
-          "Njegovo premoženje in priznanje določita dediščino sinov."
+          "Njegovo premoženje in priznanje določita dediščino sinov.",
+          null,
+          "Nekdanji vojak in gospodar na Visokem, oče Izidorja in Jurija."
         ],
         [
           "S",
           "Margareta Wulffingova",
           "Vztrajna pri skrbi za ranjenega Izidorja.",
-          "Pripelje pripoved do njegove druge življenjske možnosti."
+          "Pripelje pripoved do njegove druge življenjske možnosti.",
+          null,
+          "Jeremijeva hči, Izidorjeva žena in Georgiusova mati."
         ],
         [
           "S",
           "Georgius Postumus",
           "Izobražuje se pri jezuitih in razmišlja o duhovni poti.",
-          "S pripisom popiše očetovo smrt in prevzame zapis družine."
+          "S pripisom popiše očetovo smrt in prevzame zapis družine.",
+          null,
+          "Izidorjev po smrti rojeni sin, dijak pri ljubljanskih jezuitih in pisec pripisa."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Pozna realistična dediščina",
+          "Čeprav je roman nastal v 20. stoletju, vsakdan 17. stoletja konkretno gradi s posestmi, dedovanjem in delom. Oporoka in pripis k družinski kroniki povežeta osebne usode z lastnino."
+        ],
+        [
+          "Zgodovinsko okolje in družba",
+          "Vodna preizkušnja Agate pokaže, kako ljudsko verovanje, verska pričakovanja in oblast odločajo o življenju posameznice."
+        ],
+        [
+          "Meja realistične oznake",
+          "Kronika je osebno pričevanje z izrazitim pogledom pripovedovalca. Starejši Izidor lahko presoja lastno omahovanje, Jurijevo reševanje Agate pa je bolj izrazito junaško."
+        ]
+      ],
+      "periodSources": [
+        [
+          "https://www.textgridrep.org/browse/41k8f.0?lang=en",
+          "Visoška kronika · izdaja ELTeC"
         ]
       ]
     },
@@ -1295,6 +1836,16 @@ window.STUDY = {
       "crit": [
         "Večerni glasovi zvenijo kot vzdihi, vendar se v naslednji kitici pokaže razlika med mirno zemljo in človekom, ki ne more spati. Narava zato ohrani ritem, ki se od njegovega razlikuje.",
         "Svetopisemski glas v puščavi dobi v pesmi samotnega govorca. Večkratni klic viharju je kratek izbruh, ki ga sklepna personifikacija mirne noči znova pogasi."
+      ],
+      "periodTraits": [
+        [
+          "Impresionističen večerni vtis",
+          "Zaznava spreminjajoče se svetlobe in temnenja prikliče razpoloženje. Pokrajino spremljamo v kratkem prehodu od jasnejših oblik k mraku."
+        ],
+        [
+          "Pokrajina in notranji nemir",
+          "Mirna večerna pokrajina sproži primerjavo z govorčevim nemirom. Medtem ko na zemljo lega mir, si on želi neviht in burnega življenja."
+        ]
       ]
     },
     "26": {
@@ -1312,31 +1863,51 @@ window.STUDY = {
           "P*",
           "Francka",
           "Vztrajna in požrtvovalna, že zgodaj občuti željo po drugačnem življenju.",
-          "Njena pot drži različne pripovedne epizode skupaj."
+          "Njena pot drži različne pripovedne epizode skupaj.",
+          null,
+          "Dekle iz revne družine, pozneje Tonetova žena in mati."
         ],
         [
           "A!",
           "Revščina in negotovo delo",
           "Družino držita v odvisnosti od občasne pomoči in priložnosti.",
-          "Omejujeta bivanje, skrb za otroke in izbiro prihodnosti."
+          "Omejujeta bivanje, skrb za otroke in izbiro prihodnosti.",
+          null,
+          "Razmere, v katerih družina živi od dela, ki ga lahko vsak čas izgubi."
         ],
         [
           "S*",
           "Lojze",
           "Občutljiv za pomanjkanje in zmožen učenja.",
-          "Odpre pogled na možnosti naslednje generacije."
+          "Odpre pogled na možnosti naslednje generacije.",
+          null,
+          "Franckin sin, ki se po materinem prizadevanju šola."
         ],
         [
           "S",
           "Tone",
           "Negotov pri delu in pripravljen iskati možnosti drugje.",
-          "Z odhajanjem prenese velik del vsakdanje skrbi na Francko."
+          "Z odhajanjem prenese velik del vsakdanje skrbi na Francko.",
+          null,
+          "Krojač, Franckin mož in oče njenih otrok."
         ],
         [
           "S",
           "Učitelj",
           "Povezan je z izobraževanjem in edino vidno lučjo v sklepnem prizoru.",
-          "Lojzetu odpre predstavo o drugačni poti."
+          "Lojzetu odpre predstavo o drugačni poti.",
+          null,
+          "Šolnik iz okolja klanca, povezan z možnostjo izobrazbe."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Simbol v slovenski moderni",
+          "Tek za vozom ni samo spomin na dogodek iz otroštva. Podoba se poveže s poznejšimi Franckinimi prizadevanji za družino, saj se cilj izmika, ne glede na vložen trud."
+        ],
+        [
+          "Subjektiven pogled na družbeno stisko",
+          "Revščina je konkretna, pripoved pa jo usmeri v Franckino doživljanje. Družbeni pomen klanca dodatno razkrije učiteljeva luč, ki nakazuje možnost za naslednji rod."
         ]
       ]
     },
@@ -1372,49 +1943,89 @@ window.STUDY = {
           "P*",
           "Jerman",
           "Načelen in neposreden, v zasebnosti občutljiv za krivdo.",
-          "Zavrne prilagajanje po volitvah ter poskuša organizirati javni odpor."
+          "Zavrne prilagajanje po volitvah ter poskuša organizirati javni odpor.",
+          null,
+          "Učitelj in dejaven član krajevnega učiteljskega zbora."
         ],
         [
           "A*",
           "Župnik",
           "Pragmatičen zastopnik cerkvene oblasti, v sklepu zmožen sočutja.",
-          "Zahteva sodelovanje učiteljev in pozneje z Jermanom govori o vesti."
+          "Zahteva sodelovanje učiteljev in pozneje z Jermanom govori o vesti.",
+          null,
+          "Krajevni duhovnik z močnim vplivom na učitelje in javno življenje."
         ],
         [
           "A",
           "Prilagodljivi učitelji",
           "Usmerjajo se po trenutnem razmerju moči.",
-          "S spremembo govora in ravnanja Jermanu odvzamejo podporo."
+          "S spremembo govora in ravnanja Jermanu odvzamejo podporo.",
+          null,
+          "Člani učiteljskega zbora, ki se po volitvah prilagodijo novi oblasti."
         ],
         [
           "S*",
           "Mati",
           "Verna in tesno povezana s sinom.",
-          "Njen odnos do Jermana da njegovemu boju osebno in etično razsežnost."
+          "Njen odnos do Jermana da njegovemu boju osebno in etično razsežnost.",
+          null,
+          "Jermanova verna mati, ki doma hudo zboli."
         ],
         [
           "S",
           "Lojzka",
           "Zadržana, zvesta in obzirna.",
-          "Ostane v stiku z Jermanom tudi po političnem zlomu."
+          "Ostane v stiku z Jermanom tudi po političnem zlomu.",
+          null,
+          "Učiteljica in Jermanova stanovska kolegica ter zaupnica."
         ],
         [
           "S",
           "Kalander",
           "Dejaven in solidaren kovač.",
-          "Vztraja pri skupnem delu tudi po spodletelem zborovanju."
+          "Vztraja pri skupnem delu tudi po spodletelem zborovanju.",
+          null,
+          "Kovač in Jermanov sodelavec pri političnem osveščanju delavcev."
         ],
         [
           "S",
           "Anka",
           "Do Jermanovega položaja se odmakne.",
-          "Njen odhod politični osamitvi doda zasebno izgubo."
+          "Njen odhod politični osamitvi doda zasebno izgubo.",
+          null,
+          "Županova hči, sprva blizu Jermanu."
         ],
         [
           "S",
           "Hvastja",
           "Pretehta svoje družinske obveznosti.",
-          "Jermanu pomaga z manj tveganim dejanjem tolažbe."
+          "Jermanu pomaga z manj tveganim dejanjem tolažbe.",
+          null,
+          "Učitelj v istem zboru, ki se je za svoje krščansko prepričanje zavzemal že pred volitvami."
+        ],
+        [
+          "A",
+          "Komar",
+          "Glasen in politično prilagodljiv.",
+          "S svojim ravnanjem pokaže, kako sprememba oblasti spreminja stališča v učiteljskem zboru.",
+          null,
+          "Učitelj v istem učiteljskem zboru kot Jerman."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Cankarjeva družbena kritika",
+          "Dogajanje po volitvah pokaže, kako se učitelji zaradi službe in ugleda prilagajajo zmagovalcem. Jermanov spor z zborom vodi od politike do vprašanja osebne odgovornosti."
+        ],
+        [
+          "Preplet javnega in notranjega",
+          "Spor o neodvisnosti učitelja ima tudi lirsko in psihološko razsežnost. Ob bolni materi Jerman presoja lastna dejanja drugače kot sredi javnega zbora."
+        ]
+      ],
+      "periodSources": [
+        [
+          "https://sl.wikisource.org/wiki/Stran:Ivan_Cankar_-_Hlapci.pdf/4",
+          "Hlapci · seznam oseb v izvirni izdaji"
         ]
       ]
     },
@@ -1433,19 +2044,41 @@ window.STUDY = {
           "P*",
           "Pripovedovalec kot odrasli in otrok",
           "Odrasli je potrpežljiv opazovalec zavesti, otrok doživlja dom prek majhnih obredov.",
-          "Njuna pogleda združi ponovno prepoznani okus."
+          "Njuna pogleda združi ponovno prepoznani okus.",
+          null,
+          "Odrasli prvoosebni pripovedovalec in njegova otroška podoba na obiskih v Combrayu."
         ],
         [
           "S",
           "Teta Léonie",
           "Njena domača navada pripada nedeljskemu ritmu.",
-          "S ponujanjem peciva omogoči prvotni spomin."
+          "S ponujanjem peciva omogoči prvotni spomin.",
+          null,
+          "Sorodnica, ki v Combrayu živi pretežno v svoji sobi."
         ],
         [
           "A!",
           "Pozaba",
           "Ovira priklic pretekle izkušnje.",
-          "Odlomek zaznamuje nasprotje med hotenim iskanjem in nehotenim prepoznanjem."
+          "Odlomek zaznamuje nasprotje med hotenim iskanjem in nehotenim prepoznanjem.",
+          null,
+          "Razdalja med sedanjim pripovedovalcem in otroštvom, ki ga ne more priklicati zgolj po volji."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Modernistični čas zavesti",
+          "Pripoved se premika po asociacijah. Okus magdalenice v čaju iz sedanjega trenutka sproži plasti spomina na Combray."
+        ],
+        [
+          "Spomin kot tema in zgradba",
+          "Odrasli pripovedovalec opisuje izkušnje otroškega jaza in hkrati raziskuje, kako se mu vračajo. Spomin na večerni poljub tako učinkuje kot doživetje in kot predmet poznejšega razmisleka."
+        ]
+      ],
+      "periodSources": [
+        [
+          "https://assets.cambridge.org/97811070/21891/excerpt/9781107021891_excerpt.pdf",
+          "Marcel Proust in Context · o spominu in pripovedi"
         ]
       ]
     },
@@ -1464,37 +2097,69 @@ window.STUDY = {
           "P*",
           "Leopold Bloom",
           "Pozoren, ustrežljiv in dovzeten za mestne drobce.",
-          "Njegova pot poveže opravke, pogreb in srečanje s Stephenom."
+          "Njegova pot poveže opravke, pogreb in srečanje s Stephenom.",
+          null,
+          "Dublinski oglasni posrednik judovskega rodu, mož Molly Bloom."
         ],
         [
           "P*",
           "Stephen Dedalus",
           "Učen, uporniški in obremenjen z izgubo matere.",
-          "Odpre vprašanje samostojnosti in začasne očetovske opore."
+          "Odpre vprašanje samostojnosti in začasne očetovske opore.",
+          null,
+          "Mladi izobraženec in učitelj, ki si želi postati pisatelj."
         ],
         [
           "P*",
           "Molly Bloom",
           "Samostojno presoja svoje odnose in odkrito spominja.",
-          "Z njenim pogledom se razširi slika zakona in konča dan."
+          "Z njenim pogledom se razširi slika zakona in konča dan.",
+          null,
+          "Pevka, Leopoldova žena in Boylanova ljubimka."
         ],
         [
           "A",
           "Državljan in družbeni predsodki",
           "Državljan v krčmi sovražno nastopi proti Bloomu.",
-          "Epizoda neposredno pokaže ceno vloge tujca v domačem mestu."
+          "Epizoda neposredno pokaže ceno vloge tujca v domačem mestu.",
+          null,
+          "Irski nacionalist iz gostilne v epizodi Kiklop ter antisemitizem, ki ga izraža."
         ],
         [
           "S",
           "Buck Mulligan",
           "Zgovoren, posmehljiv in nastopaški.",
-          "V stolpu že na začetku zaostri Stephenov občutek odtujenosti."
+          "V stolpu že na začetku zaostri Stephenov občutek odtujenosti.",
+          null,
+          "Študent medicine in Stephenov sostanovalec v stolpu Martello."
         ],
         [
           "S",
           "Blazes Boylan",
           "Samozavesten in dejaven v družbi.",
-          "Njegov obisk pri Molly vstopi v Bloomovo doživljanje zakona."
+          "Njegov obisk pri Molly vstopi v Bloomovo doživljanje zakona.",
+          null,
+          "Organizator koncertov, ki sodeluje z Molly in je njen ljubimec."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Tok zavesti in notranji monolog",
+          "Pozornost se giblje od zaznav k spominom in željam. V Mollyjinem nočnem monologu preskoke zaznamo po zvezah med mislimi in ohlapnejšem ločevanju povedi."
+        ],
+        [
+          "Mit v sodobnem vsakdanu",
+          "Obris Odiseje uredi navaden dan v Dublinu. Gostilniški spopad med Bloomom in Državljanom tako dobi vzporednico s Kiklopom."
+        ],
+        [
+          "Menjavanje pripovednih postopkov",
+          "Slog pripada posamezni epizodi in njenemu pogledu na mesto. Časopisni naslovi na primer členijo epizodo Eol povsem drugače od Mollyjinega monologa."
+        ]
+      ],
+      "periodSources": [
+        [
+          "https://academic.oup.com/edited-volume/35429/chapter/303210901",
+          "Tok zavesti v modernističnem romanu · Oxford"
         ]
       ]
     },
@@ -1515,38 +2180,58 @@ window.STUDY = {
           "Gregor Samsa",
           "Odgovoren do družine in vajen prezreti lastne potrebe.",
           "S spremembo telesa razkrije svoj položaj doma in v službi.",
-          "Po prebujenju ima trd hrbet, členjen trebuh in več tankih nog."
+          "Po prebujenju ima trd hrbet, členjen trebuh in več tankih nog.",
+          "Potujoči trgovski zastopnik, glavni hranilec družine pred preobrazbo."
         ],
         [
           "A*",
           "Gregorjev oče",
           "Nagel pri obrambi družine in pri uveljavljanju avtoritete.",
           "Gregorja odrine in ga trajno poškoduje z jabolkom.",
-          "Po ponovni zaposlitvi nosi uniformo."
+          "Po ponovni zaposlitvi nosi uniformo.",
+          "Nekdanji podjetnik, ki se po sinovi preobrazbi zaposli v banki."
         ],
         [
           "S*",
           "Greta",
           "Sprva skrbna, pozneje se želi rešiti občutka bremena.",
-          "Spreminjanje njenega odnosa označuje razpad Gregorjevega mesta v družini."
+          "Spreminjanje njenega odnosa označuje razpad Gregorjevega mesta v družini.",
+          null,
+          "Gregorjeva mlajša sestra, ki igra violino in se pozneje zaposli kot prodajalka."
         ],
         [
           "S",
           "Gregorjeva mati",
           "Do sina čuti sočutje in ob njegovem telesu strah.",
-          "Pri odstranjevanju pohištva se njen položaj razlikuje od Gretinega."
+          "Pri odstranjevanju pohištva se njen položaj razlikuje od Gretinega.",
+          null,
+          "Mati Gregorja in Grete ter žena gospoda Samse."
         ],
         [
           "S",
           "Prokurist",
           "Kot predstavnik službe zahteva razlago za zamudo.",
-          "Njegov prihod takoj pokaže težo Gregorjevega delovnega položaja."
+          "Njegov prihod takoj pokaže težo Gregorjevega delovnega položaja.",
+          null,
+          "Pooblaščenec Gregorjevega delodajalca, ki pride preverit njegovo odsotnost."
         ],
         [
           "S",
           "Podnajemniki",
           "Skrbijo za mir in ugodje, ki so ga plačali.",
-          "Z grožnjo odhoda vplivajo na Gretino sklepno odločitev."
+          "Z grožnjo odhoda vplivajo na Gretino sklepno odločitev.",
+          null,
+          "Trije moški, ki jim družina Samsa zaradi prihodka odda sobo."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Nenavadno v vsakdanjem svetu",
+          "Nepričakovana preobrazba je podana neposredno, Gregor pa še vedno razmišlja o vlaku in službi. S tem modernistična novela preizkusi pravila realistično prepoznavnega gospodinjstva."
+        ],
+        [
+          "Odtujitev in omejeni pogled",
+          "Ob začetku vemo predvsem, kaj Gregor sliši in razume iz svoje sobe. Družina njegove besede dojema kot nerazločne zvoke, zato se razlika med njegovim notranjim življenjem in družbenim položajem poveča."
         ]
       ]
     },
@@ -1554,6 +2239,16 @@ window.STUDY = {
       "crit": [
         "Prvi verzi poimenujejo polja, podrtijo in temo v kratkih odsekih. Vsak zahteva premor, zato se zaznave pokažejo druga za drugo in tvorijo občutek počasnega, previdnega umikanja.",
         "Senca ostane neznana. Premik od »za menoj« k »z menoj« spremeni položaj grožnje: zunanjemu pogledu se pridruži spremljajoče občutje, ki ga govorec že nosi s seboj."
+      ],
+      "periodTraits": [
+        [
+          "Čutni utrinki pokrajine",
+          "Polja, podrtija, tema in svetlo okno so podani kot kratki, ločeni vtisi. Podoba oddaljenega okna iz temne pokrajine izloči svoje svetlobno žarišče."
+        ],
+        [
+          "Ekspresivna tesnoba",
+          "Prizor se iz opisa prevesi v občutek, da senca opazuje govorca. Razdrobljeni verzi in kratko vprašanje stopnjujejo nemir, ki se ob koncu poimenuje kot slutnja smrti."
+        ]
       ]
     },
     "32": {
@@ -1561,6 +2256,16 @@ window.STUDY = {
         "Sončni zahod daje zatonu zapeljiv sijaj. Podoba kraljice v grobu nadaljuje razkošje tudi po tem, ko je zanj zmanjkalo smisla. Ekstaza pripada gledanju, smrt pa svetu, ki ga gledalec tako občuduje.",
         "Kri prevzame mesto vode, s katero bi bilo mogoče umiti krivdo. Tekočine je povsod preveč in očiščenje je vseeno nedosegljivo.",
         "Govorec v skupino na koncu vključi sebe. Obsodba Evrope pomeni presojo skupnosti, kateri pripada tudi človek, ki jo kritizira."
+      ],
+      "periodTraits": [
+        [
+          "Ekspresionistična vizija propada",
+          "Pesem krizo Evrope izrazi v povečanih, sunkovitih podobah smrti, krvi in razkroja. Civilizacija dobi videz telesa, ki izgublja življenje."
+        ],
+        [
+          "Razširitev glasu na skupnost",
+          "Govorec se z osebnega doživljanja premakne k skupinskemu »mi«. Nagovor Evropi razširi usodo posameznika na zgodovinski prostor in njegove ljudi."
+        ]
       ]
     },
     "33": {
@@ -1595,31 +2300,61 @@ window.STUDY = {
           "P*",
           "Hana",
           "Sprva jo bremeni strah, ob novem srečanju se dejavno upre.",
-          "Njen konflikt daje drami osrednji osebni lok."
+          "Njen konflikt daje drami osrednji osebni lok.",
+          null,
+          "Hči premožnega trgovca Vajde, ki se vrne v Gogo iz tujine."
         ],
         [
           "A*",
           "Prelih",
           "Vsiljiv in vajen izkoriščanja premoči.",
-          "Vrne se kot živa povezava s Hanino preteklostjo."
+          "Vrne se kot živa povezava s Hanino preteklostjo.",
+          null,
+          "Otmar Prelih, trgovski pomočnik oziroma komi pri Vajdi."
         ],
         [
           "S",
           "Klef",
           "Vnet zbiralec novic.",
-          "Domnevni umor hitro spremeni v mestno govorico."
+          "Domnevni umor hitro spremeni v mestno govorico.",
+          null,
+          "Prebivalec Goge in eden od opazovalcev dogajanja na ulici."
         ],
         [
           "S",
           "Gapit",
           "Bližino išče prek lutke, ki jo lahko nadzira.",
-          "Njegov odnos pokaže eno obliko osamljenosti v Gogi."
+          "Njegov odnos pokaže eno obliko osamljenosti v Gogi.",
+          null,
+          "Julio Gapit, oficial oziroma uradnik, ki živi v pritličju z lutko."
         ],
         [
           "S",
           "Klikot",
           "Ostaja pri neuresničenih željah in spominih.",
-          "Njegovo čakanje razširi konflikt na življenje prebivalcev mesta."
+          "Njegovo čakanje razširi konflikt na življenje prebivalcev mesta.",
+          null,
+          "Mestni pisar in Hanin nekdanji občudovalec."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Ekspresionistična odrska podoba",
+          "Hkrati vidne sobe pokažejo odtujenost prebivalcev. Gapit govori lutki, medtem ko drugod v mestu ljudje pričakujejo zunanji dogodek, ki bi jih predramil."
+        ],
+        [
+          "Groteska in ponavljanje",
+          "Meščane vznemiri možnost umora, nato se mesto vrne v običajni ritem. Neskladje med groteskno predstavo o dogodku in njihovim vsakdanom poudari ujetost."
+        ],
+        [
+          "Zanimanje za preteklost in podzavest",
+          "Hanin odziv na Preliha je povezan s preteklo zlorabo. Dramski pritisk zato izvira tudi iz vrnitve izkušnje, ki je mesto od zunaj ne vidi."
+        ]
+      ],
+      "periodSources": [
+        [
+          "https://www.dlib.si/details/URN%3ANBN%3ASI%3ADOC-Z462FGQL?language=slo",
+          "Dogodek v mestu Gogi · izvirna objava"
         ]
       ]
     },
@@ -1628,6 +2363,16 @@ window.STUDY = {
         "Prvo vprašanje deluje kot pogled za živaljo, pridevnik »napisana« pa jo že postavi na papir. Bralec se mora hkrati odzvati na nevarnost za srno in na izbiro besed, ki jo je ustvarila.",
         "Strel lahko v pesmi obstane, če pisanje ne določi njegovega cilja. Lov prikaže razliko med pripovednim časom, ki ga je mogoče urediti, in fizičnim časom pisca.",
         "Sklep poveže radost in umrljivost. Roka lahko ohrani trenutek za poznejšega bralca, svojega življenja pa ne more zadržati na enak način."
+      ],
+      "periodTraits": [
+        [
+          "Metapoezija",
+          "Povojna pesem govori o lastnem nastajanju: deklarirano napisana srna in napisani gozd opozorita, da pokrajino v trenutku branja sestavljajo besede."
+        ],
+        [
+          "Intelektualna igra in ironija",
+          "Črnilo vsebuje možne lovce, pesnica pa lahko njihovo kroglo ustavi. Zabaven primer vodi do resnega vprašanja, kaj lahko umetnost prihrani času."
+        ]
       ]
     },
     "35": {
@@ -1635,6 +2380,16 @@ window.STUDY = {
         "Govorka na začetku trdi, da ne pričakuje znamenja, vendar vztrajno uporablja besede o čudežu in angelu. Izbira besed pokaže hrepenenje po odgovoru sveta, ki ga ne more zahtevati.",
         "Sijaj mize in mokrega perja da običajnim stvarem natančno nalogo. Vran ji za trenutek dvigne veke, zato se sprememba začne v pozornosti in šele nato zadeva razpoloženje.",
         "Beseda »bežen« ob mejah kitic podaljša hip, ki ga označuje kot kratkega. Sklepno čakanje ohrani možnost novih trenutkov in njihovo nepredvidljivost."
+      ],
+      "periodTraits": [
+        [
+          "Povojna osebna lirika",
+          "Zasebno občutje pesem razvije iz opazovanja mokrega vrana in iz pripovedovalkine pripravljenosti, da v prizoru zazna kratko spremembo."
+        ],
+        [
+          "Zadržan odnos do razodetja",
+          "Veliki podobi čudeža in angela stojita ob navadnih predmetih ter ptici. Za hip vznikne občutek smisla, pesem pa mu ohrani krhkost in dvom."
+        ]
       ]
     },
     "36": {
@@ -1642,6 +2397,16 @@ window.STUDY = {
         "Nedoločniki puščajo izvajalca odprtega, zato kitice delujejo kot življenjske drže, uporabne za več ljudi. Njihovo zaporedje vodi od vztrajanja ob pritisku do priprave na konec.",
         "Jok trte po rezi je znak poškodbe in hkrati predhodnik rasti. Primera daje žalovanju možnost nadaljevanja, ne da bi ga odstranila.",
         "Zadnje spanje začne sanje o Jurjevem. Posameznikova minljivost se v sklepni podobi sreča s pomladjo, v kateri se obnova nadaljuje."
+      ],
+      "periodTraits": [
+        [
+          "Pozna meditativna lirika",
+          "Izbiranje osnovnih glagolov strne izkušnjo življenja v odločitve in drže. Glagoli na začetku posameznih delov pomenijo dejanja, ki jih lahko prevzame tudi drug človek."
+        ],
+        [
+          "Pogovor z izročilom",
+          "Podoba Jurjevega na koncu odpre pomladno obnovo. Osebni premislek o minljivosti se tako poveže s starim obrednim praznovanjem začetka rastne dobe."
+        ]
       ]
     },
     "37": {
@@ -1649,6 +2414,16 @@ window.STUDY = {
         "Stene neba so prostorsko protislovje. Puščava je odprta, deček pa je v njej izpostavljen pogledu starcev in sovražnim silam narave. Nevarnost se nadaljuje podnevi in ponoči.",
         "Z vsako ponovitvijo razpadanja ostane manj od ptic, ki so pred tem zakrile nebo. Izpuščanje nove jate po razpadu spremeni ponovitev v obliko trmastega vztrajanja.",
         "Ptice lahko pomenijo ustvarjanje ali upanje. Prvo branje poudari dejanje, s katerim deček nekaj pošlje v svet, drugo pa dejstvo, da brez njih v puščavi nima več opore."
+      ],
+      "periodTraits": [
+        [
+          "Povojna eksistencialna lirika",
+          "Samotna postava v puščavi se znajde med grožnjami. Ponavljajoča se izguba ptic oblikuje občutek, da upanje zahteva vedno nov napor."
+        ],
+        [
+          "Sodobna simbolna in ekspresivna podoba",
+          "Sonce in zvezde sta v pesmi nevarna, ptice pa se razkrojijo. S tem Zajc preoblikuje prepoznavne naravne podobe v prizor groze in ranljivosti."
+        ]
       ]
     },
     "38": {
@@ -1666,37 +2441,59 @@ window.STUDY = {
           "P*",
           "Bubi",
           "Radoveden opazovalec, znajde se med več jeziki.",
-          "Njegovo odraščanje združi zgodovino in družinski spomin."
+          "Njegovo odraščanje združi zgodovino in družinski spomin.",
+          null,
+          "Otroška podoba Lojzeta Kovačiča, ki se z družino preseli iz Basla v Jugoslavijo."
         ],
         [
           "A!",
           "Izgon, revščina in predsodki",
           "Določajo, kje družina sme bivati in kako jo presojajo sosedje ali uradniki.",
-          "Pogojujejo njeno varnost in dostop do dela."
+          "Pogojujejo njeno varnost in dostop do dela.",
+          null,
+          "Zgodovinske in družbene okoliščine, ki oblikujejo položaj priseljene družine."
         ],
         [
           "S*",
           "Vati",
           "Redkobeseden in navezan na okolje svojega izvora.",
-          "Očetova vrnitev in bolezen določata premike ter dohodke družine."
+          "Očetova vrnitev in bolezen določata premike ter dohodke družine.",
+          null,
+          "Bubijev oče, Slovenec in po poklicu krznar."
         ],
         [
           "S*",
           "Muti",
           "Skrb za otroke skuša ohraniti med selitvami in negotovimi razmerami.",
-          "Njen nemški govor je domača vez in pozneje povod za izključevanje."
+          "Njen nemški govor je domača vez in pozneje povod za izključevanje.",
+          null,
+          "Bubijeva nemško govoreča mati."
         ],
         [
           "S",
           "Margrit",
           "Kot starejša sestra ima drugačen položaj v družini kot Bubi.",
-          "Pokaže pot družinskega člana, na katerega svojevrstno vplivata vojna in izgon."
+          "Pokaže pot družinskega člana, na katerega svojevrstno vplivata vojna in izgon.",
+          null,
+          "Ena od Bubijevih dveh starejših sester."
         ],
         [
           "S",
           "Clairi",
           "Z Bubijem deli del otroških zaznav in prilagajanja.",
-          "Dopolni pogled na življenje otrok med selitvijo."
+          "Dopolni pogled na življenje otrok med selitvijo.",
+          null,
+          "Druga Bubijeva starejša sestra, po imenu tudi Claire."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Avtobiografska povojna proza",
+          "Bubijeva zgodba je povezana z izkušnjo avtorja. Selitev iz Švice in izgon po vojni velike politične dogodke pokažeta skozi izkušnjo ene družine."
+        ],
+        [
+          "Modernistična perspektiva",
+          "Otroški pogled ne more zajeti celotnega položaja odraslih. Prostori, preskrba in prehajanje med jeziki razkrivajo razmere postopoma, kakor jih zaznava Bubi."
         ]
       ]
     },
@@ -1715,37 +2512,65 @@ window.STUDY = {
           "P*",
           "Tjaž",
           "Nemiren, dovzeten za ponižanje in vztrajen v drobnih prestopih.",
-          "Njegova dejanja razkrijejo učinek zavodskega reda na telo in govor."
+          "Njegova dejanja razkrijejo učinek zavodskega reda na telo in govor.",
+          null,
+          "Koroški slovenski deček, dijak v katoliškem zavodu."
         ],
         [
           "A*",
           "Zavod in vzgojitelji",
           "Zahtevajo predvidljivo vedenje in spoštovanje obreda.",
-          "Tjaževo stisko presojajo predvsem kot disciplinski problem."
+          "Tjaževo stisko presojajo predvsem kot disciplinski problem.",
+          null,
+          "Katoliški dijaški zavod in osebje, ki skrbi za njegovo vzgojo in disciplino."
         ],
         [
           "S",
           "Nini",
           "Odprta za osebno bližino.",
-          "Pokaže možnost odnosa zunaj zavodskega reda."
+          "Pokaže možnost odnosa zunaj zavodskega reda.",
+          null,
+          "Dekle iz Tjaževega okolja, ki mu je osebno blizu."
         ],
         [
           "S",
           "Tjaževa mati",
           "V pripovedi se pojavlja predvsem skozi izgubo in spomin.",
-          "Njena odsotnost oblikuje fantovo zgodnje življenje."
+          "Njena odsotnost oblikuje fantovo zgodnje življenje.",
+          null,
+          "Tjaževa mati, ki zaradi podpore partizanom umre v koncentracijskem taborišču."
         ],
         [
           "S",
           "Babica",
           "Tjažu daje bližino zunaj zavodskega reda.",
-          "Predstavlja pomemben zgodnji odnos."
+          "Predstavlja pomemben zgodnji odnos.",
+          null,
+          "Tjaževa babica, ki skrbi zanj v otroštvu."
         ],
         [
           "S",
           "Sošolec",
           "Del Tjaževega vsakdana pod strogim redom.",
-          "Z njim sta povezana motiv opraskanega čevlja in prestopek v cerkvi."
+          "Z njim sta povezana motiv opraskanega čevlja in prestopek v cerkvi.",
+          null,
+          "Dijak iz Tjaževega zavodskega okolja."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Povojna modernistična proza",
+          "Razdrobljeno pripoved in besedne iznajdbe lahko beremo ob zavodskem govoru, ki bi Tjaževo življenje rad pojasnil enoznačno. Pogrebni govor je jasen primer tega razhajanja."
+        ],
+        [
+          "Koroška slovenska izkušnja",
+          "Izkušnja manjšinskega okolja se poveže z vprašanjem vzgoje in pripadnosti. Tjaževo praskanje prebije obredni red ustanove, ki zahteva nadzor tudi nad majhnimi kretnjami."
+        ]
+      ],
+      "periodSources": [
+        [
+          "https://beletrinadigital.si/e-knjiga/zmote-dijaka-tjaza",
+          "Zmote dijaka Tjaža · izdaja Beletrine"
         ]
       ]
     },
@@ -1783,31 +2608,68 @@ window.STUDY = {
           "Simon Veber",
           "Razmišljujoč in sprva odločen pri obrambi svojega imena.",
           "Njegovo raziskovanje ustanovi ponudi povod za nasilno poistovetenje.",
-          "Po posegu ostane brez noge."
+          "Po posegu ostane brez noge.",
+          "Zgodovinar in raziskovalec poljskega vstajnika Drohojowskega, zaprt v zavodu."
         ],
         [
           "A*",
           "Volodja",
           "Vsiljiv in dejaven, hitro izkoristi dvoumna navodila.",
-          "Simbolno preoblikovanje spremeni v telesni poseg."
+          "Simbolno preoblikovanje spremeni v telesni poseg.",
+          null,
+          "Bolničar v zavodu, ki ima neposredno oblast nad varovanci."
         ],
         [
           "A*",
           "Doktor",
           "Prilagodljiv, zna upravičevati oblast s strokovnim jezikom.",
-          "Omogoči postopek, potem dojame njegovo nasilno razsežnost."
+          "Omogoči postopek, potem dojame njegovo nasilno razsežnost.",
+          null,
+          "Zdravnik v zavodu, ki lahko določa diagnoze in zdravljenje."
         ],
         [
           "S",
           "Ljubica",
           "Občutljiva za stisko drugih prebivalcev.",
-          "Odpre pogled na medčloveške odnose pod nadzorom."
+          "Odpre pogled na medčloveške odnose pod nadzorom.",
+          null,
+          "Anglistka in slikarka, ena od varovank zavoda."
         ],
         [
           "S",
           "Prišlek, imenovan Chopin",
           "Njegova pomembna poteza je igranje klavirja.",
-          "V zaključku zaigra valček in odpre možnost nadaljnjega kroga."
+          "V zaključku zaigra valček in odpre možnost nadaljnjega kroga.",
+          null,
+          "Novi varovanec zavoda in pianist, ki mu pripišejo ime skladatelja Chopina."
+        ],
+        [
+          "S",
+          "Klara",
+          "Skrbi jo, kaj se dogaja s Simonom.",
+          "Predstavlja Simonovo vez z življenjem zunaj zavoda.",
+          null,
+          "Simonova žena, ki živi zunaj zavoda."
+        ]
+      ],
+      "periodTraits": [
+        [
+          "Groteskna povojna drama",
+          "Zavod zgodovinarja enači s predmetom njegove raziskave. Uradno prepričanje spremeni v telesno dejstvo z odvzemom noge, zato pravilo ustanove dobi groteskno logiko."
+        ],
+        [
+          "Kritika nadzora",
+          "Zdravniški govor in bolničarjeva dejanska moč pokažeta, kako ustanova razpolaga z življenjem varovancev. Odločitev o tem, kdo je Simon, je prepuščena tistim, ki mu odvzamejo glas."
+        ],
+        [
+          "Odprt sklep",
+          "Valček in prihod pianista nakažeta, da se lahko nastavljeni vzorec ponovi. Glasba na koncu obenem dopušča branje, da pomena vseh odzivov zavod ne obvladuje."
+        ]
+      ],
+      "periodSources": [
+        [
+          "https://veza.sigledal.org/uprizoritev/veliki-briljantni-valcek",
+          "Veliki briljantni valček · osebe in uprizoritev"
         ]
       ]
     }

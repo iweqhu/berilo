@@ -183,6 +183,65 @@ html:has(.era-dialog[open]){overflow:hidden}
 .cast-card small{color:var(--muted)}
 .cast-card p{margin-top:8px;font-size:.92rem}
 .cast-card strong,.device-quote{color:var(--peach)}
+.cast-card .cast-identity{color:var(--purple);font-weight:700;font-size:.88rem}
+.period-traits strong{color:var(--peach)}
+.period-traits p{margin-top:.15rem}
+
+.feedback-launcher{
+  position:fixed;right:max(18px,env(safe-area-inset-right));bottom:max(18px,env(safe-area-inset-bottom));z-index:8;
+  display:inline-flex;align-items:center;gap:9px;min-height:48px;padding:8px 15px;
+  border:1px solid #a992ba;border-radius:24px;background:#372940ed;color:var(--ink);
+  box-shadow:0 8px 26px #0b0812a8;backdrop-filter:blur(12px);font-weight:800;font-size:.82rem;
+  transition:background .18s,box-shadow .18s
+}
+.feedback-launcher:hover{background:#544060;box-shadow:0 8px 28px #090612ce}
+.feedback-dialog{
+  position:fixed;inset:auto max(16px,env(safe-area-inset-right)) max(16px,env(safe-area-inset-bottom)) auto;
+  width:min(408px,calc(100% - 32px));max-height:calc(100dvh - 32px);margin:0;padding:0;overflow:auto;
+  overscroll-behavior:contain;border:1px solid #89739b;border-radius:20px;color:var(--ink);
+  background:linear-gradient(145deg,#35293f,#201827 66%);box-shadow:0 20px 65px #090711c4
+}
+.feedback-dialog::backdrop{background:#100d1860}
+.feedback-dialog[open]{animation:era-arrive .2s ease-out both}
+html:has(.feedback-dialog[open]){overflow:hidden}
+.feedback-header{
+  position:sticky;top:0;z-index:1;display:flex;align-items:center;justify-content:space-between;gap:12px;
+  padding:12px 17px;border-bottom:1px solid var(--stroke);background:#32253ced;backdrop-filter:blur(12px)
+}
+.feedback-header h2{font-size:1.08rem}
+.feedback-header .chip{min-width:36px;min-height:36px;padding:4px}
+.feedback-body{padding:16px 17px}
+.feedback-bubble{
+  max-width:34ch;margin:0 0 13px;padding:9px 12px;border-radius:12px 12px 12px 3px;
+  border:1px solid #675373;background:#57436855;font-size:.91rem;line-height:1.48
+}
+.feedback-dialog form{margin:0}
+.feedback-dialog fieldset{margin:0 0 11px;border:0;padding:0;min-inline-size:0}
+.feedback-label,.feedback-dialog legend{display:block;margin:0 0 4px;font-size:.8rem;font-weight:800;color:var(--purple)}
+.feedback-choices{display:flex;gap:7px}
+.feedback-choices label{position:relative;cursor:pointer}
+.feedback-choices input{position:absolute;opacity:0;inline-size:1px;block-size:1px}
+.feedback-choices span{
+  display:block;padding:6px 11px;border:1px solid var(--stroke);border-radius:8px;font-size:.86rem;font-weight:700
+}
+.feedback-choices input:checked+span{background:#624979;border-color:#b799d1}
+.feedback-choices input:focus-visible+span{outline:2px solid var(--purple);outline-offset:3px}
+.feedback-entries{margin-bottom:10px}
+.feedback-dialog :is(input[type="search"],select,textarea){
+  display:block;width:100%;min-width:0;margin:0 0 7px;padding:7px 9px;min-height:41px;
+  border:1px solid #756282;border-radius:8px;background:#17121d;color:var(--ink);font:inherit;font-size:1rem
+}
+.feedback-dialog textarea{resize:vertical;min-height:82px;outline-offset:3px}
+.feedback-dialog :is(input[type="search"],textarea)::placeholder{color:#b0a0bc}
+#feedback-matches,.feedback-note{font-size:.77rem}
+.feedback-send{margin-top:9px;min-height:42px}
+.feedback-send:disabled{opacity:.65;cursor:wait}
+.feedback-error{margin-top:9px;color:#ffb7b1;font-size:.85rem}
+.feedback-receipt{border-color:#719a88;background:#26443f;overflow-wrap:anywhere}
+@media(max-width:480px){
+  .feedback-dialog{right:8px;bottom:max(8px,env(safe-area-inset-bottom));width:calc(100% - 16px)}
+  .feedback-launcher{right:max(12px,env(safe-area-inset-right));bottom:max(12px,env(safe-area-inset-bottom));min-height:44px;padding-inline:12px}
+}
 .stage-panel h3{margin:8px 0 6px;color:var(--peach)}
 .drama-reader .reader-scroll{max-height:clamp(175px,calc(100dvh - 275px),530px)}
 @media(max-width:710px){.era-grid,.works-list-layout,.study-home,.era-facts{grid-template-columns:minmax(0,1fr)}.resume{border-right:0;border-bottom:1px solid var(--stroke);padding:0 0 16px}}

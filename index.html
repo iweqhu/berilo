@@ -6,11 +6,12 @@
   <meta name="theme-color" content="#131119">
   <meta name="description" content="Književna dela in teme tretjega vprašanja.">
   <title>Berilo · Slovenščina</title>
-  <link rel="stylesheet" href="assets/style.css?v=20261122">
-  <script defer src="assets/data.js?v=20261122"></script>
-  <script defer src="assets/editorial.js?v=20261122"></script>
-  <script defer src="assets/study.js?v=20261122"></script>
-  <script defer src="assets/app.js?v=20261122"></script>
+  <link rel="stylesheet" href="assets/style.css?v=20261122-2">
+  <script defer src="assets/data.js?v=20261122-2"></script>
+  <script defer src="assets/editorial.js?v=20261122-2"></script>
+  <script defer src="assets/study.js?v=20261122-2"></script>
+  <script defer src="assets/app.js?v=20261122-2"></script>
+  <script defer src="assets/feedback.js?v=20261122-2"></script>
 </head>
 <body>
   <a class="skip" href="#vsebina">Preskoči na vsebino</a>
@@ -25,5 +26,45 @@
     </div>
   </header>
   <main class="wrap" id="vsebina" tabindex="-1"></main>
+  <button type="button" class="feedback-launcher" id="feedback-launcher" aria-haspopup="dialog" aria-controls="feedback-dialog">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M20.5 11a7.5 7.5 0 0 1-7.5 7.5H5l1.5-4A7.5 7.5 0 1 1 20.5 11Z"></path><path d="M9.5 11h.01m3.5 0h.01m3.5 0h.01"></path>
+    </svg>
+    <span>Sporoči napako</span>
+  </button>
+  <dialog class="feedback-dialog" id="feedback-dialog" aria-labelledby="feedback-heading">
+    <header class="feedback-header">
+      <h2 id="feedback-heading">Sporoči napako</h2>
+      <button type="button" class="chip" id="feedback-close" aria-label="Zapri obrazec">✕</button>
+    </header>
+    <div class="feedback-body">
+      <p class="feedback-bubble">Si opazil napako ali nejasno razlago? Povej, kje je in kaj bi bilo treba popraviti.</p>
+      <form id="feedback-form">
+        <fieldset>
+          <legend>Razdelek</legend>
+          <div class="feedback-choices">
+            <label><input type="radio" name="section" value="dela" required><span>Dela</span></label>
+            <label><input type="radio" name="section" value="teme"><span>Tretje vprašanje</span></label>
+          </div>
+        </fieldset>
+        <div class="feedback-entries" id="feedback-entries" hidden>
+          <label class="feedback-label" for="feedback-search">Poišči naslov</label>
+          <input id="feedback-search" type="search" placeholder="Vpiši del naslova …" autocomplete="off">
+          <label class="feedback-label" for="feedback-entry" id="feedback-entry-label">Delo</label>
+          <select id="feedback-entry" required disabled></select>
+          <span class="muted" id="feedback-matches" aria-live="polite"></span>
+        </div>
+        <label class="feedback-label" for="feedback-message">Kaj naj popravimo?</label>
+        <textarea id="feedback-message" rows="3" minlength="5" maxlength="1500" placeholder="Npr. v razlagi druge kitice je napačno navedeno …" required></textarea>
+        <p class="feedback-note muted">Ime in e-pošta nista potrebna.</p>
+        <button type="submit" class="button feedback-send">Pošlji pripombo</button>
+        <p id="feedback-error" class="feedback-error" role="alert" hidden></p>
+      </form>
+      <div id="feedback-receipt" hidden>
+        <p class="feedback-bubble feedback-receipt" role="status" id="feedback-receipt-text" tabindex="-1"></p>
+        <button type="button" class="chip" id="feedback-new">Nova pripomba</button>
+      </div>
+    </div>
+  </dialog>
 </body>
 </html>
