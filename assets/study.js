@@ -1467,10 +1467,20 @@ window.STUDY = {
           "Ena od tradicionalnih razlag: ris (lonza) pomeni nečistost ali poželenje, lev napuh, volkulja lakomnost."
         ],
         [
-          "Pekel, vice in raj",
+          "Pekel in raj",
           "Pekel: trajna kazen. Francesca in Paolo sta v vrtincu, tako kot ju je v življenju zanesla strast.",
-          "Vice: gora s sedmimi terasami za sedem glavnih grehov. Kazen je začasna, namen je očiščenje. Na vrhu zemeljski raj.",
-          "Vergil: razum, vodnik po peklu in večini vic. Beatrice v zemeljskem raju prevzame vlogo vodnice."
+          "Raj: vzpon skozi nebeške sfere do videnja Boga."
+        ],
+        [
+          "Vice",
+          "Gora očiščenja. Duše imajo upanje, da bodo po začasni kazni prišle v raj.",
+          "Sedem teras od spodaj navzgor: napuh, zavist, jeza, lenoba, lakomnost, požrešnost in nečistost.",
+          "Primer očiščenja: duše napuhlih nosijo težka bremena. Na vrhu gore je zemeljski raj."
+        ],
+        [
+          "Vodniki",
+          "Vergil: razum in vodstvo skozi pekel ter večino vic.",
+          "Beatrice: vera in ljubezen. Vodstvo prevzame v zemeljskem raju."
         ]
       ],
       "material": [
@@ -2217,7 +2227,7 @@ window.STUDY = {
         [
           "Dve vrsti ljubezni",
           "Baronovo minljivo poželenje in iskrena ljubezen Matička ter Nežke.",
-          "Razplet potrdi zvezo po svobodni izbiri."
+          "Trajna zveza temelji na iskreni ljubezni in svobodni izbiri."
         ],
         [
           "Zgovorna imena",
