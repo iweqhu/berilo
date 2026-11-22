@@ -625,6 +625,12 @@ window.BERILO = {
       ],
       "meaning": [
         "Tema je ločitev od doma in otroka. Vidina nova služba lahko odpravi gmotno stisko, a ji pogovor z nebesnim telesom šele razkrije ceno oddaljenosti."
+      ],
+      "sources": [
+        [
+          "https://eucbeniki.sio.si/slo1/2672/Lepa%20Vida.pdf",
+          "Lepa Vida · celotna ljudska pesem"
+        ]
       ]
     },
     "13": {
@@ -1338,7 +1344,7 @@ window.BERILO = {
   },
   "editions": {
     "2": {
-      "credit": "Prevod Anton Sovre. Tu so izbrani verzi.",
+      "credit": "Prevod Anton Sovre · izbrani verzi iz ohranjenega odlomka.",
       "edition": [
         "https://eucbeniki.sio.si/slo1/2442/Svatovska%20pesem.pdf",
         "Svatovska pesem · prevod Antona Sovreta"
@@ -1380,6 +1386,47 @@ window.BERILO = {
             "kakor usahla trava"
           ],
           "Mož ob ljubljeni ženski se zdi podoben bogovom. Primerjava pokaže, kaj za govorko pomeni biti ob njej in ostati miren."
+        ],
+        [
+          "Anafora / ponovitev",
+          [
+            "kakor usahla trava"
+          ],
+          "Primeri na začetku in pri koncu oklepata lok od moškega, podobnega bogovom, do govorke, ki pobledi kot trava."
+        ],
+        [
+          "Metafora",
+          [
+            "luč oči mi ugasne"
+          ],
+          "Ogenj in luč predstavljata vročino vznemirjenja in nenadno odpoved vida."
+        ],
+        [
+          "Nagovor",
+          [],
+          "Govorka se obrne k ljubljeni osebi, tudi kadar je v ospredju opis njene telesne nemoči."
+        ],
+        [
+          "Brezvezje",
+          [],
+          "Prva odziva v kitici postavi neposredno drug ob drugega. Premor je kratek in učinek deluje nenadno."
+        ],
+        [
+          "Antiteza",
+          [
+            "usta so nema"
+          ],
+          "Sproščeni glas opazovane osebe se postavi ob govorkin molk."
+        ],
+        [
+          "Metrum",
+          [],
+          "Antična sapfiška kitica ima tri sapfiške enajsterce in krajši adonij. Sovretov prevod ohrani opazno krajšanje sklepnega verza."
+        ],
+        [
+          "Inverzija",
+          [],
+          "Povedkovo določilo stoji pred osebkom »vsakdo«, zato kitica najprej poudari nenavadno blaženost."
         ]
       ],
       "fragments": [
@@ -1418,10 +1465,8 @@ window.BERILO = {
       "devices": [
         [
           "Metafora",
-          [
-            ""
-          ],
-          "Latinski glagol carpere pomeni tudi trgati ali obirati. Dan v zaključku dobi lastnost sadeža, ki ga je mogoče obrati, dokler je zrel."
+          [],
+          "Časovna meja je oblikovana kot sklenjen krog. Latinski carpe v sklepu dodatno vzbudi predstavo obiranja, ki jo Gantar poda z »užij«."
         ],
         [
           "Velelnik",
@@ -1429,6 +1474,33 @@ window.BERILO = {
             "užij današnji dan!"
           ],
           "Prepovedi vedeževanja sledita navodili za vino in sedanji dan. Nagovor tako vodi od brezplodnega računanja k izvedljivemu dejanju."
+        ],
+        [
+          "Nagovor",
+          [],
+          "Govorec poimenuje naslovnico, zato razmislek o času poteka v neposrednem odnosu med dvema osebama."
+        ],
+        [
+          "Antiteza",
+          [],
+          "Sedanji in kratki užitek dobi drugo vrednost ob dolgem načrtovanju prihodnosti."
+        ],
+        [
+          "Paralelizem členov",
+          [
+            "pa naj še mnogo zim"
+          ],
+          "Vzporedna pogoja odpreta dve možnosti, ki ju govorec obravnava z istim nasvetom."
+        ],
+        [
+          "Personifikacija",
+          [],
+          "Ob času si predstavljamo ubežnika, ki se ne meni za pogovor."
+        ],
+        [
+          "Rima",
+          [],
+          "Gantarjev prevod ima zaporedne pare rim, na primer greh – dveh in dni – zgodi."
         ]
       ],
       "fragments": [
@@ -1471,6 +1543,36 @@ window.BERILO = {
             "v srce krvave rane"
           ],
           "Lok, puščica in rana predstavijo zaljubljenost kot zadetek, ki ga oseba utrpi in ga ne more po volji odpraviti."
+        ],
+        [
+          "Inverzija",
+          [],
+          "Navadni položaj pomožnega glagola in določil se spremeni ob ritmu in rimah."
+        ],
+        [
+          "Oksimoron",
+          [],
+          "Dva nasprotna pridevnika opišeta en sam telesni odziv na ljubezen."
+        ],
+        [
+          "Metonimija",
+          [],
+          "Oči nastopijo namesto osebe. Pogled je prvi stik ter izvor poznejše odvisnosti."
+        ],
+        [
+          "Mnogovezje",
+          [],
+          "Ponavljajoči se »in« povezuje nize predmetov, ki vsi dobijo blagoslov."
+        ],
+        [
+          "Rima",
+          [],
+          "Prva kvartina z izmenično rimo ABAB zveže čas in pogled ter kraj in sedanjo držo."
+        ],
+        [
+          "Ponovitev",
+          [],
+          "Zveza z meje predzadnjega verza preide na začetek zadnjega. Zvočno izkaže vztrajnost misli."
         ]
       ],
       "fragments": [
@@ -1480,43 +1582,171 @@ window.BERILO = {
         "… vsi ti stihi …"
       ]
     },
+    "12": {
+      "devices": [
+        [
+          "Ponovitev",
+          [
+            "Le z mano, z mano"
+          ],
+          "Podvojeno vabilo zatrjuje, da je odhod edini izhod, še preden Vida premisli o posledicah."
+        ],
+        [
+          "Nagovor",
+          [
+            "ti rumeno sonce"
+          ],
+          "Vida ogovori sonce kot sogovornika, saj domačih ne more več sama vprašati, kaj se dogaja."
+        ],
+        [
+          "Personifikacija",
+          [
+            "Sonce pravi"
+          ],
+          "Sonce dobi človeško zmožnost govora in Vidi prinese vest o domu."
+        ],
+        [
+          "Paralelizem členov",
+          [
+            "Stari prekašljuje",
+            "dete prejokuje"
+          ],
+          "V obeh členih osebku sledi glagol, ki opiše dolgotrajno trpljenje. Vzporedje poveže usodi moža in otroka."
+        ],
+        [
+          "Okrasni pridevki",
+          [
+            "sinji skali",
+            "rumeno sonce",
+            "svitla luna"
+          ],
+          "Barvni in svetlobni pridevki oblikujejo prepoznavne podobe ljudske pesmi. Sonce in luna nastopata tudi kot prinašalca vesti."
+        ],
+        [
+          "Mnogovezje",
+          [
+            "ino tebe išče",
+            "ino se po tebi milo joka"
+          ],
+          "Ponovljeni veznik »ino« stopnjuje tesnobo v naštevanju tega, kar se je zgodilo doma."
+        ]
+      ]
+    },
     "14": {
-      "credit": "Samota, Renski gradovi in Slovo · izvirnik v angleščini.",
+      "credit": "Izbrani verzi iz odlomkov Samota, Renski gradovi, Morje in Slovo.",
       "edition": [
         "https://en.wikisource.org/wiki/Childe_Harold%27s_Pilgrimage",
         "Izvirnik v angleščini"
       ],
       "cues": [
-        "Samota",
-        "Renski gradovi",
-        "Slovo"
+        "Samota · 1. kitica",
+        "Samota · 2. kitica",
+        "Renski gradovi · razvaline",
+        "Renski gradovi · viteštvo",
+        "Renski gradovi · pozaba",
+        "Renski gradovi · Ren",
+        "Morje · človeška minljivost",
+        "Morje · zaupanje",
+        "Slovo · odtujenost",
+        "Slovo · preostalo upanje"
       ],
       "notes": [
         [
-          "V Samoti govorec najde bližino v gozdu in gorah, med ljudmi pa lahko ostane nepriznan. Samota se tako meri po občutku pripadnosti."
+          "Niz nedoločnikov vodi stran od človeških poti. Gorski prostor od govorca zahteva trud, hkrati mu omogoči pogovor z Naravo."
         ],
         [
-          "V Renskih gradovih razvaline hranijo sled grajske moči, ki je nekoč ogrožala okolico. Reka teče mimo tudi po propadu te oblasti in daje prizoru dolgo časovno merilo."
+          "Ponavljanje »brez koga« odšteva možnosti za bližino. Samota nastane sredi ljudi in se meri po tem, ali bo njegov odhod koga prizadel."
         ],
         [
-          "Slovo odpira pogled nazaj na stike z ljudmi. Govorec ohrani zadržano možnost dobrega, čeprav si želi odmika."
+          "Gradovi še stojijo, vendar so izgubili vojsko in nekdanji namen. Primera z duhovi zadrži vidno obliko, ki ji manjka prejšnje življenje."
+        ],
+        [
+          "Govorec poveže viteški blišč z ostrino vladanja. Vprašanje o veličini podvomi, ali posest in grb sama po sebi dokazujeta vrednost."
+        ],
+        [
+          "Ljubezen na ščitu je znamenje osebne zvestobe, a njen ogenj vodi tudi v spopade. Najprej se zdi vitezovo dejanje slavno, nato ostanejo požgane stene."
+        ],
+        [
+          "Reka je videla boje in prestala njihovo pozabo. Govorec njenemu toku postavi mejo pri osebnem spominu, ki ostane v njem."
+        ],
+        [
+          "Ocean ustavi oblast, ki jo človek lahko uveljavlja na kopnem. Ob smrti veliki zgodovinski in družbeni znaki odpadejo kot imena brez nagrobnika."
+        ],
+        [
+          "Otroški spomin morje približa telesu. Oksimoronska zveza o prijetnem strahu pojasni, zakaj nevarnosti ne začuti samo kot grožnjo."
+        ],
+        [
+          "Začetna vzajemna zavrnitev odpre naštevanje ravnanj, s katerimi bi si govorec lahko pridobil sprejetost, a se jim odpove. Mrtvaški prt ponazori že izkušeno odtujenost."
+        ],
+        [
+          "Ponovljeni začetek vodi v drugačen sklep. Ključno mesto dobi solza drugega človeka, saj mu dopušča verjeti v sočutje po slovesu."
         ]
       ],
       "devices": [
         [
           "Nasprotje",
-          [
-            ""
-          ],
+          [],
           "Razlika med skupino, v kateri se posameznik ne more izraziti, in samotno hojo skozi gozd nosi osrednji obrat Samote."
         ],
         [
           "Retorično vprašanje",
-          [
-            ""
-          ],
+          [],
           "Vprašanje o tem, kaj pomeni biti sam, izzove običajno enačenje samote z odsotnostjo drugih ljudi."
+        ],
+        [
+          "Antiteza",
+          [
+            "to ni samota"
+          ],
+          "Samost v pokrajini se v drugi kitici preobrne v osamljenost med ljudmi."
+        ],
+        [
+          "Anafora",
+          [
+            "brez koga"
+          ],
+          "Trije dodatki se začnejo enako in postopoma odvzamejo različne pogoje bližine."
+        ],
+        [
+          "Nagovor",
+          [],
+          "Reka in morje postaneta neposredna naslovnika. Osebni spomin se tako poveže z večjo naravno silo."
+        ],
+        [
+          "Primera",
+          [
+            "kot vzvišeni duhovi"
+          ],
+          "Gradovi ohranijo videz nekdanje moči, človek v morju pa dobi merilo neznatne kaplje."
+        ],
+        [
+          "Metafora",
+          [],
+          "Slap in valovi dobijo poteze živega telesa, odtujenost pa je oblečena v mrtvaški prt."
+        ],
+        [
+          "Paralelizem členov",
+          [],
+          "Govorec in svet zamenjata skladenjski položaj, zavrnitev pa je obojestranska."
+        ],
+        [
+          "Rima",
+          [],
+          "Samota začne z vzorcem ABABB, celotna spenserjanska kitica ima rime ABABBCBCC. Posebnost izvirnika je podaljšani deveti verz."
         ]
+      ],
+      "linkLabel": "Angleški izvirnik",
+      "fragments": [
+        "… to ni samota …",
+        "… brez koga …",
+        "… kot vzvišeni duhovi …",
+        "… družba samozvana …",
+        "… do bitk …",
+        "… o, Ren …",
+        "… grob brez groba …",
+        "… strah prijeten …",
+        "… mrtvaški sem zavil …",
+        "… viteško slovo …"
       ]
     },
     "15": {
@@ -1558,14 +1788,62 @@ window.BERILO = {
             "kot našlo v burji bi pokoj"
           ],
           "Mir se pojavi kot nekaj, kar bi upornik mogel najti sredi viharja. Nasprotje pojasni njegovo vztrajanje na poti."
+        ],
+        [
+          "Retorično vprašanje",
+          [
+            "kaj gnalo proč ga od domovja?",
+            "Zakaj v daljine hrepeni?"
+          ],
+          "Vprašanja nimajo neposrednega odgovora; pokrajini pripišejo notranji nemir."
+        ],
+        [
+          "Okrasni pridevek",
+          [
+            "sinjega valovja",
+            "divje burje"
+          ],
+          "Prvi pridevnik zaznamuje barvo pogleda z obale, drugi v vetru poudari nevarnost."
+        ],
+        [
+          "Paralelizem členov",
+          [
+            "Pod njim svetló",
+            "nad njim zlati"
+          ],
+          "Zgradba dveh vrstic postavi jadro med morsko gladino in sončni sij."
+        ],
+        [
+          "Inverzija",
+          [
+            "kot našlo v burji bi pokoj"
+          ],
+          "Spremenjeni vrstni red odloži besedo pokoj do sklepa, ko je napetost med mirom in viharjem največja."
+        ],
+        [
+          "Onomatopoija",
+          [
+            "škriplje jambor"
+          ],
+          "Glagol »škriplje« z glasovi škr približa zvok obremenjenega lesa."
+        ],
+        [
+          "Rima",
+          [
+            "valovja",
+            "domovja",
+            "beli",
+            "hrepeni"
+          ],
+          "V prvi kitici prevoda je uporabno slišati izmenični vzorec. Prvi in tretji verz se rimata skupaj, drugi in četrti tvorita drugi par."
         ]
       ]
     },
     "16": {
       "credit": "Prevod Mile Klopčič. Tu so izbrani verzi.",
       "edition": [
-        "https://www.nemscina.si/zanimivosti/kultura-in-tradicija/lorelaj/",
-        "Lorelaj · prevod Mileta Klopčiča"
+        "https://esicprojektheine.wordpress.com/about/",
+        "Lorelaj · slovenski prevod (projekt ESIC)"
       ],
       "notes": [
         [
@@ -1602,6 +1880,32 @@ window.BERILO = {
             "čeri mu ne vidi oko"
           ],
           "Vrstni red poteka od večerne reke prek dekleta in glasu do čolnarjevega usodnega pogleda."
+        ],
+        [
+          "Inverzija",
+          [
+            "čeri mu ne vidi oko"
+          ],
+          "Predmet je pomaknjen na začetek, tako da bralec najprej dobi prav nevarnost, ki je čolnar spregleda."
+        ],
+        [
+          "Ponavljanje",
+          [],
+          "V sosednjih verzih se ponavlja besedna družina zlato, ki poveže okrase in lase na skali."
+        ],
+        [
+          "Metafora",
+          [
+            "da ledeni ti kri"
+          ],
+          "Fizično ohlajanje krvi je izraz silovitega odziva na glas, ne dobesedni opis temperature."
+        ],
+        [
+          "Rima",
+          [
+            "in tiho teče Ren"
+          ],
+          "Klopčičeve štirivrstičnice težijo k izmenični rimi, v drugi kitici se konec tega verza ujame z »greben«."
         ]
       ],
       "fragments": [
@@ -1611,7 +1915,8 @@ window.BERILO = {
         "… da ledeni ti kri …",
         "… čeri mu ne vidi oko …",
         "… Verjetno na dno …"
-      ]
+      ],
+      "inlineEdition": true
     },
     "17": {
       "credit": "France Prešeren · Sonetje nesreče, 1., 5. in 6.",
@@ -1726,6 +2031,74 @@ window.BERILO = {
             "strah zbežal je, z njim upanje"
           ],
           "Sladko postane strup, ugodje in udarec pa imata na koncu enak učinek: govorec je izgubil odziv na oboje."
+        ],
+        [
+          "Inverzija",
+          [
+            "kjer hiša mojega stoji očeta"
+          ],
+          "Svojilno določilo je razmaknjeno z glagolom, tako da očeta dobimo na koncu verza."
+        ],
+        [
+          "Personifikacija",
+          [
+            "čas v nji rabelj hudi",
+            "strah zbežal je"
+          ],
+          "Čas opravlja človeško vlogo, strah pa ob koncu zapusti govorca kakor oseba."
+        ],
+        [
+          "Alegorija",
+          [
+            "Življenje ječa",
+            "trpljenje in obup mu hlapca zvesta",
+            "in kes čuvaj"
+          ],
+          "V petem sonetu več oseb in predmetov skupaj zastopa duševno izkušnjo ječe. Povezava ni omejena na eno metaforo."
+        ],
+        [
+          "Rima",
+          [
+            "domača",
+            "kača",
+            "očeta",
+            "svéta"
+          ],
+          "Prva kvartina prvega soneta ima oklepajočo rimo ABBA, pri kateri se srednja verza rimata med seboj."
+        ],
+        [
+          "Metrum",
+          [
+            "O Vrba! srečna, draga vas domača"
+          ],
+          "Prešernov sonet uporablja jambski enajsterec, četudi se začetni vzklik pri glasnem branju dodatno poudari."
+        ]
+      ]
+    },
+    "18": {
+      "devices": [
+        [
+          "Apostrofa / nagovor",
+          [
+            "prijatlja dragi mani"
+          ],
+          "Bogomili in Črtomirju se govor iz tretje osebe približa v neposrednem nagovoru. Posvetilo na začetku pa kot naslovnika prikliče mrtvega Matijo Čopa."
+        ],
+        [
+          "Rima",
+          [
+            "pesem milo",
+            "hladilo",
+            "prezgodnjem gróbi"
+          ],
+          "Uvod uporablja verižne tercine ABA BCB, v Krstu pa osemvrstična kitica praviloma razvije ABABABCC. Sklepni dvojni verz v posamezni kitici zapre misel."
+        ],
+        [
+          "Metafora",
+          [
+            "Pokopal misli visokoletéče"
+          ],
+          "V posvetilnem sonetu pokop misli ponazori odpoved zemeljskim pričakovanjem. Besedje groba se pozneje poveže s Črtomirjevo izgubo in verskim upanjem."
         ]
       ]
     },
@@ -1793,6 +2166,54 @@ window.BERILO = {
             "al pekel, al nebo"
           ],
           "Pekel in nebo zgoščata skrajni izkušnji, ki ju mora pesniški glas ubesediti."
+        ],
+        [
+          "Anafora",
+          [
+            "Kdo zná",
+            "Kdo vé",
+            "Kdo učí"
+          ],
+          "Trije začetki z istim zaimkom uokvirijo nemogoče iskanje rešitve."
+        ],
+        [
+          "Stopnjevanje",
+          [
+            "Kdo zná",
+            "Kdo vé",
+            "Kdo učí",
+            "Kako"
+          ],
+          "Govorec gre od temne misli do kljuvanja in nato zajame vse tri čase. Četrto vprašanje zahteva posledico za pesnika."
+        ],
+        [
+          "Inverzija",
+          [
+            "noč temno",
+            "Stanu\nse svojega spomni"
+          ],
+          "Pridevnik se pomakne za samostalnik in svojilni izraz odmakne od začetnega »stanu«."
+        ],
+        [
+          "Rima",
+          [
+            "vé",
+            "srce",
+            "dné",
+            "učí",
+            "dni",
+            "oči",
+            "morí"
+          ],
+          "V notranjosti pesmi zaključni glasovi povežejo skupine različno dolgih verzov."
+        ],
+        [
+          "Nagovor",
+          [
+            "bit óčeš poet",
+            "se svojega spomni"
+          ],
+          "Z drugo osebo govorec iz splošnega vprašanja preide k neposredni zahtevi do pevca."
         ]
       ]
     },
@@ -1851,6 +2272,52 @@ window.BERILO = {
             "polnih borb, polnih ječanja"
           ],
           "Pozivi postajajo vse glasnejši. Enak začetek verzov drži isti ritem ob različnih željah."
+        ],
+        [
+          "Rima",
+          [
+            "mrače",
+            "tihi",
+            "vzdihi",
+            "žive",
+            "čas",
+            "višavi",
+            "puščavi",
+            "jaz"
+          ],
+          "V kiticah slišimo oklepajočo vez. V tretji sta višavi in puščavi notranji par, čas in jaz pa zunanji."
+        ],
+        [
+          "Metrum",
+          [
+            "Ko dobrave se mrače",
+            "k meni spo glasovi tihi"
+          ],
+          "Pogost je trohejski vzorec s padanjem od poudarjenega k nepoudarjenemu zlogu. Verzi si sledijo v sedem- in osemzložnih oblikah."
+        ],
+        [
+          "Ponovitev",
+          [
+            "Jasnih, jasnih",
+            "Tiho, tiho"
+          ],
+          "Dve ponovitvi dajeta različen značaj dveh vrstic: prvo zažene klic k dejanju, drugo branje umiri."
+        ],
+        [
+          "Nagovor",
+          [
+            "Pridite, nevihte ve",
+            "pridi, burno ti življenje"
+          ],
+          "Govorec se vede, kot da bi vihar in življenje lahko slišala njegov poziv."
+        ],
+        [
+          "Antiteza",
+          [
+            "Mir, ah, lega na zemljó",
+            "meni ni ga moč dobiti"
+          ],
+          "Zunanji mir se postavi ob nemir človeka, ki ga posluša."
         ]
       ]
     },
@@ -1916,6 +2383,30 @@ window.BERILO = {
             "smrti."
           ],
           "Besedi za slutnjo in smrt stojita v ločenih verzih. Drugi verz dokonča misel z najtežjo besedo pesmi."
+        ],
+        [
+          "Retorično vprašanje",
+          [
+            "Kdo?"
+          ],
+          "Osamljeno vprašanje ustavi opis, na mestu pričakovanega odgovora pa ostane samo senca."
+        ],
+        [
+          "Ponovitev",
+          [
+            "za menoj,",
+            "z menoj"
+          ],
+          "Isti zaimek v sosednjih vrsticah spremeni odnos do prostora z zamenjavo predloga."
+        ],
+        [
+          "Soglasniški zven",
+          [
+            "Senca na njem.",
+            "Nekdo gleda",
+            "nepokoj"
+          ],
+          "V poznih verzih se ponavlja nosni n. Učinek podpira zvočno vez med senco, pogledom in nemirom."
         ]
       ]
     },
@@ -2016,6 +2507,50 @@ window.BERILO = {
             "rdečem morju"
           ],
           "Pridevki najprej izrišejo svetle stavbe, nato jih ista kitica položi v pekočo rdečo barvo."
+        ],
+        [
+          "Hiperbola",
+          [
+            "tisočkrat mrtvi evropski človek"
+          ],
+          "Večkratna smrt pretirava in meri na dolgotrajno moralno izčrpanost."
+        ],
+        [
+          "Nagovor",
+          [
+            "sonce večerno, boš zasijalo"
+          ],
+          "Govorec sonce neposredno vpraša o žarkih, s čimer pokrajina dobi vlogo udeleženke."
+        ],
+        [
+          "Paralelizem členov",
+          [
+            "dokler ne padeva jaz in ti",
+            "dokler ne pademo jaz in vsi"
+          ],
+          "Vzporedna stavka razširita obseg skupnosti z dvojine na množino."
+        ],
+        [
+          "Sinestezija",
+          [
+            "sladkih oblakov"
+          ],
+          "Okus se pripiše vidnemu pojavu, kar ustvari neprijeten preplet privlačnosti in krvi."
+        ],
+        [
+          "Mnogovezje",
+          [
+            "in vode ni več v Evropi",
+            "in mi ljudje"
+          ],
+          "Veznik nezadržno kopiči stanja in dejanja, povezana s krvjo."
+        ],
+        [
+          "Retorično vprašanje",
+          [
+            "s pekočimi žarki? Še v to?"
+          ],
+          "Kratka ponovitev vprašanja zgošča strah za prizor, ki je še zelen."
         ]
       ]
     },
@@ -2069,6 +2604,41 @@ window.BERILO = {
             "z verigami znakov"
           ],
           "Vprašanja o srni in pravilih bralca postopoma pripeljejo od podob iz gozda k razmisleku o nastajanju besedila."
+        ],
+        [
+          "Personifikacija",
+          [
+            "prežeči stavki"
+          ],
+          "Jezikovna enota dobi lastnost plenilca. S tem besede postanejo udeleženke lastnega prizora."
+        ],
+        [
+          "Ponovitev",
+          [
+            "ta napisana srna"
+          ],
+          "Izvirna vprašanja ponavljajo pridevnik za zapisano. Prav povratek iste besede žival nenehno vrača na papir."
+        ],
+        [
+          "Metonimija",
+          [
+            "V kaplji črnila"
+          ],
+          "Oprijemljivi material pomeni nastajajoči zapis, ki lahko vsebuje lovce in dejanja."
+        ],
+        [
+          "Paradoks",
+          [
+            "krogel, zadržanih v letu"
+          ],
+          "Let je gibanje, zadržanje pa trajanje brez premika. Povezava pokaže pesnikovo moč nad časom prizora."
+        ],
+        [
+          "Brezvezje",
+          [
+            "Maščevanje umrljive roke."
+          ],
+          "Tri sklepne kratke povedi stojijo brez veznikov. Zadnja konkretizira razmerje pisanja do umrljivosti."
         ]
       ],
       "fragments": [
@@ -2078,7 +2648,8 @@ window.BERILO = {
         "… krogel, zadržanih v letu …",
         "… z verigami znakov …",
         "… Maščevanje umrljive roke. …"
-      ]
+      ],
+      "inlineEdition": true
     },
     "35": {
       "credit": "Prevod Miha Avanzo. Tu so izbrani verzi.",
@@ -2141,7 +2712,6 @@ window.BERILO = {
         [
           "Prestop",
           [
-            "še vedno",
             "bežen",
             "to svoje"
           ],
@@ -2150,10 +2720,31 @@ window.BERILO = {
         [
           "Ponovitev",
           [
-            "si ravna in poravnava",
             "dolgo čakanje"
           ],
           "Vran se vrača k istemu gibu, govorka pa k čakanju. Ponavljanje se pojavi tako pri opazovanem dejanju kot pri čustvu."
+        ],
+        [
+          "Antiteza",
+          [
+            "iz nemega sveta"
+          ],
+          "Svet na začetku ostaja brez pričakovanega odgovora; trenutni sijaj ustvari kratko izkušnjo odprtosti."
+        ],
+        [
+          "Metonimija",
+          [],
+          "Dvignjene veke delujejo kot telesni znak ponovno zbujene pozornosti."
+        ],
+        [
+          "Brezvezje",
+          [],
+          "Naštete lastnosti se vrstijo brez vezniškega povezovanja in povečujejo vrednost kratkega trenutka."
+        ],
+        [
+          "Okrasni pridevki",
+          [],
+          "Prvi niz podobo natančno približa, drugi izraža govorčev odnos do okolja."
         ]
       ],
       "edition": [
@@ -2198,28 +2789,20 @@ window.BERILO = {
       "devices": [
         [
           "Nasprotje",
-          [
-            "luč",
-            "blato",
-            "klovnovskih lic",
-            "zares na odru umre"
-          ],
+          [],
           "Luč in blato dajeta izkušnji dva obraza. Igralec iz četrte kitice zveže smeh in resnično umiranje."
         ],
         [
           "Personifikacija",
           [
-            "spremljevalki",
-            "bolečini za roko",
-            "trta, ki joče"
+            "bolečini za roko"
           ],
           "Bolečina lahko prime človeka za roko. Trti je pripisano jokanje, ki ima v njeni rasti dejansko podlago."
         ],
         [
           "Primera",
           [
-            "samo ko trta",
-            "kakor se daje igralec"
+            "samo ko trta"
           ],
           "Trta utemelji tiho žalost, igralec pa brezpogojno dajanje."
         ],
@@ -2227,8 +2810,6 @@ window.BERILO = {
           "Vzporedni nedoločniki",
           [
             "Stati",
-            "Molčati",
-            "Jokati",
             "Dajati",
             "Znati",
             "Spati"
@@ -2242,6 +2823,37 @@ window.BERILO = {
             "Spati"
           ],
           "Prvi nedoločnik konča niz navodil. Ponovitev čez verzni prelom začne podobo sanj in nove pomladi."
+        ],
+        [
+          "Metafora",
+          [],
+          "Jedro poimenuje najbolj varovani del človeka, steblika v sklepu pa konkretno vitalnost pomladne rasti."
+        ],
+        [
+          "Paralelizem členov",
+          [
+            "Stati",
+            "Dajati",
+            "Znati"
+          ],
+          "Nedoločniki na začetkih kitic dajo različno dolgim podobam isti slovnični okvir."
+        ],
+        [
+          "Inverzija",
+          [],
+          "Postavljeni pridevnik upočasni verz in poudari, da gre za skrite solze."
+        ],
+        [
+          "Brezvezje",
+          [],
+          "Zaporedje samostojnih začetnih glagolov med kiticami deluje brez povezovalnega stavka. Znotraj posamezne podobe pa ostajajo navadni vezniki."
+        ],
+        [
+          "Stopnjevanje",
+          [
+            "spati."
+          ],
+          "Od urejanja odprtih zadev preide pesem k poslednjemu dejanju. Vsaka stopnja ima drugačno časovno težo."
         ]
       ],
       "edition": [
@@ -2294,7 +2906,6 @@ window.BERILO = {
           [
             "stene neba",
             "naročje polno ptic",
-            "rumena groza peska",
             "steklene kosti"
           ],
           "Nebo zapira prostor. Ptice lahko razumemo kot upanje ali kot pesmi, ker so edino, kar deček lahko znova izpusti."
@@ -2308,10 +2919,7 @@ window.BERILO = {
         ],
         [
           "Personifikacija",
-          [
-            "zlobno sonce",
-            "Zgrabi te rumena groza peska"
-          ],
+          [],
           "Narava dobi dejanja napadalca. Zaradi tega deček v njej čuti pritisk, ki ga pozna tudi v srečanju s starci."
         ],
         [
@@ -2325,9 +2933,7 @@ window.BERILO = {
         [
           "Okrasni pridevek",
           [
-            "rumenem pesku",
             "tenke kačje vijuge",
-            "zateglo žalostjo",
             "sive ujede"
           ],
           "Pridevki zožijo sliko od velike barvne površine do drobnih sledi in sivih ptic roparic."
@@ -2335,11 +2941,35 @@ window.BERILO = {
         [
           "Paralelizem členov",
           [
-            "Razpadejo v perje.",
-            "Razpadejo v meso.",
             "Razpadejo v pepel."
           ],
           "V enako sestavljenih povedih se menja zadnja beseda. Zaporedje pokaže, da po letu ostajajo vse manjši sledovi ptic."
+        ],
+        [
+          "Ponavljanje",
+          [
+            "naročje polno ptic"
+          ],
+          "Ponavljanje vrača dečka v isti položaj in sproti obnavlja pomen ptic."
+        ],
+        [
+          "Stopnjevanje",
+          [
+            "Razpadejo v pepel."
+          ],
+          "Trije ostanki ohranjajo vse manj od oblike žive ptice."
+        ],
+        [
+          "Antiteza",
+          [
+            "ledene zvezde"
+          ],
+          "Dan in noč sta nasprotna po času in temperaturi, v učinku na ptice pa se ujameta."
+        ],
+        [
+          "Nagovor",
+          [],
+          "Druga oseba ohrani bližino do dečkove izkušnje in usmeri bralca v njegovo perspektivo."
         ]
       ],
       "fragments": [
