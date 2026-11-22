@@ -1344,7 +1344,7 @@ window.BERILO = {
   },
   "editions": {
     "2": {
-      "credit": "Prevod Anton Sovre · izbrani verzi iz ohranjenega odlomka.",
+      "credit": "Prevod Anton Sovre · ohranjeni odlomek.",
       "edition": [
         "https://eucbeniki.sio.si/slo1/2442/Svatovska%20pesem.pdf",
         "Svatovska pesem · prevod Antona Sovreta"
@@ -1397,48 +1397,59 @@ window.BERILO = {
         [
           "Metafora",
           [
+            "nežen ogenj bliskoma spreleti me",
             "luč oči mi ugasne"
           ],
           "Ogenj in luč predstavljata vročino vznemirjenja in nenadno odpoved vida."
         ],
         [
           "Nagovor",
-          [],
+          [
+            "vedi",
+            "moja Agalis"
+          ],
           "Govorka se obrne k ljubljeni osebi, tudi kadar je v ospredju opis njene telesne nemoči."
         ],
         [
           "Brezvezje",
-          [],
+          [
+            "Pot oblije vse mi telo, trepečem"
+          ],
           "Prva odziva v kitici postavi neposredno drug ob drugega. Premor je kratek in učinek deluje nenadno."
         ],
         [
           "Antiteza",
           [
+            "smeh očarljivi",
             "usta so nema"
           ],
           "Sproščeni glas opazovane osebe se postavi ob govorkin molk."
         ],
         [
           "Metrum",
-          [],
+          [
+            "smeh očarljivi."
+          ],
           "Antična sapfiška kitica ima tri sapfiške enajsterce in krajši adonij. Sovretov prevod ohrani opazno krajšanje sklepnega verza."
         ],
         [
           "Inverzija",
-          [],
+          [
+            "Blažen ko bogovi se zdi mi vsakdo"
+          ],
           "Povedkovo določilo stoji pred osebkom »vsakdo«, zato kitica najprej poudari nenavadno blaženost."
         ]
       ],
-      "fragments": [
-        "… Blažen ko bogovi …",
-        "… usta so nema …",
-        "… luč oči mi ugasne …",
-        "… kakor usahla trava …",
-        "… treba vse je prenesti …"
+      "stanzas": [
+        "Blažen ko bogovi se zdi mi vsakdo,\nkdor sedi nasproti lahkó ti v družbi,\nzbliza sluša glas tvoj sladko prikupni,\nsmeh očarljivi.",
+        "Meni stiska, vedi, srce se v prsih:\nkajti naj ugledam te zgolj za hipec,\nglas noben ne pride mi več iz grla,\nusta so nema.",
+        "Jezik več ne gane se nepremičen,\nnežen ogenj bliskoma spreleti me,\nluč oči mi ugasne, v ušesih slišim\nšumno bučanje.",
+        "Pot oblije vse mi telo, trepečem,\nBleda bolj sem kakor usahla trava,\nmalo še, pa po meni biló bi, mislim,\nmoja Agalis.",
+        "Toda treba vse je prenesti ..."
       ]
     },
     "3": {
-      "credit": "Oda I, 11 · prevod Kajetan Gantar. Tu so izbrani verzi.",
+      "credit": "Oda I, 11 · prevod Kajetan Gantar.",
       "edition": [
         "https://eucbeniki.sio.si/slo1/2442/Carpe%20diem.pdf",
         "Carpe diem · prevod Kajetana Gantarja"
@@ -1465,7 +1476,9 @@ window.BERILO = {
       "devices": [
         [
           "Metafora",
-          [],
+          [
+            "zadnji krog"
+          ],
           "Časovna meja je oblikovana kot sklenjen krog. Latinski carpe v sklepu dodatno vzbudi predstavo obiranja, ki jo Gantar poda z »užij«."
         ],
         [
@@ -1477,40 +1490,53 @@ window.BERILO = {
         ],
         [
           "Nagovor",
-          [],
+          [
+            "Dekle"
+          ],
           "Govorec poimenuje naslovnico, zato razmislek o času poteka v neposrednem odnosu med dvema osebama."
         ],
         [
           "Antiteza",
-          [],
+          [
+            "kratka slast",
+            "dolge dni"
+          ],
           "Sedanji in kratki užitek dobi drugo vrednost ob dolgem načrtovanju prihodnosti."
         ],
         [
           "Paralelizem členov",
           [
-            "pa naj še mnogo zim"
+            "pa naj še mnogo zim",
+            "pa najsi z letošnjo"
           ],
           "Vzporedna pogoja odpreta dve možnosti, ki ju govorec obravnava z istim nasvetom."
         ],
         [
           "Personifikacija",
-          [],
+          [
+            "čas beži"
+          ],
           "Ob času si predstavljamo ubežnika, ki se ne meni za pogovor."
         ],
         [
           "Rima",
-          [],
+          [
+            "greh",
+            "dveh",
+            "dni",
+            "zgodi"
+          ],
           "Gantarjev prevod ima zaporedne pare rim, na primer greh – dveh in dni – zgodi."
         ]
       ],
-      "fragments": [
-        "… Iz babilonskih knjig …",
-        "… pa naj še mnogo zim …",
-        "… užij današnji dan! …"
+      "stanzas": [
+        "Dekle, ne poizveduj, ker vedeti je greh,\nkako je sklenil bog z usodo naju dveh!\nIz babilonskih knjig ne štej si svojih dni!",
+        "Voljnó pretŕpi vse, kar koli se zgodi,\npa naj še mnogo zim nakloni nama bog,\npa najsi z letošnjo je sklenjen zadnji krog.\nNe bodi muhasta in vina si nalij!",
+        "Boljša je kratka slast kot up na dolge dni.\nGlej, čas beži! Besed ne zgubljajva zaman!\nNe veruj v jutrišnji, užij današnji dan!"
       ]
     },
     "8": {
-      "credit": "Sonet št. 61 · prevod Ciril Zlobec. Tu so izbrani verzi.",
+      "credit": "Sonet št. 61 · prevod Ciril Zlobec.",
       "edition": [
         "https://eucbeniki.sio.si/slo1/2471/536f6e657420c5a1742e203631.pdf",
         "Sonet 61 · prevod Cirila Zlobca"
@@ -1546,40 +1572,57 @@ window.BERILO = {
         ],
         [
           "Inverzija",
-          [],
+          [
+            "kjer bil od dvoje lepih sem oči",
+            "drago sem ime"
+          ],
           "Navadni položaj pomožnega glagola in določil se spremeni ob ritmu in rimah."
         ],
         [
           "Oksimoron",
-          [],
+          [
+            "grenko sladki vzdih"
+          ],
           "Dva nasprotna pridevnika opišeta en sam telesni odziv na ljubezen."
         ],
         [
           "Metonimija",
-          [],
+          [
+            "dvoje lepih sem oči"
+          ],
           "Oči nastopijo namesto osebe. Pogled je prvi stik ter izvor poznejše odvisnosti."
         ],
         [
           "Mnogovezje",
-          [],
+          [
+            "in blažen mesec, leto, blažen kraj",
+            "in blažen lok"
+          ],
           "Ponavljajoči se »in« povezuje nize predmetov, ki vsi dobijo blagoslov."
         ],
         [
           "Rima",
-          [],
+          [
+            "dni",
+            "oči",
+            "kraj",
+            "zdaj"
+          ],
           "Prva kvartina z izmenično rimo ABAB zveže čas in pogled ter kraj in sedanjo držo."
         ],
         [
           "Ponovitev",
-          [],
+          [
+            "le nje"
+          ],
           "Zveza z meje predzadnjega verza preide na začetek zadnjega. Zvočno izkaže vztrajnost misli."
         ]
       ],
-      "fragments": [
-        "… O, blažen bodi …",
-        "… v srce krvave rane …",
-        "… solzé in vzdihi …",
-        "… vsi ti stihi …"
+      "stanzas": [
+        "O, blažen bodi čas pomladnih dni\nin blažen mesec, leto, blažen kraj,\nkjer bil od dvoje lepih sem oči\ntako prevzet, da sem njih suženj zdaj.",
+        "In blažen prvi grenko sladki vzdih,\nki z Amorjem me v eno je spojil,\nin blažen lok, puščice, ki od njih\nv srce krvave rane sem dobil.",
+        "In blažene željé, solzé in vzdihi\nin še besede mnoge, brez števila,\nki z njimi klical drago sem ime.",
+        "In blaženi naj bodo vsi ti stihi,\nki njo slave, in misel, ki le nje,\nle nje se je za vselej oklenila."
       ]
     },
     "12": {
@@ -1633,7 +1676,7 @@ window.BERILO = {
       ]
     },
     "14": {
-      "credit": "Izbrani verzi iz odlomkov Samota, Renski gradovi, Morje in Slovo.",
+      "credit": "Slovenski odlomki iz berila · Samota, Renski gradovi, Morje in Slovo. Med odlomkoma Morja je v berilu označen izpust.",
       "edition": [
         "https://en.wikisource.org/wiki/Childe_Harold%27s_Pilgrimage",
         "Izvirnik v angleščini"
@@ -1696,7 +1739,8 @@ window.BERILO = {
         [
           "Antiteza",
           [
-            "to ni samota"
+            "to ni samota",
+            "to je samota prava"
           ],
           "Samost v pokrajini se v drugi kitici preobrne v osamljenost med ljudmi."
         ],
@@ -1709,45 +1753,62 @@ window.BERILO = {
         ],
         [
           "Nagovor",
-          [],
+          [
+            "Ti pa, o, Ren",
+            "O, ljubil sem te, morje"
+          ],
           "Reka in morje postaneta neposredna naslovnika. Osebni spomin se tako poveže z večjo naravno silo."
         ],
         [
           "Primera",
           [
-            "kot vzvišeni duhovi"
+            "kot vzvišeni duhovi",
+            "kakor kaplja v ocean",
+            "kakor peno"
           ],
           "Gradovi ohranijo videz nekdanje moči, človek v morju pa dobi merilo neznatne kaplje."
         ],
         [
           "Metafora",
-          [],
+          [
+            "slapa belogrivi trak",
+            "v mrtvaški sem zavil",
+            "ti božal grive"
+          ],
           "Slap in valovi dobijo poteze živega telesa, odtujenost pa je oblečena v mrtvaški prt."
         ],
         [
           "Paralelizem členov",
-          [],
+          [
+            "Sveta jaz nisem ljubil in ne mene svet"
+          ],
           "Govorec in svet zamenjata skladenjski položaj, zavrnitev pa je obojestranska."
         ],
         [
           "Rima",
-          [],
+          [
+            "prepada",
+            "vlada",
+            "mrak",
+            "korak",
+            "oblak"
+          ],
           "Samota začne z vzorcem ABABB, celotna spenserjanska kitica ima rime ABABBCBCC. Posebnost izvirnika je podaljšani deveti verz."
         ]
       ],
-      "linkLabel": "Angleški izvirnik",
-      "fragments": [
-        "… to ni samota …",
-        "… brez koga …",
-        "… kot vzvišeni duhovi …",
-        "… družba samozvana …",
-        "… do bitk …",
-        "… o, Ren …",
-        "… grob brez groba …",
-        "… strah prijeten …",
-        "… mrtvaški sem zavil …",
-        "… viteško slovo …"
-      ]
+      "stanzas": [
+        "Razmišljati na skalah tik prepada;\npočasi stopati skoz gozdni mrak,\nkjer so stvari, ki človek jim ne vlada,\nin kjer ni hodil še njegov korak;\nza čredo divjih koz skoz siv oblak\nv neznano plezati po gorski steni;\nstrmeti v slapa belogrivi trak –\nto ni samota – to samo pomeni\npomenkovati se z Naravo v vsej lepoti njeni.",
+        "A v hrupu, v gneči gledati, čutiti,\nživeti med ljudmi in od spoznanj\nutrujen tujec v tujem svetu biti,\nbrez koga, ki bi bil dom tvojih sanj,\nbrez koga, ki bi ti bil sreča zanj,\nbrez koga, ki kot ti ta svet zaznava, –\nki bi, ko umreš, smejal se malo manj\nkot ves ta svet, ki zdaj te obletava –\nto je res biti sam, to je samota prava.",
+        "In tam stojé: kot vzvišeni duhovi\nneuklonjeni ljudem, čeprav že strti;\nsamotni, prazni, z vetrom med zidovi\nin z razvalinami v oblak uprti.\nNekoč so prapori v nebo zadrti\nstrmeli podse na mnog boj besneč.\nZdaj so vojščaki vsi že v sencah smrti,\nod praporov zdaj še prahu ni več\nin sivih sten nikdar več ne naskoči meč.",
+        "Tam pod nadzidki, v viteških dvoranah\nvrvela sta moč viteštva in strast;\ntam s trdo roko družba samozvana\npo svoje si krojila je oblast\nin v tem uživala enako slast\nkakor junaki daljšega spomina.\nJim niso manjkale za večjo čast\nle stran, ki jo nalaže zgodovina, –\nle moč, posest, star slaven grb – ne veličina?",
+        "Oh, kolika junaška slavna dela\niz prask, dvobojev so v pozabo šla!\nLjubezen, ki na ščitih je blestela\niz grbov, v slavo ljubljenih gospa,\nje kljub oklepom segla do srca.\nA krut in divji bil je ogenj njen\nin zmerom vodil je do bitk in zla;\npremnog zavzeti grad z ožganki sten\nčrnó strmel je podse na skaljeni Ren.",
+        "Ti pa, o, Ren si gledal vse te boje,\nki s slavo vred jih vzel je časa beg;\npoboj grmadil je krvave roje\nbojevnikov na tvoj visoki breg –\na še grobov ni več: tvoj bistri tek\nizpral je kri stoletij in ta dan\ntvoj val blesti spet brez najmanjših peg.\nLe zli spomin, ki mi je v dušo vžgan,\ntvoj tok, ki zbriše vse, izmival bi zaman.",
+        "Valuj, globoko, temno modro morje!\nSto tisoč gredljev para te zaman:\nčloveški meč lahko le kôpno orje,\ntvoj val pa ga ustavi – vodna plan\npriznava le tvoj bes – še senc divjanj\nčloveških ne ohrani širnost njena.\nLe kadar kakor kaplja v ocean\npotone človek, se pokaže pena –\nta grob brez groba, navčka, krste in imena.",
+        "O, ljubil sem te, morje! Poln radosti\nsem se prepuščal, da si me nosilo\nna prsih kakor peno: od mladosti\nsem rad igral se s tabo in prav milo\nmi je bilo; in če si vzvalovilo\nv vihar grozoten – bil je strah prijeten,\nzaupal sem v besnečo tvojo silo,\nsaj čutil sem, kot da sem tvoje dete,\nin sem, kot zdaj, ti božal grive k nebu vzpete.",
+        "Sveta jaz nisem ljubil in ne mene svet;\npreziral smrad njegov sem, nisem v prahu ril\ns koleni, z ragljo laskavih besed,\nne lic v smehljaj koval, ne na vse grlo vpil\nkot tujih ust odmev; krivičen bi mi bil,\nkdor bi me k takim štel; med njimi sem živel,\na tujec sem jim bil: v mrtvaški sem zavil\nse prt njim tujih misli; in bi še živel,\nda ni razum od lastnih misli otopel.",
+        "Sveta jaz nisem ljubil in ne mene svet;\na naj bo viteško slovo! Verujem v to,\nda so – čeprav jih nisem našel v teku let –\nobljube, ki držé, in upi, ki ne mró,\nin čednosti usmiljene, ki nam ne tko\npogubnih zank, da tu in tam srce\nše čuti, ko se bližnjemu solzi oko,\nda so stvari, ki skoraj so to, kar se zdé,\nda sreča ni le sen, in ne dobrota le ime."
+      ],
+      "linkLabel": "Angleški izvirnik"
     },
     "15": {
       "credit": "Prevod Oton Župančič · Glasbena matica, 1914, str. 13.",
@@ -1890,7 +1951,10 @@ window.BERILO = {
         ],
         [
           "Ponavljanje",
-          [],
+          [
+            "zlate lase",
+            "Z glavnikom jih češe zlatim"
+          ],
           "V sosednjih verzih se ponavlja besedna družina zlato, ki poveže okrase in lase na skali."
         ],
         [
@@ -1903,7 +1967,8 @@ window.BERILO = {
         [
           "Rima",
           [
-            "in tiho teče Ren"
+            "in tiho teče Ren",
+            "gorski greben"
           ],
           "Klopčičeve štirivrstičnice težijo k izmenični rimi, v drugi kitici se konec tega verza ujame z »greben«."
         ]
@@ -2652,7 +2717,17 @@ window.BERILO = {
       "inlineEdition": true
     },
     "35": {
-      "credit": "Prevod Miha Avanzo. Tu so izbrani verzi.",
+      "credit": "Prevod Miha Avanzo.",
+      "stanzas": [
+        "Tam zgoraj na suhi veji\nčepi zgrbljen moker črn vran\nin si ravna in poravnava perje v dežju.\nNe pričakujem čudeža\nali kakšnega posebnega dogodka,",
+        "ki bi mi vžgal ogenj\nv očeh, niti več ne iščem\nv tem pustem vremenu izbranega vzorca,\nin le pustim, da se pisano listje pač zvrtinči na tla,\nbrez obreda ali slutnje.",
+        "Čeprav, priznam, sem in tja\nzahrepenim po odgovoru\niz nemega sveta, se v resnici ne morem pritožiti:\npramen pridušene svetlobe lahko še vedno\njarko zasije",
+        "s kuhinjske mize ali stola,\nkot da bi nebeški ogenj kdaj pa kdaj\nobsedel najbolj tope reči –\nzato počasti neki svetel trenutek,\nsicer nepomemben,",
+        "tako da mu prisodi darežljivost, čast,\nkdo bi rekel celo ljubezen. Vsekakor pa zdaj stopam\nprevidno (saj se kaj takega lahko primeri\ncelo v tej mrki, pogubni deželi); nezaupna,\na preudarna; ne zavedajoč se,",
+        "da bi se na lepem utegnil kakšen angel zableščati\nob moji strani. Vem le, da neki vran,\nki si črno perje ravna tako, da sije,\npritegne moje čute, mi dviga\nveke in za bežen",
+        "hip olajša pred popolno brezbrižnostjo. Neizprosno\nse prebijam skoz ta naporni čas\nin z malo sreče bom\npokrpala to svoje",
+        "razpoloženje. Čudeži se dogajajo,\nče seveda to krčevito slepilo žarčenja\nlahko imenuješ čudež. Čakanje se je spet začelo,\ndolgo čakanje na angela,\nna tisti redki, slučajni prihod."
+      ],
       "cues": [
         "Dež in vran",
         "Padajoče listje",
@@ -2712,6 +2787,7 @@ window.BERILO = {
         [
           "Prestop",
           [
+            "še vedno",
             "bežen",
             "to svoje"
           ],
@@ -2720,6 +2796,7 @@ window.BERILO = {
         [
           "Ponovitev",
           [
+            "si ravna in poravnava",
             "dolgo čakanje"
           ],
           "Vran se vrača k istemu gibu, govorka pa k čakanju. Ponavljanje se pojavi tako pri opazovanem dejanju kot pri čustvu."
@@ -2727,43 +2804,45 @@ window.BERILO = {
         [
           "Antiteza",
           [
-            "iz nemega sveta"
+            "iz nemega sveta",
+            "jarko zasije"
           ],
           "Svet na začetku ostaja brez pričakovanega odgovora; trenutni sijaj ustvari kratko izkušnjo odprtosti."
         ],
         [
           "Metonimija",
-          [],
+          [
+            "veke"
+          ],
           "Dvignjene veke delujejo kot telesni znak ponovno zbujene pozornosti."
         ],
         [
           "Brezvezje",
-          [],
+          [
+            "darežljivost, čast"
+          ],
           "Naštete lastnosti se vrstijo brez vezniškega povezovanja in povečujejo vrednost kratkega trenutka."
         ],
         [
           "Okrasni pridevki",
-          [],
+          [
+            "zgrbljen moker črn vran",
+            "mrki, pogubni deželi"
+          ],
           "Prvi niz podobo natančno približa, drugi izraža govorčev odnos do okolja."
         ]
-      ],
-      "edition": [
-        "https://fliphtml5.com/ffkst/Literarna-dozivetja-4---DelovnaVerzija/Literarna_Dozivetja_4_DV/25/",
-        "Literarna doživetja 4 · prevod Mihe Avanza, str. 23–24"
-      ],
-      "fragments": [
-        "… črn vran …",
-        "… vžgal ogenj …",
-        "… iz nemega sveta …",
-        "… kot da bi nebeški ogenj …",
-        "… na lepem …",
-        "… bežen …",
-        "… pokrpala to svoje …",
-        "… dolgo čakanje …"
       ]
     },
     "36": {
-      "credit": "Tone Pavček · Dediščina. Tu so izbrani verzi.",
+      "credit": "Tone Pavček · Dediščina.",
+      "stanzas": [
+        "Stati pokončno, možato,\npa naj že bije v obraz\nluč\nali blato.",
+        "Molčati\nsvoj molk\nv sebi globoko\nin se ne dati voditi\nspremljevalki\nbolečini za roko.",
+        "Jokati\nsamo navznoter\nsolze pritajene,\nsamo ko trta, ki joče\nza novo rast,\npreden odžene.",
+        "Dajati\niz sebe in svojih sanj,\nsredico sredic,\nkakor se daje igralec,\nki klovnovskih lic\nzares na odru umre\nigraje.",
+        "Znati\nnastaviti čelo\nmirno in zbrano,\nko pride čas,\nko mora biti pospravljeno\nin poravnano.",
+        "In tedaj, čisto na koncu,\nspati.\nSpati\nin sanjati, kako je velika\nmuževna steblika,\nki zapiska ljudem\nna pomlad,\no Jurjevem."
+      ],
       "notes": [
         [
           "Pokončna drža opiše dostojanstvo v dobrem in slabem. Luč in blato pomenita pohvalo oziroma ponižanje, ki človeka lahko zadeneta na enakem mestu, v obraz."
@@ -2789,20 +2868,28 @@ window.BERILO = {
       "devices": [
         [
           "Nasprotje",
-          [],
+          [
+            "luč",
+            "blato",
+            "klovnovskih lic",
+            "zares na odru umre"
+          ],
           "Luč in blato dajeta izkušnji dva obraza. Igralec iz četrte kitice zveže smeh in resnično umiranje."
         ],
         [
           "Personifikacija",
           [
-            "bolečini za roko"
+            "spremljevalki",
+            "bolečini za roko",
+            "trta, ki joče"
           ],
           "Bolečina lahko prime človeka za roko. Trti je pripisano jokanje, ki ima v njeni rasti dejansko podlago."
         ],
         [
           "Primera",
           [
-            "samo ko trta"
+            "samo ko trta",
+            "kakor se daje igralec"
           ],
           "Trta utemelji tiho žalost, igralec pa brezpogojno dajanje."
         ],
@@ -2810,6 +2897,8 @@ window.BERILO = {
           "Vzporedni nedoločniki",
           [
             "Stati",
+            "Molčati",
+            "Jokati",
             "Dajati",
             "Znati",
             "Spati"
@@ -2826,13 +2915,18 @@ window.BERILO = {
         ],
         [
           "Metafora",
-          [],
+          [
+            "sredico sredic",
+            "muževna steblika"
+          ],
           "Jedro poimenuje najbolj varovani del človeka, steblika v sklepu pa konkretno vitalnost pomladne rasti."
         ],
         [
           "Paralelizem členov",
           [
             "Stati",
+            "Molčati",
+            "Jokati",
             "Dajati",
             "Znati"
           ],
@@ -2840,41 +2934,45 @@ window.BERILO = {
         ],
         [
           "Inverzija",
-          [],
+          [
+            "solze pritajene"
+          ],
           "Postavljeni pridevnik upočasni verz in poudari, da gre za skrite solze."
         ],
         [
           "Brezvezje",
-          [],
+          [
+            "mirno in zbrano"
+          ],
           "Zaporedje samostojnih začetnih glagolov med kiticami deluje brez povezovalnega stavka. Znotraj posamezne podobe pa ostajajo navadni vezniki."
         ],
         [
           "Stopnjevanje",
           [
+            "pospravljeno",
+            "poravnano",
             "spati."
           ],
           "Od urejanja odprtih zadev preide pesem k poslednjemu dejanju. Vsaka stopnja ima drugačno časovno težo."
         ]
-      ],
-      "edition": [
-        "https://www.dlib.si/stream/URN%3ANBN%3ASI%3Adoc-4TKNKO95/7dbc0eec-2b7f-4307-8f97-45e38726c5ac/PDF",
-        "Še enkrat glagoli · Verba Hispanica XXI"
-      ],
-      "fragments": [
-        "… Stati …",
-        "… bolečini za roko …",
-        "… samo ko trta …",
-        "… Dajati …",
-        "… Znati …",
-        "… spati.\nSpati …"
       ]
     },
     "37": {
-      "credit": "Dane Zajc · Jezik iz zemlje. Tu so izbrani verzi.",
+      "credit": "Dane Zajc · Jezik iz zemlje. Prvih pet kitic je zapisanih v celoti, zadnji dve sta prikazani z izbranimi besedami.",
       "edition": [
         "https://archivio.pubblica.istruzione.it/argomenti/esamedistato/secondo_ciclo/prove/2005/P0TS1X18_W.pdf#page=1",
         "Črni deček · celotno besedilo"
       ],
+      "stanzas": [
+        "Stojiš na rumenem pesku puščave,\nstojiš, črni deček.\nOkrog tebe so stene neba.\nSprehajajo se skoz tebe z zateglo žalostjo.",
+        "Zjutraj zagledaš sledove noči v pesku:\ntenke kačje vijuge.\nZgrabi te rumena groza peska.\nAmpak ti ne smeš bežati.\nTi imaš naročje polno ptic.",
+        "Opoldne pridejo starci.\nNaslonijo se na palice kot sive ujede.\nMolče te gledajo.\nTi rečeš besedo.\nAmpak ko jo izrečeš,\nti presahnejo usta.",
+        "Imaš naročje polno ptic.\nTo je vse, kar imaš.\nZato vzdigneš roke k nebu.\nIn tvoje ptice polete.\nTvoje ptice zakrijejo nebo.",
+        "Ampak podnevi jih zagleda zlobno sonce.\nZato razpadejo v perje.\nRazpadejo v meso.\nRazpadejo v pepel.",
+        "… Ponoči jih ubijajo ledene zvezde. …",
+        "… ker moraš imeti ptice. …\n… steklene kosti. …"
+      ],
+      "incomplete": true,
       "notes": [
         [
           "Nebo ima stene, zato je tudi odprta puščava videti zaprta. Žalost prihaja od zunaj in gre skozi dečka."
@@ -2906,6 +3004,7 @@ window.BERILO = {
           [
             "stene neba",
             "naročje polno ptic",
+            "rumena groza peska",
             "steklene kosti"
           ],
           "Nebo zapira prostor. Ptice lahko razumemo kot upanje ali kot pesmi, ker so edino, kar deček lahko znova izpusti."
@@ -2919,7 +3018,10 @@ window.BERILO = {
         ],
         [
           "Personifikacija",
-          [],
+          [
+            "zlobno sonce",
+            "Zgrabi te rumena groza peska"
+          ],
           "Narava dobi dejanja napadalca. Zaradi tega deček v njej čuti pritisk, ki ga pozna tudi v srečanju s starci."
         ],
         [
@@ -2933,7 +3035,9 @@ window.BERILO = {
         [
           "Okrasni pridevek",
           [
+            "rumenem pesku",
             "tenke kačje vijuge",
+            "zateglo žalostjo",
             "sive ujede"
           ],
           "Pridevki zožijo sliko od velike barvne površine do drobnih sledi in sivih ptic roparic."
@@ -2941,6 +3045,8 @@ window.BERILO = {
         [
           "Paralelizem členov",
           [
+            "Razpadejo v perje.",
+            "Razpadejo v meso.",
             "Razpadejo v pepel."
           ],
           "V enako sestavljenih povedih se menja zadnja beseda. Zaporedje pokaže, da po letu ostajajo vse manjši sledovi ptic."
@@ -2948,6 +3054,8 @@ window.BERILO = {
         [
           "Ponavljanje",
           [
+            "Stojiš",
+            "stojiš, črni deček",
             "naročje polno ptic"
           ],
           "Ponavljanje vrača dečka v isti položaj in sproti obnavlja pomen ptic."
@@ -2955,6 +3063,8 @@ window.BERILO = {
         [
           "Stopnjevanje",
           [
+            "Razpadejo v perje.",
+            "Razpadejo v meso.",
             "Razpadejo v pepel."
           ],
           "Trije ostanki ohranjajo vse manj od oblike žive ptice."
@@ -2962,24 +3072,18 @@ window.BERILO = {
         [
           "Antiteza",
           [
+            "zlobno sonce",
             "ledene zvezde"
           ],
           "Dan in noč sta nasprotna po času in temperaturi, v učinku na ptice pa se ujameta."
         ],
         [
           "Nagovor",
-          [],
+          [
+            "stojiš, črni deček."
+          ],
           "Druga oseba ohrani bližino do dečkove izkušnje in usmeri bralca v njegovo perspektivo."
         ]
-      ],
-      "fragments": [
-        "… stene neba …",
-        "… tenke kačje vijuge …",
-        "… kot sive ujede …",
-        "… naročje polno ptic …",
-        "… Razpadejo v pepel. …",
-        "… ledene zvezde …",
-        "… steklene kosti. …"
       ]
     }
   }

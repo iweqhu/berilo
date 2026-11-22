@@ -20,6 +20,7 @@ window.GRADIVO = {
       "question": "Kako Priamov prihod spremeni pomen Ahilove zmage?",
       "primary": "https://eucbeniki.sio.si/slo1/2437/index1.html",
       "detail": {
+        "photos": "5–6",
         "paragraphs": [
           "Dogajanje je postavljeno v deseto leto trojanske vojne. Predzgodba (Parisova sodba in odhod Helene) pojasni vojno, osrednji lok epa pa se začne pri Ahilovi jezi. V šestem spevu se Hektor poslovi od Andromahe in sina: ta prizor ga kaže kot moža in očeta, zato spopad z Ahilom v dvaindvajsetem spevu ni samo preizkus junaštva.",
           "Patroklos si nadene Ahilovo opremo, da bi spremenil potek boja, vendar ga Hektor ubije. Ahilova vrnitev je odtlej stvar maščevanja za prijatelja. Pri njunem dvoboju je pomenljiva tudi božja volja: Zevsova tehtnica pokaže Hektorjevo usodo. Sklep s Priamom in pokopom Hektorja obrne pozornost od zmage k žalovanju.",
@@ -45,6 +46,7 @@ window.GRADIVO = {
       "form": "V začetnem prizoru primerjava povzdigne moškega. V nadaljevanju zaporedje telesnih znakov konkretizira čustvo.",
       "question": "Kako se pozornost premakne z opazovane dvojice na govorko?",
       "detail": {
+        "photos": "8",
         "paragraphs": [
           "Pesem je primer arhaične grške ljubezenske lirike. Prizor je podan v prvi osebi: podrobnosti o moškem in ženski poznamo le tako, kot jih doživi oseba, ki ju opazuje.",
           "Motiv smeha sproži premik od gledanja k telesni izkušnji. Glas govorke ugasne prav takrat, ko se hoče odzvati na glas druge osebe.",
@@ -70,6 +72,7 @@ window.GRADIVO = {
       "form": "Neposredni nagovor, velelniki in sklepna maksima stopnjujejo poziv.",
       "question": "Kako podoba narave pripravi sklep pesmi?",
       "detail": {
+        "photos": "8",
         "paragraphs": [
           "V rimski liriki avgustejske dobe Horacij oblikuje kratko odo z neposrednim nagovorom. Leuconoi svetuje, naj ne išče podatka o dolžini življenja. Zima in morje pokažeta, da je čas zunaj človeškega nadzora.",
           "Vino je treba pripraviti zdaj, medtem ko števila prihodnjih zim nihče ne ve. Ta razlika poveže uživanje z mero: pričakovanje preobsežne prihodnosti odvrača pozornost od vsakdanjih odločitev.",
@@ -96,6 +99,7 @@ window.GRADIVO = {
       "form": "Pretekli dogodki se razkrijejo v dialogu. Gledalčevo predznanje poglablja dramsko ironijo.",
       "question": "Zakaj se motiv vida ponavlja tudi pred oslepitvijo?",
       "detail": {
+        "photos": "7",
         "paragraphs": [
           "Kuga je sedanja kriza, a njena rešitev zahteva vrnitev v preteklost. Tejrezias pove, da je iskani krivec Ojdip, toda kralj njegov odgovor razume kot zaroto. Pozneje se izkaže, da Jokastin opis križišča in pričevanji sla ter pastirja govorita o istem človeku.",
           "Ključni obrat je prihod sla iz Korinta. Novica, ki naj bi Ojdipa pomirila, odpre vprašanje, čigav sin pravzaprav je. Sporočilo dobi nasproten učinek od pričakovanega in privede do prepoznanja.",
@@ -122,6 +126,7 @@ window.GRADIVO = {
       "form": "Dialog postavi nasproti utemeljitvi Antigone in Kreona. Zbor dejanje spremlja in vrednoti.",
       "question": "Kaj Kreon izgubi, ko drugo mnenje razume kot neposlušnost?",
       "detail": {
+        "photos": "7",
         "paragraphs": [
           "Sinova tebanske kraljeve hiše, Eteokles in Polinejk, padeta v medsebojnem boju. Kreon odredi pokop prvega, pri drugem pa ga prepove. Antigona v dejanju vidi dolžnost do brata in bogov. Ismena se sprva odpove sodelovanju, kar pokaže, da se sestri pred istim tveganjem odločita različno.",
           "Kreon prepoved poveže z zaščito mesta. Hajmon ga opozori, da prebivalci odloka ne presojajo enako kot on. Videc Tejrezias nato pokaže posledice nečastnega ravnanja z mrtvim. Ko želi Kreon ukaz preklicati, je odločitev prepozna: umrejo Antigona, Hajmon in Evridika.",
@@ -148,6 +153,7 @@ window.GRADIVO = {
       "form": "Prilika iz Lukovega evangelija razvija pomen skozi vsakdanjo družinsko zgodbo in primerjavo obeh sinov.",
       "question": "Zakaj ima prilika še drugi sklep, pogovor s starejšim bratom?",
       "detail": {
+        "photos": "3",
         "paragraphs": [
           "Prilika je kratka pripoved, v kateri znani odnosi nosijo širši pomen. V Lukovem evangeliju jo lahko beremo ob pripovedih o izgubljenem in najdenem. Motivi dediščine, lakote, vrnitve in gostije dajo abstraktnemu vprašanju odpuščanja jasno pripovedno obliko.",
           "Mlajši sin se želi vrniti kot služabnik; oče ga sprejme kot sina. Oblačilo, prstan in gostija kažejo obnovljeni odnos. Starejši sin se odzove s primerjavo zaslug, zato sklep odpre tudi vprašanje ljubosumja in meril pravičnosti.",
@@ -174,6 +180,7 @@ window.GRADIVO = {
       "form": "Tri kantike, terza rima in premišljena razporeditev onstranskih prostorov podpirajo alegorijo.",
       "question": "Kako kazen v Peklu razkriva naravo greha?",
       "detail": {
+        "photos": "11–12",
         "paragraphs": [
           "Dantejeva pot je zasnovana v treh delih: Pekel, Vice in Raj. Ko se v temnem gozdu ne more sam prebiti mimo zveri, ga prevzame Vergil. Ta vodi po prostoru kazni in očiščevanja, pozneje ga kot vodnica nadomesti Beatrice. Razum in ljubezen imata v alegoriji različni nalogi.",
           "Pekel razporedi posledice dejanj, Vice so prostor pokore in spremembe, Raj pa vodi k zadnjemu spoznanju. V razredu sta zabeležena dva izrazita odlomka: Ugolino pripoveduje o zaprtju in smrti svojih bližnjih v stolpu, večna luč v Raju pa označuje popolnost in božansko spoznanje.",
@@ -307,6 +314,7 @@ window.GRADIVO = {
       "form": "Ustno izročilo ohranja različice. Ponavljanje in dialog zgoščata pripoved.",
       "question": "Kaj v izbrani različici odloči o Vidinem odhodu?",
       "detail": {
+        "photos": "13",
         "paragraphs": [
           "Balada ima pripovedno jedro v odhodu čez morje, čustveno težišče pa v ločitvi matere od otroka.",
           "Vida lahko po odhodu obžaluje, da je zapustila dom, moža in otroka. Pri konkretni različici ugotovi, kaj ji posrednik obljubi, ali sledi prevara in ali ima možnost vrnitve. Kjer nastopi sonce, pogovor z njim pokaže razdaljo med junakinjo in domom.",
@@ -333,6 +341,7 @@ window.GRADIVO = {
       "form": "Linhart je Beaumarchaisovo komedijo prilagodil domačemu okolju. Zamenjave in nesporazumi ustvarjajo situacijsko komiko.",
       "question": "Kako se v komičnih zapletih pokaže kritika plemstva?",
       "detail": {
+        "photos": "14–15",
         "paragraphs": [
           "Matičkova in Nežkina poroka postane preizkus razmerja med gospodarjem in služinčadjo. Baron ima oblast, vendar se zaradi želje po Nežki zaplete v lastne načrte. Preobleke, zamenjave in sodelovanje drugih oseb njegovo prednost obrnejo proti njemu.",
           "Matiček in Nežka si privoščita šalo tudi takrat, ko njuna poroka visi na nitki. Baronovo dvorjenje je mogoče, ker položaj služabnice Nežki otežuje odkrito zavrnitev. Zato ima njena preobleka poleg komičnega učinka tudi pomen obrambe.",
@@ -359,6 +368,7 @@ window.GRADIVO = {
       "form": "V pesnitvi se pripoved o poti prepleta z lirsko refleksijo. Byron uporablja spenserjansko kitico.",
       "question": "Kje pokrajina začne pomeniti več kot prizorišče?",
       "detail": {
+        "photos": "17",
         "paragraphs": [
           "Lirsko-epska pesnitev ima štiri speve. Izjemni, naveličani in nemirni romar postane zgled byronskega junaka. Med potovanjem se osebni glas prepleta z zgodovinskimi pripombami in opisi pokrajin.",
           "V Samoti lahko popotnik v gozdu in ob gorah doživi bližino, ki jo v mestni množici pogreša. Renski gradovi imajo drugačno vlogo: njihove razvaline kažejo, kako malo ostane od nekdanje moči.",
@@ -411,6 +421,7 @@ window.GRADIVO = {
       "form": "Baladno pripoved nosijo kratek prizor, stopnjevanje in tragični sklep.",
       "question": "Kaj se spremeni, če pesem bereš kot razmislek o moči petja?",
       "detail": {
+        "photos": "17–18",
         "paragraphs": [
           "Prvi del uvede pripovedovalčev nemir in staro zgodbo. Pokrajina ob Renu, večer in ženska na skali pripravijo prizor, v katerem se lepota poveže z nevarnostjo. Zlati lasje in petje preusmerijo pogled s plovbe na privlačno podobo.",
           "Brodar posluša petje na reki, kjer mora paziti na čeri. V odločilnem trenutku je njegov pogled usmerjen navzgor, nevarnost pa je v vodi. Sklep s pogubo je značilen za lirsko balado.",
@@ -436,6 +447,7 @@ window.GRADIVO = {
       "form": "V vsakem sonetu primerjaj vlogo kvartin in tercin. Sklepi preusmerijo začetno podobo v sodbo ali nagovor.",
       "question": "Kako se v treh sonetih razlikuje govorčev odgovor na nesrečo?",
       "detail": {
+        "photos": "19–20",
         "paragraphs": [
           "V prvem sonetu je Vrba prostor varnosti, ki mu govorec nasproti postavi izkušnjo odhoda. Želja po učenju je prikazana prek zvijačne kače. Tercini razvijeta predstavo o tem, kakšno življenje bi bilo mogoče, če bi ostal doma.",
           "Peti sonet Življenje ječa, čas v nji rabelj hudi z razširjeno metaforo razdeli vloge: življenje je zapor, čas rabelj, skrb njegova spremljevalka, trpljenje in obup služabnika. Smrt v sklepu pomeni možen izhod iz zaprtega sveta.",
@@ -464,6 +476,7 @@ window.GRADIVO = {
       "question": "Kaj se prenese iz vojaškega poraza v osebni pogovor?",
       "primary": "https://eucbeniki.sio.si/slo8/2352/index3.html",
       "detail": {
+        "photos": "19–20",
         "paragraphs": [
           "Posvetilni sonet je namenjen Matiji Čopu. Uvod postavi Črtomirja v vojaški položaj, kjer je v ospredju skupnost in svoboda. Zaporedje obleganja in poraza se po Uvodu spremeni v vprašanje človekove prihodnosti po izgubi.",
           "Črtomir kot edini izmed branilcev v ospredju zgodbe preživi in išče Bogomilo. Ko izve za njeno spreobrnitev in obljubo, jo mora razumeti v novem verskem okviru. Ljubezen ostane motiv dejanja, vendar se njena uresničitev prestavi iz zemeljskega v onstransko življenje.",
@@ -499,6 +512,7 @@ window.GRADIVO = {
       ],
       "primary": "https://sl.wikisource.org/wiki/Pevcu",
       "detail": {
+        "photos": "20",
         "paragraphs": [
           "Kraguljevo ponavljajoče se kljuvanje spomni na Prometejevo kazen. Pri Prešernu ptica meri v srce in da trpljenju pesnika konkreten občutek, ki traja ves dan in noč.",
           "Naslednji obrat se zgodi, ko govor preide od vpraševanja, kdo lahko pomaga, k nagovoru pevca. Nebo in pekel označujeta skrajnosti, ki ju mora pesnik nositi v sebi. Sklepni velelnik poveže poklic z vztrajanjem.",
@@ -525,6 +539,7 @@ window.GRADIVO = {
       "form": "Perspektiva se pogosto približa Raskolnikovi zavesti. Dialogi preizkušajo ideje skozi posledice ravnanja.",
       "question": "Kako Sonja pokaže mejo Raskolnikove teorije?",
       "detail": {
+        "photos": "22",
         "paragraphs": [
           "Raskolnikov, reven nekdanji študent, razdeli ljudi na običajne in izjemne. Svoj umor skuša razumeti kot preizkus, ali mu je dovoljeno prestopiti moralno mejo. Umor Lizavete, ki se nenadoma pojavi, dodatno razgali razliko med teorijo in dejanjem.",
           "Po umoru se namesto svobode pojavijo strah, vročičnost in osamitev. Porfirij išče protislovja v njegovem ravnanju, Sonja pa ga usmerja k priznanju. Njena lastna stiska Raskolnikovu pokaže obliko odgovornosti, ki je njegova teorija ne zajame.",
@@ -551,6 +566,7 @@ window.GRADIVO = {
       "form": "Polpremi govor približa Emmine misli brez neposrednega navedka. Pripoved jih pogosto postavi ob prozaično stvarnost.",
       "question": "Kako pripovedovalec hkrati približa in problematizira Emmin pogled?",
       "detail": {
+        "photos": "21, 24",
         "paragraphs": [
           "Emma v samostanu bere ljubezenske romane in iz njih razvije predstave o sreči. Po poroki s Charlesom njeno razočaranje poglabljajo provincialna rutina, neizpolnjene želje in razkorak med doživetjem ter pričakovanjem. Rodolphe in Léon ji odpreta različni možnosti pobega, a nobena ne razreši njenih razmer.",
           "Nakupovanje pri Lheureuxu spremeni željo po drugem življenju v dolg. Ko grozi razkritje, se Emma zastrupi. Pri razlagi bovarizma poveži pobeg v fantazijo s konkretnimi razmerami denarja, ugleda in zakona.",
@@ -577,6 +593,7 @@ window.GRADIVO = {
       "form": "Analitična drama v pogovorih razkriva ključne pretekle dogodke. Sklep ustavi dejanje pred materino odločitvijo.",
       "question": "Kaj poleg družinske skrivnosti označuje naslov Strahovi?",
       "detail": {
+        "photos": "22",
         "paragraphs": [
           "Helena Alving želi z zavetiščem ohraniti javni spomin na moža in porabiti njegovo premoženje. Razgovor z Mandersom pokaže, kako se je za videzom zglednega zakona skrivala moževa drugačna podoba. Razkritje Regininega porekla postane pomembno, ker se ji Osvald približa.",
           "Po požaru izgine spomenik očetovemu ugledu, posledice njegovega življenja pa ostanejo v družini. Osvald materi pove za bolezen in jo prosi za pomoč, če izgubi zmožnost samostojnega odločanja. Drama sklepa ne razreši namesto gledalca.",
@@ -604,6 +621,7 @@ window.GRADIVO = {
       "question": "Kaj o Bitiču izvemo iz njegovih navad?",
       "primary": "https://sl.wikisource.org/wiki/Telečja_pečenka",
       "detail": {
+        "photos": "23",
         "paragraphs": [
           "Bitič je upokojenec z natančnim redom. Vsak dan ob istem času obiskuje isto gostilno zaradi iste jedi. Ko vidi pripravo pečenke, se mu jed zagabi; drugod je ne najde takšne, kot si jo želi. Način, kako osrednjo težavo rešuje, razkriva njegov značaj.",
           "Poroko začne načrtovati kot način, da bi dobil domače kosilo in postrežbo. Opazi mlado hišno, vendar do nje ne pristopi neposredno. Krivko prosi, naj posreduje; ko izve za zavrnitev, gre pit in umre. Zgodba med načrtom in izidom ohranja ironično razdaljo.",
@@ -632,6 +650,7 @@ window.GRADIVO = {
       "primary": "https://www.slovenska-biografija.si/oseba/sbi686990/",
       "schoolPage": 24,
       "detail": {
+        "photos": "24",
         "paragraphs": [
           "Kronikalni roman posnema zapis o zgodovini rodu. Izidor v prvoosebno pripoved vključi Polikarpovo nasilno preteklost iz tridesetletne vojne. Očetova krivda se prenese v vprašanje, kaj naj sin naredi z dediščino in naročilom glede Agate.",
           "Agata pride na Visoko in se zbliža z Jurijem. Ko jo obtožijo čarovništva, skupnost uporabi preizkus z vodo. Izidor omahuje, Jurij pa skoči za njo, s čimer pokaže razliko med deklarirano in dejavno odgovornostjo. Jurij se poroči z Agato, Izidor pozneje z Margareto.",
@@ -667,6 +686,7 @@ window.GRADIVO = {
       ],
       "primary": "https://sl.wikisource.org/wiki/Ko_dobrave_se_mrače",
       "detail": {
+        "photos": "29",
         "paragraphs": [
           "V prvi kitici se začne noč in govorcu se oglasijo tihi glasovi. Druga kitica postavi mir zemlje ob pomanjkanje notranjega miru. V tretji nočna slika preide v prepoznavanje osamljenosti: govorec se poveže z glasom v puščavi in samotnim trsom.",
           "Četrta kitica z velelniki kliče nevihte in burno življenje. V peti želja po svetlih dnevih vključuje tudi boj in bolečino. Noč medtem mirno sanja. Nasprotje med notranjostjo in dogajanjem v naravi zato ob koncu ostane.",
@@ -693,6 +713,7 @@ window.GRADIVO = {
       "form": "Klanec in tek za vozom sta ponavljajoči se simbolni opori. Prizori iz različnih življenjskih obdobij povezujejo osebno in družbeno zgodbo.",
       "question": "Kaj simbolizira voz in zakaj se je vredno vrniti k začetku romana?",
       "detail": {
+        "photos": "30",
         "paragraphs": [
           "Otroška Francka na začetku zaman teče za vozom. Pozneje se poroči s Tonetom, s katerim ima tri otroke. Ko Tone ne more vzdrževati družine, Francka prevzame breme vsakdanjega preživetja; selitev na klanec poveže osebno usodo z okoljem revščine.",
           "Sin Lojze dobi priložnost za izobraževanje, a ga spremlja občutek sramu in razdalje do doma. Ko se vrne in pogleda skozi okno, razen luči pri učitelju v naselju vidi temo. Podoba luči ohrani možno pot iz revščine, vendar ne razveljavi materine usode.",
@@ -719,6 +740,7 @@ window.GRADIVO = {
       "form": "Dramski govor razkriva razkorak med prepričanji in ravnanjem. Naslov zajame ponavljajoči se vzorec uklanjanja.",
       "question": "Kako se pomen hlapčevstva pokaže pred volitvami in po njih?",
       "detail": {
+        "photos": "25",
         "paragraphs": [
           "Po volitvah se večina učiteljev hitro prilagodi novemu razmerju moči. Jermanov spor z župnikom zato presega osebno nestrinjanje: javno zagovarja samostojno mišljenje, župnik pa nastopa kot predstavnik ustanove. Kovač Kalander mu pomaga pri poskusu organiziranja ljudi.",
           "Jermanov govor pred zbranimi poslušalci naleti na odpor. Zunanji konflikt z oblastjo spremlja notranji spor, povezan z materjo, njeno vero in občutkom krivde. Obe ravni razlagata, zakaj je Jermanova osamljenost politična in intimna.",
@@ -745,6 +767,7 @@ window.GRADIVO = {
       "form": "Nehotni spomin preuredi pripovedni čas. Obseg refleksije preseže kratkost zunanjega dogodka.",
       "question": "Kako se nehotni spomin razlikuje od zavestnega obujanja preteklosti?",
       "detail": {
+        "photos": "35, 37",
         "paragraphs": [
           "Combray je del prvega romana cikla Iskanje izgubljenega časa. Okus peciva, namočenega v čaj, najprej povzroči veselje brez jasnega vzroka. Pripovedovalec se zavestno trudi najti izvor občutka, toda podoba otroštva se vrne po poti čutne zaznave.",
           "Ko občutek prepozna, poveže okus z obiskom tete in svetom Combraya. Velik del preteklosti se razširi iz majhnega dogodka v sedanjosti. Nehotni spomin je zato način organizacije pripovedi, ne le ena njena tema.",
@@ -771,6 +794,7 @@ window.GRADIVO = {
       "form": "Pripoved menja slog in perspektivo. Notranji monolog posreduje tok misli in asociacij.",
       "question": "Kaj pridobi opis običajnega dne z navezavo na antični ep?",
       "detail": {
+        "photos": "36–37",
         "paragraphs": [
           "V enem dnevu v Dublinu spremljamo Stephena Dedalusa, Leopolda Blooma in Molly Bloom. Vzporednica s Homerjem deluje po osebah in položajih: Stephen spominja na Telemaha, Bloom na Odiseja, Molly na Penelopo. Roman razlike izkoristi za novo razumevanje junaka, doma in zvestobe.",
           "Epizode ne uporabljajo iste tehnike. Kirka prevzame dramsko obliko, Itaka napreduje z vprašanji in odgovori, Penelopa pa se poglobi v Mollyjin notranji monolog. Ta niz je konkreten dokaz, da slog iz epizode v epizodo spreminja način, kako bralec sprejme dogodek.",
@@ -797,6 +821,7 @@ window.GRADIVO = {
       "form": "Nemogoč dogodek je pripovedovan stvarno. Osrednji prostor sobe pokaže krčenje Gregorjevega sveta.",
       "question": "Kako odziv na službo v prvem prizoru zaznamuje branje preobrazbe?",
       "detail": {
+        "photos": "39–40",
         "paragraphs": [
           "Gregor je trgovski potnik in finančna opora družine. Ko se prebudi v spremenjenem telesu, ga najprej skrbi zamuda v službo. Prihod prokurista pokaže, kako je že pred preobrazbo njegovo življenje določala uporabnost za delodajalca in družino.",
           "Greta sprva skrbi za hrano in sobo, pozneje pa zahteva, da Gregorja odstranijo. Očetov napad z jabolki telesno poškodbo spremeni v trajno oviro. Postopoma se preobrazijo tudi družinski odnosi: družina si poišče druge vire dohodka in v Gregorju vse manj prepoznava svojega člana.",
@@ -824,6 +849,7 @@ window.GRADIVO = {
       "primary": "https://sl.wikisource.org/wiki/Slutnja_(Srečko_Kosovel)",
       "schoolPage": 41,
       "detail": {
+        "photos": "41",
         "paragraphs": [
           "Začetni samostalniški nizi z malo glagoli ustvarijo telegrafski slog. Polja, podrtija in tema so zunanji prostor, vendar tišina že napoveduje notranje občutje. Osvetljeno okno lahko spomni na dom, senca pa ta pomen napravi negotov.",
           "Prehod od pogleda za govorcem k nepokoju, ki je z njim, poveže pokrajino in notranji občutek. Nejasna senca je zadnja zunanja podoba, preden govorec poimenuje slutnjo.",
@@ -851,6 +877,7 @@ window.GRADIVO = {
       "question": "Kako podobe razkošja sodelujejo pri prikazu propada?",
       "primary": "https://sl.wikisource.org/wiki/Ekstaza_smrti",
       "detail": {
+        "photos": "42",
         "paragraphs": [
           "Krvave podobe in razkošje odprejo vizijo Evrope, ki se opira na bogastvo, a izgublja moralno merilo. Pesem se razširi od posameznega prizora k skupnosti in civilizaciji. Zato je govor širši od zasebne slutnje smrti v Kosovelovi Slutnji.",
           "Zlati stolpovi iz začetka se na koncu vrnejo kot zlati žarki nad mrliči. Med obema podobama kri preplavi vse in prevzame tudi mesto vode, s katero bi se Evropa lahko očistila.",
@@ -877,6 +904,7 @@ window.GRADIVO = {
       "form": "Sočasni prizori v več prostorih sestavljajo sliko mesta. Groteska in ekspresionistične prvine prelamljajo z realistično celoto.",
       "question": "Kaj izvemo o mestu iz tega, kako čaka na dogodek?",
       "detail": {
+        "photos": "45–46",
         "paragraphs": [
           "Goga je sestavljena iz več sob in usod. Hana se vrne in se mora soočiti s Prelihom; zanjo je soočenje osebni dogodek. V drugih prostorih pa prebivalci čakajo, so ujeti v spomine ali ponavljajo stare navade. Klikotova neuresničena ljubezen in Gapitova obsedenost z lutko sta primera take ujetosti.",
           "Didaskalije ne opisujejo le zunanjega odra: nakažejo držo, strah ali notranjo napetost. Hkratno dogajanje v prostorih omogoča gledalcu, da opazi vzorec skupnosti, ki ga posamezna oseba ne vidi. Besedilo zato ne deluje kot enotna pripoved o enem glavnem junaku.",
@@ -903,6 +931,7 @@ window.GRADIVO = {
       "form": "Pesem z vprašanji razkriva pogoje prizora in se iz podobe razvije v razmislek o ustvarjanju.",
       "question": "Kaj pesnica lahko nadzoruje v besedilu in kje se ta moč konča?",
       "detail": {
+        "photos": "50",
         "paragraphs": [
           "Srna v gozdu in lovci so del zapisanega prizora. V njem ima pesnica oblast nad tem, koliko časa traja trenutek in kaj se pripeti živali. Vprašanja opozorijo na material, iz katerega nastaja svet: besede na papirju.",
           "V pesmi se ločita fizična resničnost in umetniški prostor, ki ga ureja drugačno pravilo. V prvem času ni mogoče zaustaviti, v drugem lahko trenutek ostane odprt ali se ponovi pri branju. Iz tega razmerja izhaja tudi veselje do pisanja.",
@@ -931,6 +960,7 @@ window.GRADIVO = {
       "schoolPage": 51,
       "primary": "https://www.americanpoems.com/poets/sylviaplath/black-rook-in-rainy-weather/",
       "detail": {
+        "photos": "51",
         "paragraphs": [
           "Vran na veji in mokro listje sta vsakdanja prizora. Govorka ne pričakuje, da bi se narava sama od sebe prilagodila njenim željam. S tem pesem gradi razdaljo med njeno potrebo po smislu in ravnodušnostjo okolja.",
           "Sijaj se pojavi na mizi in stolu, preden se govorka znova ustavi ob vranu. Povezava obeh prizorov pokaže, da je trenutek pozornosti mogoč tudi ob najbolj znanih predmetih.",
@@ -957,6 +987,7 @@ window.GRADIVO = {
       "question": "Kako bi na učinek pesmi vplivalo, če bi glagole zamenjali samostalniki?",
       "schoolPage": 55,
       "detail": {
+        "photos": "55",
         "paragraphs": [
           "V Glagolih nizi nedoločnikov poudarjajo dejavnost in življenjsko voljo. V pesmi Še enkrat glagoli se isti postopek začne s stanjem in molkom ter konča s spanjem.",
           "Priprava na konec je opisana kot domače pospravljanje in poravnava. S tem se vprašanje smrti približa dejanjem, ki jih je človek sposoben opraviti pred njo.",
@@ -985,6 +1016,7 @@ window.GRADIVO = {
       "primary": "https://www.dlib.si/stream/URN%3ANBN%3ASI%3ADOC-6S17EDYQ/51fee3dd-ee42-470a-8213-f1de61895224/PDF",
       "schoolPage": 55,
       "detail": {
+        "photos": "55",
         "paragraphs": [
           "Začetne kitice postavijo dečka v utesnjen in sovražen prostor. Nasprotje med posameznikom in množico se pokaže v prizoru starcev. Te lahko razumemo kot okolje, ki dečka ne sprejme, ali kot bralce, ki ne prepoznajo njegovega glasu.",
           "Dečku ostane spuščanje ptic, čeprav razpadajo. Ena razlaga ptice poveže z ideali, druga z nastajanjem pesmi. Končno vztrajanje je pomembno, ker se okoliščine v resnici ne izboljšajo. Podoba steklenih kosti dodaja ranljivost.",
@@ -1011,6 +1043,7 @@ window.GRADIVO = {
       "form": "Prvoosebna perspektiva združuje konkretnost otroškega pogleda in poznejšo pripovedno obdelavo spomina.",
       "question": "Kako je tujstvo povezano z jezikom, ki ga junak še ne obvlada?",
       "detail": {
+        "photos": "59–60",
         "paragraphs": [
           "Pot iz Švice na slovensko podeželje in nato v Ljubljano je začetek Bubijevega prehajanja med kraji. Ko družino načneta bolezen in vojna, kraji dobijo pomen tudi po tem, kje lahko najdejo zaslužek in prenočišče.",
           "Bubi se mora naučiti slovenščine. Nerazumevanje sprva vodi v molk in osamitev; pozneje je jezik sredstvo sodelovanja in pisanja. Opazovanje neznanega predmeta pred njegovim poimenovanjem razkrije, kako nastaja otrokov pogled na okolje.",
@@ -1037,6 +1070,7 @@ window.GRADIVO = {
       "form": "Pripoved je razdrobljena in jezikovno izrazita. Odsotnost ravne kronologije posnema vračanje podob in spomina.",
       "question": "Kaj lahko praskanje izraža poleg neposrednega kljubovanja?",
       "detail": {
+        "photos": "58–59",
         "paragraphs": [
           "Tjaževo otroštvo zaznamujejo napeti družinski odnosi in materina izguba. Po življenju pri babici pride v dijaški dom, kjer se sreča s strogim nadzorom. Njegovo praskanje in prestopki pokažejo, da zahteve ustanove ne ustrezajo njegovemu doživljanju.",
           "Odnos z Nino odpira možnost drugega življenja. Prizor poškodovanja kipov v cerkvi stopnjuje spor z okoljem, tragični izid pa poudari posledice sistema, ki upora ne zna razumeti. Slovesni pogreb se lahko bere kot poskus, da ustanova obdrži lastno moralno podobo.",
@@ -1063,6 +1097,7 @@ window.GRADIVO = {
       "form": "Groteskni dialog in ironija imena zavoda razkrivata nasprotje med govorom in ravnanjem ustanove.",
       "question": "Kako se raziskovanje zgodovine spremeni v sredstvo nadzora nad Simonom?",
       "detail": {
+        "photos": "63–64",
         "paragraphs": [
           "Zgodovinar Simon Veber raziskuje poljskega upornika Drohojowskega. Ko se nekoč podpiše z njegovim imenom, dobi zavod razlog, da mu pripiše tujo identiteto. Doktor vodi ustanovo uradno, bolničar Volodja pa v neposrednem stiku izkazuje veliko dejansko oblast.",
           "Raziskovani upornik je izgubil nogo. Doktorjeva zamisel, da se Simonu noga metaforično odvzame, se v Volodjevem ravnanju spremeni v telesno nasilje. Tu se srečajo groteska, absurd in razmerje med uradnim jezikom ter tem, kar zaposleni storijo.",
@@ -1085,6 +1120,7 @@ window.GRADIVO = {
         5
       ],
       "detail": {
+        "photos": "2, 5, 9–12",
         "heading": "Junaški ep in skupnost",
         "paragraphs": [
           "V Epu o Gilgamešu se vladar po izgubi prijatelja sooči z mejo svoje moči in išče nesmrtnost. V Iliadi je v ospredju jeza bojevnika, v Eneidi pa pot prednika skupnosti. Srednjeveška Pesem o Rolandu poveže boj z zvestobo in vero, Dante pa iz epske poti oblikuje krščansko duhovno alegorijo.",
@@ -1104,6 +1140,7 @@ window.GRADIVO = {
         4
       ],
       "detail": {
+        "photos": "3, 28",
         "heading": "Zvrsti, prevodi in motivi",
         "paragraphs": [
           "Stara zaveza vključuje pripovedi, zakonodajo in psalme, Nova zaveza pa evangelije, Apostolska dela, pisma in Razodetje. Psalmi se razlikujejo po namenu: zahvalni se odzivajo na prejeto dobro, spokorni oblikujejo priznanje krivde. Visoka pesem je zgrajena kot ljubezenski pogovor z vzporednimi podobami.",
@@ -1124,6 +1161,7 @@ window.GRADIVO = {
         8
       ],
       "detail": {
+        "photos": "6–7, 62–63",
         "heading": "Analitična in sintetična zgradba",
         "paragraphs": [
           "V Kralju Ojdipu se bistveni zločin zgodi pred začetkom drame, zato njegova preiskava razkriva preteklost. V Antigoni gledalec spremlja posledice sveže prepovedi. Hamlet v ospredje postavi junakovo dvomljivo vednost in njegov odziv na duha, predstavo ter samogovor.",
@@ -1144,6 +1182,7 @@ window.GRADIVO = {
         11
       ],
       "detail": {
+        "photos": "6, 9, 15, 66",
         "heading": "Od zamenjave oseb do čakanja",
         "paragraphs": [
           "Stara atiška komedija je povezana z javno satiro, nova pa se pomakne k zasebnim zapletom. V Plavtovih Dvojčkih komika temelji na zamenjavah. Linhart z menjavo oblek in vlog poveže situacijsko komiko s kritiko privilegijev.",
@@ -1163,6 +1202,7 @@ window.GRADIVO = {
         5
       ],
       "detail": {
+        "photos": "10–12",
         "heading": "Cerkvena, viteška in posvetna besedila",
         "paragraphs": [
           "Poveži družbeni položaj z obliko: cerkvena skupnost uporablja pridigo, viteško okolje razvija pripoved o preizkušnjah in trubadursko petje, mesta poznajo posvetne odrske oblike. Pripoved o Tristanu in Izoldi odpira spor med ljubeznijo in družbeno dolžnostjo.",
@@ -1183,6 +1223,7 @@ window.GRADIVO = {
         26
       ],
       "detail": {
+        "photos": "23, 39–40, 44, 60",
         "heading": "Preobrat in odprti pomen",
         "paragraphs": [
           "Boccaccio zbere več kratkih pripovedi v skupni okvir. Sokol je predmet, ki zgošča zaplet. Jurčičeva Telečja pečenka podobno uporablja konkreten predmet, vendar je osrednji cilj razkriti značaj. Pri Kafki se nemogoča sprememba zgodi že na začetku.",
@@ -1203,6 +1244,7 @@ window.GRADIVO = {
         14
       ],
       "detail": {
+        "photos": "19–20, 56",
         "heading": "Trije načini organizacije soneta",
         "paragraphs": [
           "Italijanski sonet je razdeljen na dve kvartini in dve tercini, angleški pogosto na tri kvartine in sklepno dvostišje. Razporeditev vpliva na mesto miselnega obrata. Prešeren obliko razširi v sonetni venec, kjer se sklepi in začetki navezujejo, magistrale pa poveže niz.",
@@ -1246,6 +1288,7 @@ window.GRADIVO = {
         32
       ],
       "detail": {
+        "photos": "14, 19–20, 23–24, 29, 52–56",
         "heading": "Razvoj po konkretnih primerih",
         "paragraphs": [
           "Pri Vodniku Zadovoljni Kranjec poveže vedro, videno življenje z domačim okoljem in plesnim ritmom. Jenko v Obrazih naravo opazuje kot svet z lastnim redom, tudi kadar govori o človeškem minevanju. Murn pri večerni pokrajini poudari razkorak med naravnim in notranjim mirom.",
@@ -1268,6 +1311,7 @@ window.GRADIVO = {
         35
       ],
       "detail": {
+        "photos": "14–15, 25, 45–46, 62–64",
         "heading": "Slovenski oder od Linharta do Jančarja",
         "paragraphs": [
           "Linhart preseli evropske komične zaplete v domače okolje. Cankar z Jermanom postavi na oder družbeno in intimno razsežnost političnega spora. Grum razširi oder na več sočasnih prostorov, zato mesto postane pomembnejše od ene same junakove poti.",
@@ -1287,6 +1331,7 @@ window.GRADIVO = {
         9
       ],
       "detail": {
+        "photos": "13–15",
         "heading": "Evropske oblike in slovensko razsvetljenstvo",
         "paragraphs": [
           "Klasicistična komedija preizkuša napako v značaju in ravnanju znotraj urejene dramske oblike. Linhart evropski komični obrazec uporabi za domač družbeni spor. Posvetno ustvarjanje v tem času sega tudi v časopisje, učbenike in uporabna besedila.",
@@ -1307,6 +1352,7 @@ window.GRADIVO = {
         18
       ],
       "detail": {
+        "photos": "15–18, 21–24",
         "heading": "Romantični ideal in realistične okoliščine",
         "paragraphs": [
           "Romantika poudari izjemnega posameznika, svobodo in hrepenenje. Byronov romar doživlja zgodovino skozi osebni pogled. Realisti pogosto izberejo prepoznavno vsakdanjost in pokažejo, kako ljudi usmerjajo poklic, denar, okolje in ugled.",
@@ -1328,6 +1374,7 @@ window.GRADIVO = {
         16
       ],
       "detail": {
+        "photos": "18–20",
         "heading": "Prešernove oblike in teme",
         "paragraphs": [
           "Kranjska čbelica in Čopovo zavzemanje za zahtevno poezijo sta kulturni okvir, ne razlaga posameznega verza. V Prešernovem delu primerjaj romanco Hčere svet, elegijo Slovo od mladosti, sonetni cikel in lirsko-epsko pesnitev Krst pri Savici.",
@@ -1349,6 +1396,7 @@ window.GRADIVO = {
         15
       ],
       "detail": {
+        "photos": "15–20",
         "heading": "Pokrajina, svoboda in izguba",
         "paragraphs": [
           "Byronovi Renski gradovi iz zgodovinske pokrajine razvijejo zavest minljivosti. Heinejev Ren je prostor pogubne privlačnosti in stare pripovedi. Pri Prešernu Vrba predstavlja možno življenje, ki ga govorec iz sedanjosti ne more več doseči.",
@@ -1369,6 +1417,7 @@ window.GRADIVO = {
         25
       ],
       "detail": {
+        "photos": "5, 9–12, 35–37",
         "heading": "Od epskega junaka k modernemu romanu",
         "paragraphs": [
           "Iliada in Eneida uporabljata speve in heksameter, a njuna junaka delujeta v različnih razmerjih do skupnosti. Joyce z Odisejo vzpostavi primerjavo na ravni oseb in poti po mestu. Bloomovo vsakdanje gibanje razširi pojem dejanja, vrednega pripovedi.",
@@ -1388,6 +1437,7 @@ window.GRADIVO = {
         10
       ],
       "detail": {
+        "photos": "13, 18",
         "heading": "Motiv in različica",
         "paragraphs": [
           "Ljudsko slovstvo se prenaša ustno, zato ima lahko besedilo več oblik. Lepa Vida povezuje odhod, domotožje in ločitev, različica pa odloči, kako razumemo njeno izbiro. Pripoved o Kurentu kaže, kako se lahko poganski in krščanski motivi srečajo v istem izročilu.",
@@ -1407,6 +1457,7 @@ window.GRADIVO = {
         18
       ],
       "detail": {
+        "photos": "21, 24, 30",
         "heading": "Emma, Ančka in ženski položaj",
         "paragraphs": [
           "Emma Bovary in Ančka iz Jare gospode sta junakinji, katerih položaj določata družbeni ugled in poroka. Obe se z zakonom umestita v okolje, kjer o njiju odločajo ugled, denar in javna sodba. Pri Ančki so pomembni socialni vzpon, odnos z Andrejem in Pavlom ter prehod od javne priljubljenosti do izločenosti.",
@@ -1428,6 +1479,7 @@ window.GRADIVO = {
         24
       ],
       "detail": {
+        "photos": "27–32",
         "heading": "Pesništvo, proza in drama moderne",
         "paragraphs": [
           "Impresionizem lahko opišeš kot gradnjo kratkega vtisa, simbolizem pa kot vzpostavljanje druge ravni pomena s konkretno podobo. Murn združi zaznavo in občutje, Cankar v Na klancu simbol poveže s socialnim okoljem, Hlapci pa politično dejanje z intimno krizo.",
@@ -1447,6 +1499,7 @@ window.GRADIVO = {
         22
       ],
       "detail": {
+        "photos": "28–29",
         "heading": "Kette, Murn, Župančič",
         "paragraphs": [
           "Pri Ketteju v Na trgu nastane razpoloženje iz zvoka vode, neposrednega nagovora in večernega prizora. Murnovo mračenje prebudi nemir, ki ga mir okolja ne odpravi. Župančičeva Duma razširi osebni pogled na domovino in izseljevanje.",
@@ -1466,6 +1519,7 @@ window.GRADIVO = {
         23
       ],
       "detail": {
+        "photos": "30–32",
         "heading": "Črtica in roman",
         "paragraphs": [
           "Na klancu razvije usodo Francke skozi več življenjskih obdobij. V Podobah iz sanj so dogodki kratki, motivi smrti in vojne pa preidejo v sanjsko logiko. Gospod stotnik uporabi prepoznaven vojaški obred, ki ga preoblikuje razkritje stotnikove identitete.",
@@ -1485,6 +1539,7 @@ window.GRADIVO = {
         24
       ],
       "detail": {
+        "photos": "25, 28",
         "heading": "Zunanji in notranji konflikt",
         "paragraphs": [
           "V Hlapcih spremljaj štiri točke: volitve, menjavo govorice učiteljev, Jermanov poskus javnega delovanja ter njegovo osamljenost. Župnik in Kalander pokažeta, da je javni spor povezan z razmerjem moči in lojalnosti.",
@@ -1506,6 +1561,7 @@ window.GRADIVO = {
         33
       ],
       "detail": {
+        "photos": "24, 30, 43–44, 59",
         "heading": "Starši in družbena odgovornost",
         "paragraphs": [
           "Polikarp v Visoški kroniki potomcem zapusti breme svojega nasilja. Francka v Na klancu nosi delo in skrb, čeprav svojih otrok ne more obvarovati pred revščino. V Samorastnikih Prežihovega Voranca Meta kljub telesni kazni in izločenosti skrbi za otroke.",
@@ -1526,6 +1582,7 @@ window.GRADIVO = {
         25
       ],
       "detail": {
+        "photos": "24, 35–37, 59–61",
         "heading": "Čas, zavest, pripovedovalec",
         "paragraphs": [
           "Proust razširi nekaj sekund okušanja peciva v pot do sveta otroštva. Joyce omeji dogajanje na dan, vendar med epizodami menja tehniko. Kovačič uporablja spominske drobce in otroški pogled, da pokaže, kako je zgodovina občutena od znotraj.",
@@ -1547,6 +1604,7 @@ window.GRADIVO = {
         35
       ],
       "detail": {
+        "photos": "6–7, 45–46, 62–66",
         "heading": "Odrski prostor in konec",
         "paragraphs": [
           "Kralj Ojdip pokaže, kako razkritje preteklosti razreši preiskavo. Goga razširi odrski pogled na več sob, prelom v Haninem življenju pa ne razreši zgodb vseh prebivalcev. Smoletova Antigona gre še dlje, saj odsotno junakinjo gledalec spoznava posredno.",
@@ -1567,6 +1625,7 @@ window.GRADIVO = {
         32
       ],
       "detail": {
+        "photos": "52–56",
         "heading": "Bivanjske slike povojne poezije",
         "paragraphs": [
           "Kovičev Južni otok je podoba upanja in možnega zavetja. Pavček z glagoli spremlja sprejemanje izgube in vztrajanje. Zajčev deček ponavlja spuščanje ptic v okolju, ki ga ne razume. V vseh primerih je pomembno, kaj lirski glas lahko stori v danih okoliščinah.",
@@ -1587,6 +1646,7 @@ window.GRADIVO = {
         34
       ],
       "detail": {
+        "photos": "57–61",
         "heading": "Povojni tokovi proze",
         "paragraphs": [
           "Kocbekova proza poveže vojni položaj z odgovornostjo in svobodo. Kovačič preuredi zgodovinsko izkušnjo v prvoosebne spominske fragmente. Lipuš v okolje dijaškega doma vnese jezikovne premike in grotesko. Zupanov Menuet za kitaro prepleta vojni in mnogo poznejši čas.",
@@ -1607,6 +1667,7 @@ window.GRADIVO = {
         23
       ],
       "detail": {
+        "photos": "23, 31–32, 43–45, 60",
         "heading": "Različni načini zgoščanja",
         "paragraphs": [
           "Jurčič napravi iz navade osrednjo oporo značajevke. Cankar zgošča spomin, strah in simbolno podobo. Pregelj v Matkovi Tini zbere pot, usmrtitev, porod in smrt okoli enega zgodovinskega dogodka. Kocbek v Črni orhideji zgošča odločitev, ne le dogodkov.",
@@ -1680,6 +1741,7 @@ window.GRADIVO = {
         11
       ],
       "detail": {
+        "photos": "13–15",
         "heading": "Slovenščina v posvetni javnosti",
         "paragraphs": [
           "Šolske reforme, razvoj časopisja in krogi izobražencev širijo področja rabe slovenščine. Pohlinova slovnica obravnava zapis in jezikovni opis, Pisanice uveljavljajo posvetno pesništvo. Vodnikove Lublanske novice razširijo rabo jezika na poročanje o sodobnih dogodkih.",
@@ -1699,6 +1761,7 @@ window.GRADIVO = {
         14
       ],
       "detail": {
+        "photos": "18–20",
         "heading": "Čop, Čbelica in črkopis",
         "paragraphs": [
           "Kranjska čbelica daje prostor umetniško zahtevnim besedilom. Čop zagovarja vključevanje v evropsko literarno kulturo, Prešeren pa praktično pokaže, da je mogoče v slovenščini razviti sonetni venec, romanco in zahtevno pesnitev.",

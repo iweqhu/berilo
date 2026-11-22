@@ -119,6 +119,13 @@ input::placeholder{color:#bbadca}
 .flow,.study-points,.rules,.stage-list{margin:0;padding-left:1.25rem}
 .flow li,.study-points li,.rules li,.stage-list li{padding:.19em 0 .38em .12em;overflow-wrap:anywhere}
 .study-points li::marker,.stage-list li::marker{color:var(--peach)}
+.study-points .labeled-point{margin-block:.24em .45em}
+.labeled-point>strong{display:block;color:var(--peach)}
+.labeled-point>.study-points{margin-top:.14em}
+.labeled-point>.study-points>li{padding-block:.02em .16em}
+.era-facts.era-facts--guide{grid-template-columns:minmax(0,1fr)}
+.era-jump{margin-bottom:15px}
+.era-facts--guide .card{scroll-margin-top:18px}
 .analysis-column .study-points,.article .study-points{max-width:73ch}
 .device-controls{margin-bottom:11px}
 #device-status:empty{display:none}

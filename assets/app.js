@@ -48,11 +48,25 @@ function showEra(name, trigger) {
   const period = study.periods[name];
   if (!period || !dialog) return;
   const labels = ['Zgodovinsko ozadje','Lirika','Pripovedništvo','Dramatika','Teme in ideje','Predstavniki'];
+  const guide = study.periodGuides[name];
+  const sections = guide ? Object.entries(guide) : labels.map((label,i)=>[label,period[i+1]]);
+  const sources = study.periodSources[name] || [['https://ojs-gr.zrc-sazu.si/primerjalna_knjizevnost/article/view/3114','Literarne smeri in obdobja · ZRC SAZU']];
   dialog.querySelector('.dialog-body').innerHTML = '<header class="dialog-header"><div class="era-heading">'+eraIcon(name)+'<div><p class="eyebrow">'+esc(period[0])+'</p><h2 id="era-title">'+esc(name)+'</h2></div></div><button class="chip" type="button" data-dialog-close autofocus aria-label="Zapri pregled obdobja">Zapri</button></header>'+
-    '<div class="era-facts">'+labels.map((label,i)=>paragraphCard(label,period[i+1])).join('')+'</div>'+
-    '<footer class="toolbar"><a class="textlink" href="#dela/'+encodeURIComponent(name)+'" data-era-route>Dela iz tega obdobja</a>'+sourcePanel([['https://ojs-gr.zrc-sazu.si/primerjalna_knjizevnost/article/view/3114','Literarne smeri in obdobja · ZRC SAZU']])+'</footer>';
+    (guide?'<div class="epohe era-jump" aria-label="Poglavja">'+sections.map(([label],index)=>'<button class="chip" type="button" data-era-jump="'+index+'">'+esc(label)+'</button>').join('')+'</div>':'')+
+    '<div class="era-facts'+(guide?' era-facts--guide':'')+'">'+sections.map(([label,items])=>paragraphCard(label,items)).join('')+'</div>'+
+    '<footer class="toolbar"><a class="textlink" href="#dela/'+encodeURIComponent(name)+'" data-era-route>Dela iz tega obdobja</a>'+sourcePanel(sources)+'</footer>';
   dialog.scrollTop=0;
   dialog.querySelector('[data-dialog-close]').onclick=()=>dialog.close();
+  const cards=[...dialog.querySelectorAll('.era-facts>.card')];
+  dialog.querySelectorAll('[data-era-jump]').forEach(button=>{
+    button.onclick=()=>{
+      const target=cards[Number(button.dataset.eraJump)];
+      const title=target.querySelector('h2');
+      title.tabIndex=-1;
+      title.focus({preventScroll:true});
+      target.scrollIntoView({block:'start'});
+    };
+  });
   dialog.querySelector('[data-era-route]').onclick=()=>{
     dialog.close();
     filters.workQuery='';
@@ -111,13 +125,25 @@ function refreshTopics() {
   document.querySelector('#results').innerHTML=items.map(topicRow).join('');
   document.querySelector('#count').textContent=items.length?'Število zadetkov: '+items.length:'Ni zadetkov. Spremeni iskalni izraz ali področje.';
 }
-const bullets = items => '<ul class="study-points">'+items.map(item=>'<li>'+esc(item)+'</li>').join('')+'</ul>';
+function bullets(items) {
+  return '<ul class="study-points">'+items.map(item=>{
+    if(!Array.isArray(item)) return '<li>'+esc(item)+'</li>';
+    const [label,...details]=item;
+    return '<li class="labeled-point"><strong>'+esc(label)+'</strong>'+
+      (details.length===1 ? '<span>'+esc(details[0])+'</span>' : bullets(details))+'</li>';
+  }).join('')+'</ul>';
+}
 const paragraphCard = (label,items) => items?.length ? card(label,bullets(items)) : '';
 function sourcePanel(entries) {
   const clean = [...new Map(entries.filter(Boolean).map(e=>[e[0]||e[1],e])).values()];
   if (!clean.length) return '';
   return '<details class="card source-panel"><summary>Viri <span>'+clean.length+'</span></summary><ul class="rules sources">'+
     clean.map(([url,label])=>'<li>'+(url?ext(url,label):esc(label))+'</li>').join('')+'</ul></details>';
+}
+function noteSource(photos) {
+  if (!photos) return null;
+  const archive = '';
+  return [location.protocol==='file:'?archive:'','Osebni učni zapiski · fotografije '+photos];
 }
 function authorPanel(w,person) {
   const portrait=person?.image
@@ -159,10 +185,10 @@ function poemLines(stanzas,info,current) {
 }
 function reader(w,info) {
   const stanzas=info.stanzas || w.text || info.fragments;
-  if(stanzas?.length || info.edition) {
-    const linkLabel=info.linkLabel||(info.incomplete||info.fragments?'Celotno besedilo':'Odpri izdajo');
-    const external=info.edition ? '<a class="textlink" href="'+esc(info.edition[0])+'" target="_blank" rel="noopener noreferrer">'+esc(linkLabel)+' ↗</a>' : '';
-    const preview=info.inlineEdition&&info.edition?'<button class="chip" type="button" id="preview-edition" aria-haspopup="dialog">Prikaži celotno besedilo</button>':'';
+  const linkLabel=info.linkLabel||(info.incomplete||info.fragments?'Celotno besedilo':'Odpri izdajo');
+  const external=info.edition ? '<a class="textlink" href="'+esc(info.edition[0])+'" target="_blank" rel="noopener noreferrer">'+esc(linkLabel)+' ↗</a>' : '';
+  const preview=info.inlineEdition&&info.edition?'<button class="chip" type="button" id="preview-edition" aria-haspopup="dialog">Prikaži celotno besedilo</button>':'';
+  if(!info.keepPlot && (stanzas?.length || info.edition)) {
     const lead=info.credit?'<p class="muted reader-credit">'+esc(info.credit)+'</p>':'';
     const header='<div class="reader-head"><h2>Besedilo</h2><div class="epohe">'+preview+external+'</div></div>';
     const body=stanzas?.length
@@ -172,7 +198,7 @@ function reader(w,info) {
           '<button type="button" class="note-trigger chip" data-note="'+i+'" aria-expanded="false" aria-controls="stanza-popup">Razlaga</button></div>').join('')+'</div></div>';
     return '<section class="card reader reader--verse">'+header+lead+body+'</section>';
   }
-  return '<section class="card reader"><h2>Vsebina</h2><div class="reader-scroll" tabindex="0" aria-label="Vsebina dela">'+
+  return '<section class="card reader"><div class="reader-head"><h2>Vsebina</h2><div class="epohe">'+preview+external+'</div></div><div class="reader-scroll" tabindex="0" aria-label="Vsebina dela">'+
     (info.plot?flow(info.plot):bullets([w.intro])+flow(w.steps))+'</div></section>';
 }
 function devicesPanel(info) {
@@ -207,11 +233,11 @@ function periodTraitsPanel(traits) {
 }
 function work(w) {
   const info={...analysis[w.id],...editions[w.id],...study.works[w.id]};
-  const person=people[w.author];
+  const person={...people[w.author],...study.authorBriefs[w.author]};
   const related=topics.filter(t=>t.related.includes(w.n));
   const marked=saved.includes(w.id);
   const contacts=[info.edition,w.primary&&[w.primary,'Besedilo ali analiza'],w.detail?.url&&[w.detail.url,'Dodatna razlaga'],...(info.sources||[]),...(info.periodSources||[]),
-    person?.bio&&[person.bio,'Življenjepis'],person?.extra&&[person.extra,'Dodatni življenjepis'],person?.credit&&[person.credit,'Vir portreta']].filter(Boolean);
+    person?.bio&&[person.bio,'Življenjepis'],person?.extra&&[person.extra,'Dodatni življenjepis'],person?.credit&&[person.credit,'Vir portreta'],noteSource(w.detail?.photos)].filter(Boolean);
   return '<div class="work-head">'+back('dela','Dela')+heading(w.title,'',w.era+' · '+w.genre)+
     '<button type="button" class="chip" id="save" aria-pressed="'+marked+'">'+(marked?'Odstrani zaznamek':'Dodaj zaznamek')+'</button><span id="save-status" role="status"></span></div>'+
     '<div class="work-layout">'+authorPanel(w,person)+(info.triangle?trianglePanel(info.stages||info.triangle):reader(w,info))+
@@ -225,10 +251,10 @@ function topic(t) {
   const related=works.filter(w=>t.related.includes(w.n));
   const expanded=study.topics[t.id];
   return back('teme','Tretje vprašanje')+heading(t.title,'',t.kind+' · '+number(t.n))+
-    '<div class="article"><div class="stack">'+paragraphCard('Razlaga',[t.intro,...(expanded?.facts||t.detail?.paragraphs||[])])+paragraphCard('Primeri',expanded?.examples||[t.example])+
+    '<div class="article"><div class="stack">'+paragraphCard('Razlaga',expanded?.facts||[t.intro,...(t.detail?.paragraphs||[])])+paragraphCard('Primeri',expanded?.examples||[t.example])+
     card('Ustni odgovor',bullets([t.question]))+
     '</div><aside class="stack">'+links('Povezana dela',related.map(w=>link('delo',w)))+
-    sourcePanel([t.detail?.url&&[t.detail.url,'Dodatna razlaga']])+'</aside></div>';
+    sourcePanel([noteSource(t.detail?.photos),t.detail?.url&&[t.detail.url,'Dodatna razlaga']])+'</aside></div>';
 }
 function wireReader(w) {
   const info={...analysis[w.id],...editions[w.id],...study.works[w.id]};

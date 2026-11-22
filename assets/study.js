@@ -89,7 +89,7 @@ window.STUDY = {
       ]
     ],
     "Klasicizem in razsvetljenstvo": [
-      "17.–18. stoletje",
+      "17.–začetek 19. stoletja",
       [
         "Francoski dvor Ludvika XIV. je vplival na gledališče in literarne ustanove. V 18. stoletju je več bralcev prek salonov, časopisov in knjig sodelovalo v razpravi o oblasti.",
         "Razsvetljeni vladarji, med njimi Marija Terezija in Jožef II., so posegali v izobraževanje in upravo. Francoska revolucija leta 1789 je postavila stanovske privilegije pod pritisk."
@@ -113,108 +113,144 @@ window.STUDY = {
     "Romantika": [
       "Konec 18.–sredina 19. stoletja",
       [
-        "Francoska revolucija in napoleonske vojne so spremenile evropske meje in pričakovanja o svobodi. Po letu 1815 so konservativne oblasti ponekod omejile politično udejstvovanje, nacionalna gibanja pa so krepila zanimanje za jezik in preteklost.",
-        "Industrializacija je spreminjala mesta, delo in izkušnjo narave. Na Slovenskem sta pomembna cenzura in krog Kranjske čbelice."
+        "Francoska revolucija in napoleonske vojne.",
+        "Po letu 1815 konservativna oblast in narodna gibanja.",
+        "Industrializacija, rast mest, večje zanimanje za naravo in preteklost.",
+        "Na Slovenskem cenzura in krog Kranjske čbelice."
       ],
       [
-        "Pesem razišče hrepenenje, razočaranje in samoto. Pokrajina lahko izraža notranje stanje ali mu ostro nasprotuje. Nastajajo balade, soneti, romance in lirsko-epske pesnitve."
+        "Lirska izpoved, močna čustva in napetost med idealom in resničnostjo.",
+        "Narava kot izraz čustev ali prostor svobode.",
+        "Sonet, balada, romanca in lirsko-epska pesnitev."
       ],
       [
-        "Zgodovinski roman išče človeka znotraj velikih sprememb, fantastična pripoved preizkuša mejo med doživljanjem in resničnostjo. Byronova pesnitev uporablja potovanje kot okvir za osebne in zgodovinske premisleke."
+        "Zgodovinski roman, fantastična pripoved in potopisna pesnitev.",
+        "Zgodovina, skrivnost, potovanje in posameznik v sporu z družbo."
       ],
       [
-        "Romantični dramatiki širijo čas in kraj dejanja, spajajo tragične ter komične registre in vključujejo zgodovino ali nadnaravno. Velik del Goethejevega Fausta presega meje običajne gledališke uprizoritve."
+        "Zgodovinska in nadnaravna snov.",
+        "Mešanje tragičnih in komičnih prizorov.",
+        "Sproščena uporaba časa in kraja."
       ],
       [
-        "Napetost med ideali in življenjem, svoboda, narava, zgodovinski spomin, pesnikovo poslanstvo in nacionalni jezik."
+        "Hrepenenje, samota, svoboda in neuresničeni ideali.",
+        "Narodna preteklost, jezik in pesnikov položaj."
       ],
       [
-        "Byron, Heine, Lermontov, Puškin, Hugo, Prešeren in Čop. Evropske in slovenske časovne meje se razlikujejo."
+        "Byron, Heine, Lermontov, Puškin, Hugo, Prešeren in Čop."
       ]
     ],
     "Realizem": [
       "Predvsem druga polovica 19. stoletja",
       [
-        "Industrijski razvoj, železnice in rast mest so spremenili trg dela in izkušnjo pripadnosti razredu. Časopisi in cenejše izdaje so razširili krog bralcev.",
-        "Na Slovenskem so se po letu 1848 razvijali politično organiziranje, čitalnice in časopisje. Razmere med podeželjem in mestom so postale snov pripovedništva."
+        "Industrija, železnice, rast mest in različni pogoji dela.",
+        "Več časopisov in več bralcev.",
+        "Na Slovenskem po letu 1848 čitalnice, časopisi in politično organiziranje."
       ],
       [
-        "Lirika ostane navzoča tudi med vzponom romana. Uveljavljajo se konkretne podobe narave in vsakdanje življenje, ob njih pa še naprej živijo romantične in pozneje simbolistične prvine."
+        "Konkretni prizori iz narave in vsakdanjega življenja.",
+        "Socialne in domovinske teme.",
+        "Soobstoj z romantičnimi in pozneje simbolističnimi pesmimi."
       ],
       [
-        "Roman poveže ravnanje posameznika z denarjem, predpisi, izobrazbo in javnim mnenjem. Flaubert približa pripoved Emminemu jeziku. Dostojevski postavi eno zamisel med več moralnih glasov. Slovenska proza se razvija tudi v povesti, črtici in noveli."
+        "Roman, povest, črtica in novela.",
+        "Vsakdanje okolje, jasne družbene razmere in verjetni dogodki.",
+        "Podrobnosti o delu, denarju in ugledih.",
+        "Značaj skozi odločitve, navade, odnose in notranji govor."
       ],
       [
-        "Realistična drama postavi konflikt v prepoznavno gospodinjstvo ali ustanovo. Ibsen s pogovorom razkriva stare skrivnosti, ki določajo potek sodobnega dogajanja."
+        "Vsakdanji govor in prepoznavno okolje, pogosto meščanska hiša.",
+        "Družinska skrivnost, dolg, bolezen ali pritisk javnosti.",
+        "Analitična zgradba: postopno razkrivanje preteklih dogodkov v sedanjosti."
       ],
       [
-        "Poroka in premoženje, ugled, položaj žensk, socialna neenakost, krivda in odgovornost. Naturalizem dodatno poudari okolje in dednost."
+        "Socialne razlike, denar, poroka in ugled.",
+        "Položaj žensk, krivda in odgovornost.",
+        "Naturalizem: večji poudarek na okolju, dednosti in telesnosti."
       ],
       [
-        "Balzac, Flaubert, Tolstoj, Dostojevski, Ibsen, Jurčič, Kersnik, Tavčar. Visoška kronika izide leta 1919 in nadaljuje tradicijo zgodovinskega romana."
+        "Balzac, Flaubert, Tolstoj, Dostojevski, Ibsen, Jurčič, Kersnik in Tavčar."
       ]
     ],
     "Slovenska moderna": [
       "Okoli 1899–1918",
       [
-        "Slovenska mesta v Avstro-Ogrski rastejo, izseljevanje in revščina pa spreminjata družine. Politični spori med liberalci, klerikalci in socialdemokrati zajamejo šolstvo in javno življenje.",
-        "Letnica 1899 se navezuje na Cankarjevo Erotiko in Župančičevo Čašo opojnosti, 1918 pa na konec vojne in Cankarjevo smrt."
+        "Avstro-Ogrska, rast mest, revščina in izseljevanje.",
+        "Spori med liberalci, klerikalci in socialdemokrati.",
+        "1899: Erotika in Čaša opojnosti.",
+        "1918: konec vojne in Cankarjeva smrt."
       ],
       [
-        "V liriki se prepletajo dekadenca, simbolizem in impresionizem. Murnovi trenutni slušni in vidni vtisi odpirajo notranje doživljanje. Župančič pesniški ritem uporablja tudi za širše skupnostne teme."
+        "Impresionizem: trenutni vidni in slušni vtisi.",
+        "Simbolizem: podobe z dodatnim pomenom.",
+        "Dekadenca: izostrena čutnost, naveličanost in iztek starega reda."
       ],
       [
-        "Simbolna pripoved povezuje družbeno okolje z notranjo izkušnjo. Cankar se vrača k revščini, družinskim vezem in vesti. Ponavljajoči se motivi lahko povežejo razmaknjene dogodke."
+        "Osebno doživljanje revščine, družine in vesti.",
+        "Ponavljajoči se motivi, simboli in lirski opisi."
       ],
       [
-        "Cankarjevi liki odpirajo razmerje med oblastjo in načeli. Komika in groteska lahko razkrijeta dvoličnost javnega govora. V Hlapcih družbeni pritisk dopolnjujeta Jermanova vera in odnos z materjo."
+        "Spor posameznika z oblastjo in okoljem.",
+        "Preplet javne satire, osebne stiske in simbolnih prizorov."
       ],
       [
-        "Samota, hrepenenje, materinstvo, socialna krivica, narod in politična pokorščina."
+        "Hrepenenje, samota, materinstvo, narod in socialna krivica."
       ],
       [
-        "Cankar, Župančič, Kette in Murn. V širši sodobni literarni kulturi tudi Zofka Kveder."
+        "Cankar, Župančič, Kette in Murn.",
+        "V širšem krogu tudi Zofka Kveder."
       ]
     ],
     "Modernizem": [
       "Zlasti prva polovica 20. stoletja",
       [
-        "Velika mesta, množični časopis, film in nove tehnologije so spremenili ritem vsakdanjega življenja. Prva svetovna vojna in politični pretresi so omajali zaupanje v urejen zgodovinski napredek.",
-        "Modernizem zajema različne smeri, ki se pojavljajo v različnih državah in se časovno prekrivajo z drugimi oblikami."
+        "Velika mesta, film, množični tisk in nove tehnologije.",
+        "Prva svetovna vojna in politični pretresi.",
+        "Različne smeri z različnimi začetki."
       ],
       [
-        "Prosti verz, zgoščene podobe, nenadni preskoki in montaža dajejo jezikovni obliki samostojno vlogo. Smeri se razlikujejo: intimna fragmentarnost ni isti postopek kot avantgardni manifest."
+        "Prosti verz, zgoščene podobe, preskoki in montaža.",
+        "Preizkušanje pomenov, zvoka in videza besedila."
       ],
       [
-        "Zavest spremeni čas, zaporedje in izbor dogodkov. Pri Proustu okus odpre nehotni spomin, Joyce menjava jezikovne sloge, Kafka opiše nemogoči dogodek s stvarnim govorom."
+        "Tok zavesti, notranji monolog in nehotni spomin.",
+        "Prekinjeno časovno zaporedje in menjave perspektive.",
+        "Nenavadni dogodki v vsakdanjem okolju, povezave z mitom."
       ],
       [
-        "Odrsko dogajanje lahko sledi sanjam, spominu ali več prostorom. Razdrobljen dialog in predmeti na odru lahko zamenjajo jasno pripoved o enem konfliktu."
+        "Oder kot prostor spomina, sanj ali sočasnega dogajanja.",
+        "Razdrobljen dialog in odmik od enotnega zapleta."
       ],
       [
-        "Spomin, odtujenost, omejenost posameznikovega védenja, dvom o enotni resničnosti in razmerje med vsakdanom ter mitom."
+        "Spomin, odtujenost, čas, občutek jaza in negotov pogled na resničnost."
       ],
       [
-        "Proust, Joyce, Kafka, Virginia Woolf, T. S. Eliot. V slovenskem prostoru se modernistične prvine razvijajo v več obdobjih."
+        "Proust, Joyce, Kafka, Virginia Woolf in T. S. Eliot."
       ]
     ],
     "Prva polovica 20. stoletja": [
       "Vojni in medvojni čas",
       [
-        "Prva svetovna vojna je razbila habsburško monarhijo. Del Slovencev je ostal v Italiji in bil pozneje izpostavljen fašistični raznarodovalni politiki.",
-        "Gospodarska kriza po letu 1929 je zaostrila socialne razlike. Politično nasilje med vojnama in druga svetovna vojna sta vplivala na teme in možnosti objavljanja."
+        "Prva svetovna vojna in razpad Avstro-Ogrske.",
+        "Fašistična raznarodovalna politika na Primorskem.",
+        "Kriza po letu 1929, revščina in politično nasilje.",
+        "Druga svetovna vojna in odpor."
       ],
       [
-        "Impresionistični vtis, ekspresionistična vizija in konstruktivistično raziskovanje jezika lahko obstajajo v opusu istega pesnika. Kosovel prehaja od pokrajine in tišine do izbruha barv in civilizacijskih podob."
+        "Impresionistični vtis in kratka razpoloženjska slika.",
+        "Ekspresionistična kriza v ostrih, pretiranih podobah.",
+        "Konstruktivistični poskusi z obliko, besedjem in montažo."
       ],
       [
-        "Socialni realizem v ospredje postavi delavce, kmete in obrobje. Krajša pripoved lahko pokaže, kako razmere vplivajo na izbiro, družinske odnose in javni ugled."
+        "Socialni realizem: kmetje, delavci in revščina.",
+        "Vpliv družbenih razmer na odločitve, delo in družino."
       ],
       [
-        "Ekspresionistična drama pokaže notranjo stisko prek prostora in groteske. Pri Grumu razdeljeni oder gledalcu omogoči pogled v več stanovanj hkrati."
+        "Ekspresionistična drama: tesnoba v prostoru, govorici in telesnih kretnjah.",
+        "Groteska, sočasno dogajanje, opazovanje in ponovitve."
       ],
       [
-        "Propad starega reda, vojna in družbena krivda, revščina, odtujenost, tesnoba in človekov odnos do skupnosti."
+        "Vojna, revščina, družbena krivica, tesnoba in propad starega reda."
       ],
       [
         "Kosovel, Grum, Pregelj, Prežihov Voranc, Miško Kranjec in Kajuh."
@@ -223,25 +259,508 @@ window.STUDY = {
     "Književnost po letu 1945": [
       "Sodobna književnost",
       [
-        "Druga svetovna vojna in povojna delitev Evrope sta vplivali na izkušnjo meje, spomina in ideologije. Povojna Jugoslavija je spremenila javne institucije, izobraževanje in delo.",
-        "Urbanizacija, množični mediji, hladna vojna in po letu 1991 osamosvojitev vplivajo na avtorje različnih generacij zelo različno."
+        "Vojni spomin, nova Jugoslavija in hladna vojna.",
+        "Urbanizacija, množični mediji in osamosvojitev Slovenije leta 1991.",
+        "Več generacij in različnih umetnostnih usmeritev."
       ],
       [
-        "Od povojnega kolektivnega govora se del pesnikov obrne k intimi, drugi k eksistencialnim podobam ali jezikovnemu eksperimentu. Pri Pavčku je v ospredju drža do življenja, pri Zajcu samota, pri Szymborski vprašanje nastajanja pesmi."
+        "Povojna kolektivna lirika, intimizem in eksistencialne teme.",
+        "Pesmi o jeziku in nastanku pesmi.",
+        "Prosti verz, simbolne podobe in jezikovni poskusi."
       ],
       [
-        "Avtobiografska in modernistična proza razdrobi spomin, ki ga pripovedovalec vidi le iz svojega položaja. Kovačič pripadnost meri z jezikom in otroškimi zaznavami, Lipuš izkušnjo institucije vpiše v slog."
+        "Avtobiografska proza, spominski roman in modernistična pripoved.",
+        "Razdrobljen čas, različni jeziki, otroški ali omejen pripovedni pogled."
       ],
       [
-        "Po vojni se razvijajo poetična drama, groteska in drama absurda. Jančar prek natančnih pravil zaprte ustanove pokaže, kako oblast določa človekovo identiteto."
+        "Poetična drama, groteska in drama absurda.",
+        "Zaprti prostori, nesmiselna pravila in preizpraševanje oblasti."
       ],
       [
-        "Spomin, tujstvo, identiteta, usoda posameznika pod prisilo, minljivost ter meja jezika in umetnosti."
+        "Spomin, izseljenstvo, identiteta, minljivost in odnos posameznika do ustanov."
       ],
       [
-        "Pavček, Kovič, Menart, Zlobec, Zajc, Strniša, Kovačič, Lipuš, Jančar. V svetovnem okviru tudi Plath in Szymborska."
+        "Pavček, Kovič, Menart, Zlobec, Zajc, Strniša, Kovačič, Lipuš in Jančar.",
+        "V svetovni književnosti Plath in Szymborska."
       ]
     ]
+  },
+  "periodGuides": {
+    "Antika": {
+      "Zgodovinsko ozadje": [
+        [
+          "Grški svet",
+          "Polisi, mestne države z lastno oblastjo. V Atenah politične pravice svobodnih moških državljanov.",
+          "Grške kolonije, pomorska trgovina in širjenje grškega jezika po Sredozemlju.",
+          "Po Aleksandru Velikem helenistična kraljestva. Aleksandrija kot središče učenosti."
+        ],
+        [
+          "Rimski svet",
+          "Od republike do cesarstva. Obsežna cestna in trgovska mreža, suženjsko delo in širjenje latinščine.",
+          "Rimsko prevzemanje in predelovanje grških literarnih oblik."
+        ]
+      ],
+      "Grška književnost po obdobjih": [
+        [
+          "Arhaična doba · približno 8.–6. stol. pr. n. št.",
+          "Ustno izročilo, junaški ep v heksametru in osebna ali zborovska lirika.",
+          "Ep kot skupni spomin na bogove in junake. Lirika ob glasbi, plesu, obredih in družabnih srečanjih."
+        ],
+        [
+          "Klasična doba · 5.–4. stol. pr. n. št.",
+          "Atenska tragedija in komedija. Razvoj zgodovinopisja, govorništva in filozofskega dialoga."
+        ],
+        [
+          "Helenistična doba · od konca 4. stol. pr. n. št.",
+          "Učena lirika, epigram, bukolična pesem in nova komedija. Knjižnice, zbiranje in urejanje starejših del.",
+          "V poznejši grški književnosti rimske dobe tudi prozni roman."
+        ]
+      ],
+      "Grško gledališče": [
+        [
+          "Prizorišče na prostem",
+          "Theatron: stopničasto gledališče za občinstvo. Orchestra: prostor zbora. Skene: odrsko poslopje v ozadju.",
+          "Moški igralci tudi v ženskih vlogah. Maske in kostumi za prepoznavanje likov. Zbor s petjem, ritmom in gibanjem."
+        ],
+        [
+          "Dionizije in tekmovanje",
+          "Atenski praznik v čast Dionizu. Javna prireditev z verskim in družbenim pomenom.",
+          "Na velikih dionizijah praviloma trije tekmovalni tragediografi. Vsak s tremi tragedijami in satirsko igro. Komedije v svojem tekmovanju.",
+          "Izbor in nagrade. Zbor je navadno financiral premožen državljan v okviru javne obveznosti."
+        ]
+      ],
+      "Tragedija": [
+        [
+          "Značilnosti",
+          "Pogosta mitološka snov. Resen konflikt med osebno dolžnostjo, oblastjo, bogovi in skupnostjo.",
+          "Preobrat: nenadna sprememba položaja. Prepoznanje: prehod od nevednosti k spoznanju.",
+          "Zbor: komentar, vprašanja in odziv skupnosti. O ključnih nasilnih dejanjih pogosto poroča sel."
+        ],
+        [
+          "Zgradba",
+          "Prolog: uvod pred prihodom zbora. Parodos: vstopna pesem zbora.",
+          "Epizode: prizori igralcev. Stajanke (stasima): zborovske pesmi med epizodami.",
+          "Eksodos: zaključni del po zadnji zborovski pesmi."
+        ],
+        [
+          "Katarza",
+          "Pri Aristotelu učinek tragedije prek sočutja in strahu. Pogosta razlaga: očiščenje ali razbremenitev teh čustev pri gledalcu."
+        ]
+      ],
+      "Komedija": [
+        [
+          "Značilnosti",
+          "Smeh, pretiravanje, nesporazumi in kritika navad ali oblasti. Pogost ugoden razplet."
+        ],
+        [
+          "Stara in nova komedija",
+          "Stara komedija: politika, znane javne osebe, fantastični zapleti, izrazit zbor. Predstavnik Aristofan.",
+          "Nova komedija: domači odnosi, ljubezen, spletke in prepoznanja. Značilni tipi, npr. strog oče ali zvit služabnik. Predstavnik Menander."
+        ],
+        [
+          "Parabaza",
+          "Del stare komedije, v katerem se zbor neposredno obrne k občinstvu. Začasna prekinitev zgodbe za nagovor, kritiko ali komentar."
+        ],
+        [
+          "Vrste komike",
+          "Besedna: igra besed, dvoumnost ali posnemanje govora.",
+          "Značajska: pretirana lastnost, npr. nečimrnost ali skopost.",
+          "Situacijska: komičen položaj, npr. zamenjava oseb, skrivanje ali nesporazum."
+        ]
+      ],
+      "Rimska književnost po obdobjih": [
+        [
+          "Arhaična doba · od 3. stol. pr. n. št.",
+          "Začetki pisne književnosti v latinščini. Prevodi in priredbe grških del. Razcvet rimske komedije."
+        ],
+        [
+          "Zlata doba · 1. stol. pr. n. št.–začetek 1. stol. n. št.",
+          "Pozna republika in Avgustova doba. Govorništvo, zgodovinopisje, ep, oda in elegija."
+        ],
+        [
+          "Srebrna doba · predvsem 1.–začetek 2. stol. n. št.",
+          "Cesarstvo. Satira, epigram, zgodovinopisje, filozofska proza in tragedija."
+        ],
+        [
+          "Pozna antika · približno 3.–5. stol. n. št.",
+          "Soobstoj klasičnega izročila in krščanske književnosti. Teološka proza, himne in prevodi svetopisemskih besedil."
+        ]
+      ],
+      "Primeri iz del": [
+        [
+          "Grška književnost",
+          "Iliada: junaški ep, Ahilova čast in posegi bogov.",
+          "Svatovska: osebni glas, telesni znaki ljubezni in sapfiška kitica.",
+          "Kralj Ojdip: prepoznanje lastne krivde in tragični preobrat.",
+          "Antigona: pokop brata, spopad oblastnega ukaza z nenapisanim zakonom."
+        ],
+        [
+          "Rimska in svetopisemska književnost",
+          "Carpe diem: rimska oda, užitek v sedanjem dnevu in minljivost.",
+          "O izgubljenem sinu: svetopisemska prilika o vrnitvi in odpuščanju. Del zgodnjekrščanske književnosti antičnega časa."
+        ]
+      ]
+    },
+    "Srednji vek": {
+      "Zgodovinsko ozadje": [
+        [
+          "Zahodna Evropa",
+          "Po razpadu zahodnega rimskega cesarstva nova kraljestva. Fevdalni odnosi, zemljiška posest, rast mest in trgovine.",
+          "Cerkev, samostani in pozneje univerze kot središča pismenosti. Latinščina in postopna širitev književnosti v ljudskih jezikih."
+        ]
+      ],
+      "Lirika": [
+        [
+          "Verske pesnitve",
+          "Himne, molitvene pesmi in Marijine pesmi. Hvalnica, prošnja, spomin na svetopisemske dogodke."
+        ],
+        [
+          "Trubadursko pesništvo",
+          "Dvorna lirika v okcitanščini, namenjena petju ob glasbi.",
+          "Ideal dvorne ljubezni: vdanost pogosto nedosegljivi dami, hrepenenje, zadržanost in zvestoba."
+        ]
+      ],
+      "Pripovedništvo": [
+        [
+          "Versko in posvetno pripovedništvo",
+          "Versko: legende o svetnikih, poučne zgodbe in pripovedi o posmrtnem svetu.",
+          "Posvetno: junaški epi, viteški romani v verzih ali prozi in kratke novele, zlasti v poznejšem srednjem veku."
+        ],
+        [
+          "Viteški roman",
+          "Daljša zgodba o vitezu in njegovih pustolovščinah. Sprva pogosto v verzih, pozneje tudi v prozi.",
+          "Preizkusi poguma, zvestobe, časti in dvorne ljubezni. Pogosti čudeži, naloge in potovanja.",
+          "Značilna snov: kralj Artur in vitezi okrogle mize, iskanje grala, Tristan in Izolda."
+        ]
+      ],
+      "Dramatika": [
+        [
+          "Verske igre",
+          "Misterij: uprizoritev svetopisemskih zgodb.",
+          "Pasijon: Kristusovo trpljenje in smrt.",
+          "Moraliteta: boj za človekovo dušo, pogosto z nastopom poosebljenih kreposti in pregreh."
+        ],
+        [
+          "Posvetne igre",
+          "Farsa in burka: kratka komična igra iz vsakdanjega življenja. Groba komika, pretiravanje, prevara in nesporazum."
+        ]
+      ],
+      "Teme in ideje": [
+        [
+          "Pogoste teme",
+          "Vera, greh, kazen in odrešenje.",
+          "Čast, služenje, zvestoba in težko dosegljiva ljubezen."
+        ]
+      ],
+      "Primeri iz del": [
+        [
+          "Božanska komedija",
+          "Versko-alegorični ep v ljudskem jeziku. Pot skozi pekel, vice in raj kot pot učenja in očiščenja.",
+          "V slovenskem prostoru: Brižinski spomeniki kot primer zgodnjega verskega pismenstva."
+        ]
+      ]
+    },
+    "Renesansa": {
+      "Zgodovinsko ozadje": [
+        [
+          "Prelomni dogodki",
+          "1453: osmansko zavzetje Konstantinopla, konec Bizantinskega cesarstva.",
+          "Okoli 1450: Gutenbergov tisk s premičnimi kovinskimi črkami v Evropi; dostopnejše knjige.",
+          "1492: Kolumbov prihod v Ameriko. Razširitev evropskih pomorskih poti in kolonizacija.",
+          "1543: objava Kopernikovega dela o heliocentričnem sistemu."
+        ],
+        [
+          "Mesta in mecenstvo",
+          "Razvoj trgovine in bančništva. Podpora umetnikom na dvorih in v mestih.",
+          "Humanistične šole, prevodi in izdajanje antičnih besedil."
+        ]
+      ],
+      "Humanizem in renesančne ideje": [
+        [
+          "Človek in izobrazba",
+          "Zanimanje za antične jezike, zgodovino, književnost in retoriko.",
+          "Individualizem: poudarek na posamezniku in njegovi zmožnosti oblikovanja lastne poti.",
+          "Razum, opazovanje in preverjanje: zanimanje za človekovo telo, naravo, jezik in družbo."
+        ],
+        [
+          "Politika",
+          "Machiavelli: vladanje kot vprašanje dejanske moči in učinkovitih odločitev.",
+          "Makiavelizem: poznejše poimenovanje za preračunljivo uporabo sredstev v političnem interesu."
+        ]
+      ],
+      "Lirika": [
+        [
+          "Ljubezen in sonet",
+          "Čutna privlačnost, duhovna ljubezen, občudovanje ljubljene osebe in neuslišanost.",
+          "Italijanski sonet: dva kvarteta in dve tercini. Pogosto obrat pri prehodu v tercini.",
+          "Angleški sonet: trije kvarteti in sklepni dvovrstičnik."
+        ]
+      ],
+      "Pripovedništvo": [
+        [
+          "Novela",
+          "Kratka pripoved, pogosto iz posvetnega in vsakdanjega življenja. Malo oseb, en osrednji dogodek in pogost presenetljiv razplet.",
+          "Predmet ali ponavljajoči se motiv lahko poveže dejanje v celoto. Sokolja teorija je poznejša razlaga tega postopka, ne pravilo za vsako novelo.",
+          "Možna okvirna pripoved, ki poveže več samostojnih zgodb."
+        ]
+      ],
+      "Dramatika": [
+        [
+          "Oblike in postopki",
+          "Obnova antičnih zgledov in zanimanje za Aristotelovo Poetiko v italijanski teoriji. Različne tradicije po Evropi.",
+          "Dialog kot nosilec dejanja. Samogovor za razkritje junakovih dvomov in načrtov.",
+          "Renesančne tragedije pogosto vključujejo telesni propad pomembnih oseb. Na angleškem odru tudi komika, več krajev in daljši čas dogajanja.",
+          "Igra v igri kot možen način razkrivanja prikritih namenov."
+        ]
+      ],
+      "Elizabetinsko gledališče": [
+        [
+          "Skupine, stavbe in igra",
+          "Poklicne skupine pod pokroviteljstvom plemstva ali dvora. Nastopi v Londonu, na dvoru in na gostovanjih.",
+          "Javna lesena gledališča, pogosto večkotna in na pogled okrogla. Odprt prostor za stojišča, galerije in oder, ki sega med gledalce.",
+          "Moški igralci. Ženske vloge večinoma igrajo dečki ali mladi moški.",
+          "Kostumi označujejo položaj lika. Malo stalne scenografije, kraj pogosto določi govor."
+        ]
+      ],
+      "Primeri iz del": [
+        [
+          "Lirika, novela in drama",
+          "Sonet 61: italijanski sonet, spomin na Lauro, Amor in ljubezenska bolečina.",
+          "Novela o sokolu: sokol poveže prošnjo, gostoljubje in preobrat.",
+          "Hamlet: samogovori, igra v igri Mišelovka in menjavanje prizorišč."
+        ]
+      ]
+    },
+    "Ljudsko slovstvo": {
+      "Izročilo": [
+        [
+          "Nastanek in prenos",
+          "Avtor največkrat neznan. Skupnost besedilo ohranja in preoblikuje z ustnim prenosom.",
+          "Različice besedila, krajevne besede, spremembe zaključkov in likov. Poznejši zapisi ohranijo le posamezne različice."
+        ]
+      ],
+      "Pripovedništvo": [
+        [
+          "Pogoste prozne oblike",
+          "Pravljica: čudežni dogodki, preizkušnje in prepoznavni tipi likov.",
+          "Povedka: navezava na kraj, zgodovino ali ljudsko razlago pojava.",
+          "Legenda: pripoved z versko vsebino, npr. svetnik ali čudež."
+        ]
+      ],
+      "Lirika": [
+        [
+          "Pesmi in folklorni obrazci",
+          "Ljubezenske, obredne, delovne in pripovedne pesmi.",
+          "Folklorni obrazci: ponovitev, stalni pridevnik, vzporedni stavki, dvogovor in značilna števila.",
+          "Balada združi zgodbo, lirsko razpoloženje in dramatični dvogovor."
+        ]
+      ],
+      "Teme in ideje": [
+        [
+          "Izkušnje skupnosti",
+          "Družina, delo, pripadnost domu, odhod, izguba in krivična usoda.",
+          "Ženska balada: usoda dekleta ali žene ter poudarek na njenem doživljanju."
+        ]
+      ],
+      "Primeri iz del": [
+        [
+          "Lepa Vida",
+          "Ženska balada o odhodu in hrepenenju po domu. V nekaterih zapisih odhod zaradi prevare, v drugih zaradi obljube boljšega življenja.",
+          "Sonce in luna kot sogovornika. Različni konci: smrt, žalovanje ali vrnitev."
+        ]
+      ]
+    },
+    "Klasicizem in razsvetljenstvo": {
+      "Zgodovinsko ozadje": [
+        [
+          "Evropa",
+          "Francoski klasicizem v 17. stoletju: kraljevi dvor, akademije in antični zgledi.",
+          "Razsvetljenstvo v 18. stoletju: širjenje knjig, enciklopedij, časopisov in javnih razprav."
+        ],
+        [
+          "Slovenske dežele",
+          "1768: Pohlinova Krajnska gramatika. Pohlinov krog in pesniški zbornik Pisanice.",
+          "Zoisov krog: mecenstvo, živa slovenščina in narodno prebujanje. Linhart in Vodnik med sodelavci.",
+          "1789: uprizoritev Županove Micke. Začetek slovenskega posvetnega gledališča.",
+          "1797–1800: Lublanske novice, prvi slovenski časopis. Bohoričica kot tedaj uveljavljena pisava."
+        ]
+      ],
+      "Klasicistična dramatika": [
+        [
+          "Zgled in oblika",
+          "Antiški zgledi, jasna razdelitev zvrsti, urejena zgradba in skrb za primerno vedenje likov.",
+          "Tri enotnosti: en glavni zaplet, omejen kraj in kratek čas, navadno največ en dan.",
+          "Komedija: kritika družbenih napak z besedno, značajsko in situacijsko komiko."
+        ]
+      ],
+      "Razsvetljenske ideje": [
+        [
+          "Razum, korist in vzgoja",
+          "Racionalizem: presoja z razumom in argumentom. Zavračanje slepe vere v usodo in nepreverjeno avtoriteto.",
+          "Koristnost in poučnost: književnost za izobrazbo, boljše življenje in kritiko krivic. Umetnost zaradi umetnosti je drugačno, poznejše pojmovanje.",
+          "Na Slovenskem širitev posvetne književnosti. Slovenski jezik za javno življenje, šolo, oder in časopis."
+        ]
+      ],
+      "Lirika": [
+        [
+          "Pesniške vrste",
+          "Oda: slovesna hvalnica. Elegija: žalostna ali premišljujoča pesem.",
+          "Budnica: poziv k dejavnosti in narodni zavesti."
+        ]
+      ],
+      "Pripovedništvo in poučni spisi": [
+        [
+          "Pripovedništvo",
+          "Basen: kratka pripoved z naukom, pogosto z živalmi. Lahko je v prozi ali verzih.",
+          "Poučne povesti, pripovedna satira in filozofska povest."
+        ],
+        [
+          "Poučno pisanje",
+          "Slovnice, šolske knjige, priročniki, zgodovinopisje, pratike in časopisni članki."
+        ]
+      ],
+      "Razsvetljenska dramatika": [
+        [
+          "Posvetna komedija",
+          "V ospredju predsodki, neenakost in zloraba položaja.",
+          "Razumni in iznajdljivi ljudje iz nižjih stanov lahko premagajo oblastnega plemiča."
+        ]
+      ],
+      "Primeri iz del": [
+        [
+          "Dve različni tradiciji",
+          "Tartuffe: francoska klasicistična komedija, satira hlinjene pobožnosti.",
+          "Matiček: slovenska razsvetljenska komedija, kritika stanovskih privilegijev in uradništva."
+        ]
+      ]
+    }
+  },
+  "periodSources": {
+    "Antika": [
+      [
+        "https://eucbeniki.sio.si/slo1/2421/index3.html",
+        "Grčija in Rim · e-učbenik"
+      ],
+      [
+        "https://www-current.chs.harvard.edu/curated-article/gregory-nagy-greek-literature-introductions-and-suggested-bibliographies/",
+        "Grško gledališče · Center for Hellenic Studies"
+      ],
+      [
+        "https://classical-inquiries.chs.harvard.edu/text-and-reperformance-do-you-really-need-a-text-for-your-reperformance/",
+        "Aristotelova Poetika · katarza"
+      ]
+    ],
+    "Srednji vek": [
+      [
+        "https://eucbeniki.sio.si/slo1/2457/index4.html",
+        "Srednjeveška književnost · e-učbenik"
+      ],
+      [
+        "https://dante.princeton.edu/cgi-bin/dante/DispToynbeeByTitOrId.pl?INP_ID=212131",
+        "Dantejeva Komedija · Princeton"
+      ]
+    ],
+    "Renesansa": [
+      [
+        "https://eucbeniki.sio.si/slo1/2424/index3.html",
+        "Humanizem in renesansa · e-učbenik"
+      ],
+      [
+        "https://www.folger.edu/explore/shakespeares-theater/",
+        "Elizabetinsko gledališče · Folger"
+      ],
+      [
+        "https://eucbeniki.sio.si/slo1/2474/index1.html",
+        "Renesančna novela · e-učbenik"
+      ]
+    ],
+    "Ljudsko slovstvo": [
+      [
+        "https://eucbeniki.sio.si/slo1/2670/index.html",
+        "Ljudske pesmi in ustno izročilo · e-učbenik"
+      ],
+      [
+        "https://eucbeniki.sio.si/slo1/2672/index1.html",
+        "Lepa Vida in različice balade · e-učbenik"
+      ]
+    ],
+    "Klasicizem in razsvetljenstvo": [
+      [
+        "https://eucbeniki.sio.si/slo1/2426/index.html",
+        "Evropski klasicizem in razsvetljenstvo · e-učbenik"
+      ],
+      [
+        "https://eucbeniki.sio.si/slo1/2428/index1.html",
+        "Slovensko razsvetljenstvo · e-učbenik"
+      ],
+      [
+        "https://eucbeniki.sio.si/slo1/2675/index.html",
+        "Linhart in razsvetljenska dramatika · e-učbenik"
+      ]
+    ]
+  },
+  "authorBriefs": {
+    "Sapfo": {
+      "bio": "https://www.bl.uk/stories/blogs/posts/mystery-of-sappho",
+      "facts": [
+        "Najstarejša dobro izpričana evropska pesnica. Grška liričarka z otoka Lezbos.",
+        "Ženska ljubezenska lirika: ženski pesniški glas, bližina, hrepenenje in slovo.",
+        "Dekliški krog ali šola: tradicionalna razlaga, brez zanesljive potrditve, da je Sapfo ustanovila šolo."
+      ]
+    },
+    "Sofoklej": {
+      "bio": "https://www-current.chs.harvard.edu/curated-article/gregory-nagy-greek-literature-introductions-and-suggested-bibliographies/",
+      "facts": [
+        "Leta 468 pr. n. št. je po antičnem izročilu na dramskem tekmovanju premagal Ajshila.",
+        "Tretji igralec, več možnosti za dialog in spopad med liki.",
+        "Zbor po izročilu od 12 na 15 članov. Večji številčno, manj osrednji pri razvoju dejanja."
+      ]
+    },
+    "Dante Alighieri": {
+      "bio": "https://ahc.leeds.ac.uk/discover-dante/doc/introducing-dante/page/7",
+      "facts": [
+        "Rojen leta 1265 v Firencah.",
+        "Beli gvelf. Gvelfi so tradicionalno podpirali papeštvo, beli gvelfi pa so branili samostojnost Firenc pred papeževim vmešavanjem.",
+        "Leta 1302 izgnan iz Firenc. V mesto se ni vrnil."
+      ]
+    },
+    "Francesco Petrarca": {
+      "bio": "https://cuny.manifoldapp.org/read/the-complete-canzoniere/section/aac6e72d-e30e-4e35-81b0-fddada34dbe6",
+      "facts": [
+        "Ključni oblikovalec italijanskega soneta in vzor evropskim pesnikom.",
+        "Po lastni pripovedi je Lauro prvič videl leta 1327 v Avignonu.",
+        "Canzoniere, zbirka pesmi v italijanščini. V ospredju ljubezen do Laure in pesnikov notranji svet."
+      ]
+    },
+    "Giovanni Boccaccio": {
+      "bio": "https://dante.princeton.edu/cgi-bin/dante/DispToynbeeByTitOrId.pl?INP_ID=212131",
+      "facts": [
+        "Avtor Dekamerona, okvirne zbirke stotih novel.",
+        "Preučeval in opisal Dantejevo življenje. Za Dantejevo Komedijo je uporabljal pridevnik božanska, ki je pozneje postal del naslova."
+      ]
+    },
+    "William Shakespeare": {
+      "bio": "https://www.folger.edu/explore/shakespeares-life/",
+      "facts": [
+        "Najbolj znan predstavnik angleškega soneta. V zbirki Soneti iz leta 1609 je 154 sonetov.",
+        "Leta 1582 se je poročil z Anne Hathaway.",
+        "Vprašanje avtorstva: ohranjeni dokumenti dela pripisujejo Shakespearu iz Stratforda. Pri nekaterih igrah je sodeloval z drugimi dramatiki."
+      ]
+    },
+    "Jean-Baptiste Molière": {
+      "bio": "https://www.comedie-francaise.fr/www/comedie/media/document/docpedagogiqueparcoursmoliere.pdf",
+      "facts": [
+        "Kralj Ludvik XIV. je podpiral Molièrovo gledališče. Njegova skupina je leta 1665 dobila naziv kraljeva skupina in denarno podporo.",
+        "Ludvik XIV. je Tartuffe sprva dovolil igrati zasebno. Javna uprizoritev dokončne različice leta 1669."
+      ]
+    },
+    "Anton Tomaž Linhart": {
+      "bio": "https://eucbeniki.sio.si/slo1/2675/index.html",
+      "facts": [
+        "Član Zoisovega krožka, prvi slovenski komediograf in utemeljitelj slovenskega posvetnega gledališča.",
+        "Županova Micka in Ta veseli dan ali Matiček se ženi, prvi slovenski komediji."
+      ]
+    }
   },
   "works": {
     "1": {
@@ -249,11 +768,6 @@ window.STUDY = {
         "V desetem letu vojne Ahajce zadene Apolonova kuga, ker Agamemnon noče vrniti Hriseide njenemu očetu. Ko jo mora izpustiti, Ahilu vzame Brizeido. Ahil se umakne in prosi mater Tetido, naj pri Zevsu izprosi pritisk na Ahajce.",
         "Hektor v Troji obišče Andromaho in otroka, nato se vrne na bojišče. Trojanci prodrejo do ladij. Patroklos si nadene Ahilov oklep, jih potisne nazaj in pade pod Hektorjevim udarcem ob vmešavanju bogov.",
         "Ahil sprejme nov oklep, se spravi z Agamemnonom in ubije Hektorja. Njegovo truplo potegne za vozom. Priam ponoči pride k Ahilu in ob spominu na Ahilovega očeta doseže vrnitev telesa. Ep se konča s Hektorjevim pogrebom."
-      ],
-      "crit": [
-        "Brizeida je za vojskovodje dokaz odmerjene časti. Ko jo Agamemnon vzame, se izkaže, da si poveljnik lahko prilasti slavo drugega, medtem ko tveganje boja ostane skupno.",
-        "Hektorjeva čelada prestraši otroka. Ko jo odloži, ugledni branilec mesta postane oče, ki mu domača ljubezen ne more obljubiti preživetja.",
-        "Priamovo žalovanje spremeni merilo zmage. Ahil, ki je truplo uporabljal kot sredstvo maščevanja, tudi sovražniku dovoli žalovati."
       ],
       "cast": [
         [
@@ -316,15 +830,15 @@ window.STUDY = {
       "periodTraits": [
         [
           "Junaški ideal",
-          "V antičnem epu čast junaka določa njegov položaj med bojevniki. Ahil se umakne iz boja, ko mu Agamemnon vzame Brizeido: razdelitev plena je javno znamenje ugleda."
+          "Brizeida kot znak Ahilove časti. Odvzem plena povzroči njegov umik."
         ],
         [
-          "Bogovi v človeškem svetu",
-          "Grški bogovi posegajo v spopad in podpirajo različne strani. Tetida prosi Zevsa za pomoč Ahilu, zato spor med poveljnikoma vpliva na potek vojne."
+          "Posegi bogov",
+          "Tetida prosi Zevsa za pomoč Ahilu. Božja odločitev vpliva na bitke."
         ],
         [
           "Sledi ustnega epa",
-          "Ustaljeni pridevki in ponavljajoči se prizori so del epskega načina pripovedovanja. Ahila večkrat označuje hitrost njegovih nog, tudi kadar v prizoru ne teče."
+          "Stalni pridevki, npr. Ahilova hitrost, in ponovljivi prizori priprav na boj."
         ]
       ],
       "periodSources": [
@@ -332,68 +846,186 @@ window.STUDY = {
           "https://eucbeniki.sio.si/slo1/2421/index3.html",
           "Antična književnost · e-učbenik"
         ]
+      ],
+      "crit": [
+        [
+          "Čast in plen",
+          "Brizeida kot znamenje Ahilovega ugleda.",
+          "Agamemnonov odvzem plena je javno ponižanje. Zato se Ahil umakne iz boja."
+        ],
+        [
+          "Hektor kot oče",
+          "Čelada prestraši sina. Hektor jo odloži in otroka vzame v naročje.",
+          "Prizor pokaže, kaj Hektor tvega z vrnitvijo na bojišče."
+        ],
+        [
+          "Sočutje do sovražnika",
+          "Priam prosi za Hektorjevo truplo. Ahil se spomni lastnega očeta in truplo vrne."
+        ]
+      ],
+      "material": [
+        "Trojanski mit in obleganje Troje. Začetek pri Ahilovi jezi, sredi vojne."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Spor zaradi časti, izguba tovariša in maščevanje."
+        ],
+        [
+          "Ideja",
+          "Skupna žalost omogoči sočutje tudi med sovražnikoma."
+        ]
+      ],
+      "motifs": [
+        "Brizeida in vojni plen.",
+        "Patroklova smrt, Hektorjevo truplo in pokop."
       ]
     },
     "2": {
-      "crit": [
-        "Moški s svojo mirno bližino postane merilo govorkine stiske. Razlika med njegovim poslušanjem in njeno izgubo glasu pokaže, da isti družabni prizor vsak doživi drugače.",
-        "Zaznavanje se podira od govora do sluha, vida in gibanja. Kratki sklepni verz o nemih ustih že z obliko uresniči občutek prekinitve.",
-        "Zadnja ohranjena vrstica nakazuje možen obrat k vztrajanju. Fragment se prekine, preden izvemo, kako bi govorka to držo razvila."
-      ],
       "periodTraits": [
         [
-          "Osebni glas arhaične lirike",
-          "Govorka izraža izkušnjo v prvi osebi. Pogled na ljubljeno osebo se razgrne prek telesnih znakov, denimo prek izgube glasu in drhtenja."
+          "Osebni glas",
+          "Prva oseba in telesni znaki ljubezni, npr. izguba glasu."
         ],
         [
-          "Pesem in glasba",
-          "Grška arhaična lirika je bila izvajana ob glasbi. V izvirniku se dolžine in ritem verzov urejajo v ponavljajočo se sapfiško kitico s krajšim sklepnim verzom."
+          "Povezava z glasbo",
+          "Arhaična lirika za petje. Sapfiška kitica s krajšim sklepnim verzom."
+        ]
+      ],
+      "crit": [
+        [
+          "Ženski glas",
+          "Govorka opazuje ljubljeno osebo v pogovoru z moškim. Njegova mirnost izostri njeno vznemirjenost."
+        ],
+        [
+          "Telesni znaki ljubezni",
+          "Izguba glasu, vročina, šumenje v ušesih in drhtenje. Čustvo je razvidno iz telesnih odzivov."
+        ],
+        [
+          "Sklep fragmenta",
+          "Zadnji ohranjeni verz namigne na vztrajanje. Nadaljevanje pesmi je izgubljeno."
+        ]
+      ],
+      "material": [
+        "Grški fragment 31. Govorka ob srečanju moškega in ljubljene ženske. Naslov je poznejši."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Moč ljubezni in bližina, ki jo ima nekdo drug."
+        ],
+        [
+          "Ideja",
+          "Telesni odzivi povedo več od besed, ki jih govorka ne more izreči."
+        ]
+      ],
+      "motifs": [
+        "Smeh in izguba glasu.",
+        "Vročina, šumenje, pot in tresenje."
+      ],
+      "notes": [
+        [
+          "Moški mirno sedi ob ljubljeni ženski in posluša njen smeh.",
+          "Govorki se njegova bližina zdi skoraj božanska sreča."
+        ],
+        [
+          "Pogled sproži stiskanje srca in izgubo glasu."
+        ],
+        [
+          "Vročina v telesu, zamegljen vid in šumenje v ušesih."
+        ],
+        [
+          "Pot in tresenje. Bledica kot pri usahli travi.",
+          "Občutek bližine smrti na vrhu čustvene stiske."
+        ],
+        [
+          "Zadnja ohranjena vrstica: namig na vztrajanje."
         ]
       ]
     },
     "3": {
-      "crit": [
-        "Horacij postavi skrb za prihodnost v kontekst znamenj in božje odločitve. Nasvet o vinu preseli pozornost na ravnanje, ki ga človek lahko izbere v tem trenutku.",
-        "Uvodne prepovedi in sklepni velelnik ustvarijo premik od omejitve k dejanju. Najostrejši dokaz bega časa je sam pogovor: medtem ko se pogovarjata, čas že odteka.",
-        "Latinski carpe vabi k obiranju, kakor da je dan dozorel sadež. Gantarjev »užij« bolj neposredno poudari izkušnjo sedanjosti."
-      ],
       "periodTraits": [
         [
-          "Rimska predelava grške lirike",
-          "Horacij grško metrično izročilo uporabi v latinski odi. Izvirnik je sestavljen v asklepiadskih verzih, slovenski prevod pa misel prenese v drugačni metrični obliki."
+          "Grška oblika v latinščini",
+          "Horacijeva rimska oda v asklepiadskih verzih. Drugačen ritem v slovenskem prevodu."
         ],
         [
-          "Premislek o dobrem življenju",
-          "Antična etična misel se pokaže v vsakdanjem nasvetu. Govorec Leukonoo odvrne od vedeževanja ter ji predlaga, naj zajame vino in izkoristi dan."
+          "Antična etika vsakdana",
+          "Epikurejski nasvet: vino in sedanji dan namesto vedeževanja."
+        ]
+      ],
+      "periodSources": [
+        [
+          "https://real.mtak.hu/143000/1/article-p149.pdf",
+          "Epikurejsko branje Horacijeve ode"
+        ]
+      ],
+      "crit": [
+        [
+          "Carpe diem",
+          "Izkoristi današnji dan. Jutrišnji dan ni zagotovljen.",
+          "Dobesedna latinska podoba: utrgati dan, kakor utrgamo zrel sadež."
+        ],
+        [
+          "Hedonizem in epikurejski pogled",
+          "Sreča v dosegljivem užitku: vino, družba in mir brez strahu pred jutri.",
+          "Užitek kot zmerna, mirna oblika dobrega življenja."
+        ],
+        [
+          "Čas, ki beži",
+          "Med govorom čas že mineva. Vedeževanje zato zamenja konkreten nasvet za danes."
+        ]
+      ],
+      "material": [
+        "Enajsta oda prve knjige Od. Rimski vsakdan, vino in vedeževanje."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Minljivost in negotovost prihodnosti."
+        ],
+        [
+          "Ideja",
+          "Sreča v sedanjem dnevu in zmernih užitkih."
+        ]
+      ],
+      "motifs": [
+        "Vino, zima, Tirensko morje in beg časa."
+      ],
+      "notes": [
+        [
+          "Leukonoe želi izvedeti prihodnost. Govorec ji odsvetuje vedeževanje."
+        ],
+        [
+          "Možnost več zim ali zadnje zime. Nasvet: sprejmi usodo in nalij vino."
+        ],
+        [
+          "Čas beži že med pogovorom. Uživaj današnji dan, ker jutrišnji ni zagotovljen."
         ]
       ]
     },
     "4": {
       "stages": [
         [
-          "Kuga prizadene Tebe. Pred palačo prosilci pričakujejo pomoč kralja Ojdipa, ki je nekoč mesto rešil pred Sfingo.",
-          "Kreon iz Delfov prinese odgovor: mesta ne bo mogoče očistiti, dokler ostane Lajev morilec nekaznovan. Ojdip ljudstvu obljubi preiskavo."
+          "Kuga v Tebah. Prebivalci prosijo Ojdipa za pomoč.",
+          "Preročišče zahteva kazen za Lajevega morilca."
         ],
         [
-          "Ojdip prekliče mir storilcu in mu grozi z izgonom. Tejrezias noče govoriti, nato kot krivca imenuje prav kralja.",
-          "Ojdip zasluti Kreonovo zaroto. Jokasta ga skuša pomiriti z zgodbo o Lajevi smrti na križišču, a opis sovpade z Ojdipovim spominom na moža, ki ga je ubil."
+          "Ojdip razglasi izgon morilca. Slepi Tejrezias obtoži Ojdipa.",
+          "Jokasta omeni kraj umora. Ojdip se spomni spopada na križišču."
         ],
         [
-          "Sel sporoči, da je Polib umrl, in razloži, da Ojdip ni bil njegov biološki sin. Ojdip zato zahteva še pričevanje tebanskega pastirja.",
-          "Pastir prepozna otroka, ki ga je pred leti prejel iz Lajeve hiše. Ojdip dojame, da je ubil očeta in se poročil z materjo."
+          "Sel iz Korinta naznani Polibovo smrt in razkrije Ojdipovo posvojitev.",
+          "Tebanski pastir prizna, da je bil zapuščeni otrok Lajev in Jokastin sin."
         ],
         [
-          "Jokasta, ki je že prej razumela pomen pričevanj, se obesi. Ojdip jo najde in si z iglami z njenega oblačila iztakne oči.",
-          "Pojavi se pred zborom kot človek, ki je hkrati odkril in obsodil samega sebe."
+          "Ojdip prepozna, da je ubil očeta in se poročil z materjo.",
+          "Jokasta se obesi. Ojdip se oslepi."
         ],
         [
-          "Kreon prevzame oblast. Ojdip prosi za izgon in za skrb za hčeri, ki se ju še lahko dotakne.",
-          "Zbor ob koncu presodi njegovo življenjsko pot od oblasti do popolnega preobrata."
+          "Ojdip prosi za izgon in slovo od hčera.",
+          "Kreon prevzame nadzor. Zbor razmisli o negotovosti človeške sreče."
         ]
-      ],
-      "crit": [
-        "V preiskavi se vloge preiskovalca, sodnika in krivca postopoma združijo v eni osebi. Ojdipova javna prisega je zavezujoča še po tem, ko se spremeni njegovo védenje. Tragedija mu odvzame možnost, da bi med razkritim zločinom in svojim položajem ohranil razdaljo.",
-        "Slepota ima dve zelo različni funkciji. Tejrezias kljub odsotnosti vida razume, kaj se je zgodilo, Ojdip pa po razkritju izbere fizično slepoto, ker ga videnje lastnih dejanj preplavi. Prerokba dobi politično težo šele takrat, ko mora vladar ukrepati proti sebi."
       ],
       "cast": [
         [
@@ -455,46 +1087,83 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Usoda in človekovo ravnanje",
-          "Preroško svarilo poganja antično tragedijo: Ojdip zaradi njega zapusti Korint in tako stopi na pot, na kateri se prerokba uresniči."
+          "Mit in usoda",
+          "Prerokba o očetomoru in poroki z materjo. Beg jo pomaga uresničiti."
         ],
         [
           "Prepoznanje in preobrat",
-          "Pričevanji sla in pastirja spremenita smer preiskave. Kralj, ki je iskal krivca za nesrečo mesta, prepozna v njem samega sebe."
+          "Pričevanji sla in pastirja razkrijeta, da je kralj sam iskani krivec."
         ],
         [
-          "Zbor kot glas skupnosti",
-          "Tebanski zbor se odziva na vladarjeve odločitve in mestno nesrečo. Po razkritju se Ojdipov vzpon in padec pokažeta kot primer negotovosti človeške sreče."
+          "Zbor",
+          "Tebanski zbor spremlja vladarjev padec in poudari negotovost sreče."
         ]
+      ],
+      "periodSources": [
+        [
+          "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Cimon%2A.html",
+          "O Sofoklejevi zmagi · Plutarh, Kimon 8"
+        ]
+      ],
+      "crit": [
+        [
+          "Preiskovalec in krivec",
+          "Ojdip razglasi kazen za Lajevega morilca. Iz pričevanj izve, da je morilec sam."
+        ],
+        [
+          "Vid in slepota",
+          "Slepi Tejrezias pozna resnico. Videči Ojdip jo prepozna pozno in se na koncu oslepi."
+        ],
+        [
+          "Tragična odgovornost",
+          "Ojdip ne ve, da ubija očeta in se poroča z materjo. Po razkritju sprejme posledice."
+        ]
+      ],
+      "material": [
+        "Tebanski mit o Ojdipu, prerokbi in Lajevem umoru."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Iskanje krivca in meja človekove vednosti."
+        ],
+        [
+          "Ideja",
+          "Bežanje pred prerokbo pripelje Ojdipa k njeni uresničitvi."
+        ]
+      ],
+      "motifs": [
+        "Križišče kot sled očetovega umora.",
+        "Vid, slepota in prepoznanje."
+      ],
+      "genre": [
+        "Antična tragedija in zbor.",
+        "Analitična zgradba: umor in poroka pred začetkom. Priče ju postopoma razkrijejo.",
+        "Korintski sel pričakuje olajšanje, odpre pa vprašanje Ojdipovega rojstva."
       ]
     },
     "5": {
       "stages": [
         [
-          "Po spopadu za Tebe oba brata obležita mrtva. Kreon Eteoklu dovoli pokop, Polinejku pa odreče obred, ker je napadel mesto.",
-          "Antigona prosi Ismeno za pomoč. Ismena se boji javne kazni. Antigona se odloči, da odide sama."
+          "Po smrti bratov Kreon ukaže pokop Eteokla in prepove pokop Polinejka.",
+          "Antigona se odloči za pokop brata. Ismena ji sprva ne pomaga."
         ],
         [
-          "Stražar sporoči, da je nekdo posul truplo s prstjo. Ko se Antigona vrne k obredu, jo ujamejo.",
-          "Pred Kreonom Antigona odkrito prizna dejanje. Vladarju ugovarja z dolžnostjo do mrtvih in z nenapisanimi zakoni bogov."
+          "Stražarji na truplu odkrijejo prst. Antigono pozneje pri obredu ujamejo.",
+          "Antigona pred Kreonom prizna dejanje. Sklicuje se na nenapisane zakone bogov."
         ],
         [
-          "Hajmon prinese vest, da meščani v Antigoninem ravnanju vidijo zvestobo družini. Kreon sinov ugovor razume kot izziv oblasti.",
-          "Antigono odpeljejo v skalnato grobnico. V poslovilnem govoru se zave, da bo ostala brez poroke in življenja, ki ga je pričakovala."
+          "Kreon ukaže zapreti Antigono v grobnico. Hajmon ga skuša pregovoriti.",
+          "Tejrezias opozori na posledice prepovedi. Kreon prekliče ukaz."
         ],
         [
-          "Tejrezias opozori na oskrunjene oltarje in pove, da bodo posledice zadele tudi Kreonovo družino. Kreon sprejme nasvet zbora in prekliče odločitev.",
-          "Po pokopu Polinejka odide v grobnico. Antigona je že mrtva, Hajmon pa se pred očetom ubije."
+          "Kreon pokoplje Polinejka in odide rešit Antigono.",
+          "V grobnici najde mrtvo Antigono. Hajmon se ubije."
         ],
         [
-          "Vest o Hajmonu doseže Evridiko. Ta si vzame življenje in Kreona ob smrti obsodi.",
-          "Kreon ostane brez najbližjih. Njegova pozna sprememba odločitve ostane brez popravnega učinka."
+          "Evridika po novici o sinu umre.",
+          "Kreon prizna odgovornost in ostane sam."
         ]
-      ],
-      "crit": [
-        "Obred s prstjo pokaže, kakšen drobec svobode ima človek brez državne moči. Kreon pred vsemi odloča o truplu, Antigona pa njegovo odločitev v nekaj gibih razveljavi na ravni obreda.",
-        "Grobnica obrne razmerje med mrtvim in živim. Kreon pušča mrtvega zunaj in zapira živo žensko med mrtve. Tejreziasovo svarilo razloži, zakaj tako poseganje v mejo med obema svetovoma prizadene tudi mesto.",
-        "Hajmon ima v sporu vlogo poslušalca mesta. Njegova vest o tem, kaj si ljudje govorijo med seboj, pokaže, da odredba še ne pomeni soglasja skupnosti."
       ],
       "cast": [
         [
@@ -548,13 +1217,65 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Polis in nenapisani zakoni",
-          "Spor zadeva vso skupnost. Kreon prepove pokop napadalca zaradi reda v mestu, Antigona pa Polinejka pokoplje zaradi dolžnosti do mrtvega in bogov."
+          "Polis in vera",
+          "Kreonov odlok varuje državni red. Antigonin pokop sledi dolžnosti do mrtvih."
         ],
         [
-          "Tragični obrat in zbor",
-          "Tejreziasovo svarilo prisili Kreona, da spremeni ukaz, vendar pride do grobnice prepozno. Zbor tebanskih starešin dogajanje spremlja tudi z razmislekom o mejah človeške moči."
+          "Tragični obrat",
+          "Svarilo Tejreziasa, preklic ukaza in prepozen prihod h grobnici."
         ]
+      ],
+      "periodSources": [
+        [
+          "https://eucbeniki.sio.si/slo1/2441/Antigona-odlomek.pdf",
+          "Antigonin zagovor pokopa · e-učbenik"
+        ]
+      ],
+      "crit": [
+        [
+          "Pisani in nepisani zakoni",
+          "Kreonov ukaz: prepoved pokopa Polinejka zaradi napada na mesto.",
+          "Nenapisani zakon: dolžnost do brata in bogov. Antigona na truplo posuje prst."
+        ],
+        [
+          "Pogum in odločnost",
+          "Antigona pozna kazen, a brata vseeno pokoplje. Pred Kreonom dejanje prizna."
+        ],
+        [
+          "Idealizacija Antigone",
+          "Njena zvestoba in pogum izstopata. Idealizirana podoba nastane iz zavestne žrtve in vztrajanja do konca."
+        ],
+        [
+          "Kriva brez krivde",
+          "Pred državnim zakonom kriva: zavestno prekrši ukaz. Po lastni vesti moralno upravičena: izpolni dolžnost do mrtvega."
+        ],
+        [
+          "Kreonov obrat",
+          "Mrtvega pusti zunaj, živo Antigono zapre v grobnico.",
+          "Hajmon in Tejrezias ga opozorita na posledice. Ukaz spremeni prepozno."
+        ]
+      ],
+      "material": [
+        "Tebanski mit in vojna med Ojdipovima sinovoma."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Pisani in nepisani zakoni. Antigonin pogum in odločnost."
+        ],
+        [
+          "Ideja",
+          "Zvestoba vesti ima ceno. Vladarjeva nepopustljivost uniči družino."
+        ]
+      ],
+      "motifs": [
+        "Prst na truplu kot znamenje pokopa.",
+        "Grob: mrtvi zunaj, živa Antigona zaprta."
+      ],
+      "genre": [
+        "Antična tragedija, strnjeno dogajanje in zbor tebanskih starešin.",
+        "Spopad Antigone in Kreona na odru. O smrtih poročajo sli.",
+        "Tragični preobrat: Kreon popusti prepozno."
       ]
     },
     "6": {
@@ -562,10 +1283,6 @@ window.STUDY = {
         "Mlajši sin zahteva delež, preden oče umre. V oddaljeni deželi porabi premoženje. Med lakoto mora pasti svinje in si želi njihove krme.",
         "Ko se spomni, da imajo očetovi delavci dovolj kruha, pripravi priznanje in odide domov, da bi prosil za delo. Oče ga opazi že od daleč, ga objame in ukaže pripraviti obleko, prstan, obutev in pojedino.",
         "Starejši pride s polja in noče vstopiti. Oče stopi ven tudi k njemu in mu pojasni, zakaj se veseli bratove vrnitve. Odgovor starejšega ostane odprt."
-      ],
-      "crit": [
-        "Mlajši si vrnitev predstavlja po merilu zaslužka in obroka. Očetov tek in darovi odgovorijo na vprašanje pripadnosti družini.",
-        "Starejši govori o očetovem sinu, oče pa ga poimenuje kot njegovega brata. Spor med zaslugo in milostjo se zato izrazi v izbiri sorodstvene besede. Z odprtim koncem lahko tudi poslušalec presodi, ali bo sprejel povabilo."
       ],
       "cast": [
         [
@@ -595,12 +1312,12 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Prilika zgodnjega krščanstva",
-          "Besedilo spada v antični čas kot novozavezna prilika. Iz vsakdanjega razmerja med očetom in otrokoma oblikuje prispodobo za spreobrnjenje in odpuščanje."
+          "Zgodnjekrščanska prilika",
+          "Zgodba o očetu in dveh sinovih kot prispodoba spreobrnjenja in odpuščanja."
         ],
         [
-          "Spor o sprejetju",
-          "Dialog s starejšim sinom odpre vprašanje, zakaj ima vrnitev izgubljenega prednost pred računanjem zaslug. V Lukovem evangeliju Jezus priliko pove po očitku, da sprejema grešnike."
+          "Poučen namen",
+          "Gostija za vrnjenega sina pojasni, zakaj evangelij poudarja sprejemanje grešnikov."
         ]
       ],
       "periodSources": [
@@ -608,6 +1325,33 @@ window.STUDY = {
           "https://www.biblegateway.com/passage/?search=Luke%2015%3A1-32&version=NRSVUE",
           "Lukov evangelij 15,1–32 · okvir prilike"
         ]
+      ],
+      "crit": [
+        [
+          "Vrnitev sina",
+          "Sin se vrne pripravljen služiti za hrano. Oče ga sprejme kot člana družine."
+        ],
+        [
+          "Zasluga in odpuščanje",
+          "Starejši sin pričakuje nagrado za zvestobo. Oče ga povabi k veselju ob bratovi vrnitvi.",
+          "Odprt konec: starejšega odgovora na povabilo ne izvemo."
+        ]
+      ],
+      "material": [
+        "Lukov evangelij 15,11–32. Jezusov odgovor na očitek o sprejemanju grešnikov."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Vrnitev, odpuščanje in občutek krivice."
+        ],
+        [
+          "Ideja",
+          "Oče povabi oba sinova k obnovi odnosa."
+        ]
+      ],
+      "motifs": [
+        "Izguba dediščine, vrnitev in gostija."
       ]
     },
     "7": {
@@ -615,11 +1359,6 @@ window.STUDY = {
         "Dante zaide v temni gozd. Pri vzponu ga ustavijo zveri, zato sprejme Vergilovo vodstvo skozi pekel. Pri umrlih prepoznava povezavo med življenjskim ravnanjem in kaznijo.",
         "Na gori vic se duše postopoma očiščujejo. Na vrhu v zemeljskem raju Vergila zamenja Beatrice.",
         "Beatrice ga pozneje vodi po nebesnih sferah. V najvišjih nebesih ga Bernard pomaga pripraviti na sklepno videnje."
-      ],
-      "crit": [
-        "Temni gozd deluje hkrati kot kraj in stanje človeka, ki je izgubil smer. Dante se iz njega umakne šele, ko sprejme tuje vodstvo.",
-        "Francesca in Paolo v peklu nimata opore v vetru, kakor se v življenju nista znala ustaviti ob strasti. Kazen naredi njuno navado vidno in trajno.",
-        "Menjava Vergila za Beatrice vzpostavi mejo razuma. Razum omogoča presojanje dejanj skozi pekel in vice, z novim vodstvom pa se odpre vprašanje vere."
       ],
       "cast": [
         [
@@ -681,39 +1420,139 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Krščanska ureditev onstranstva",
-          "Srednjeveško predstavo o moralnem redu uteleša razporeditev pekla, vic in raja. Francesca in Paolo sta denimo v drugem krogu, kjer vrtinec nosi duše, izročene poželenju."
+          "Krščanski posmrtni svet",
+          "Urejeni pekel, vice in raj. V peklu na primer vrtinec za duše poželjivih."
         ],
         [
-          "Alegorično potovanje",
-          "Zgodba o izgubi poti v temnem gozdu ima tudi duhovni pomen. Vergilovo vodstvo in poznejši prevzem vloge Beatrice kažeta različne načine spoznavanja."
+          "Alegorija",
+          "Temni gozd kot moralna zmeda. Menjava vodnikov na poti k spoznanju."
         ],
         [
-          "Povezovanje antike in krščanstva",
-          "Vergil je cenjeni pesniški vzor in vodnik, kot pogan pa sam ostane v limbu. Njegov položaj pokaže, kako pesnitev hkrati uporablja in omejuje antično izročilo."
+          "Antika in krščanstvo",
+          "Vergil je učen vodnik, a kot pogan ostane v limbu."
         ]
       ],
       "periodSources": [
         [
           "https://eucbeniki.sio.si/slo1/2457/index4.html",
           "Srednjeveška književnost · e-učbenik"
+        ],
+        [
+          "https://dante.princeton.edu/cgi-bin/dante/DispToynbeeByTitOrId.pl?INP_ID=212131",
+          "Naslov in zgradba Komedije · Princeton"
+        ],
+        [
+          "https://ahc.leeds.ac.uk/discover-dante/doc/purgatorio/page/4",
+          "Sedem teras vic · Univerza v Leedsu"
         ]
+      ],
+      "crit": [
+        [
+          "Naslov in vrsta",
+          "Dantejev naslov Komedija. Boccaccio je delo imenoval božansko. Naslov Božanska komedija v tiskani izdaji leta 1555.",
+          "Versko-alegorični ep: pot po onstranstvu hkrati pomeni človekovo moralno pot."
+        ],
+        [
+          "Sto spevov",
+          "Pekel: uvodni spev in 33 spevov. Vice: 33. Raj: 33. Skupaj 100.",
+          "Število 33 se tradicionalno povezuje s Kristusovo starostjo ob križanju. Trojnost spominja tudi na Sveto Trojico."
+        ],
+        [
+          "Verz in rima",
+          "Verižne tercine, ABA BCB CDC. V izvirniku italijanski enajsterec. Jambski enajsterec je pogost v slovenskih prevodih."
+        ],
+        [
+          "Gozd in tri zveri",
+          "Temni gozd: izgubljena življenjska smer.",
+          "Ena od tradicionalnih razlag: ris (lonza) pomeni nečistost ali poželenje, lev napuh, volkulja lakomnost."
+        ],
+        [
+          "Pekel, vice in raj",
+          "Pekel: trajna kazen. Francesca in Paolo sta v vrtincu, tako kot ju je v življenju zanesla strast.",
+          "Vice: gora s sedmimi terasami za sedem glavnih grehov. Kazen je začasna, namen je očiščenje. Na vrhu zemeljski raj.",
+          "Vergil: razum, vodnik po peklu in večini vic. Beatrice v zemeljskem raju prevzame vlogo vodnice."
+        ]
+      ],
+      "material": [
+        "Krščansko onstranstvo, antične zgodbe in politika srednjeveške Italije."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Od izgubljene poti do spoznanja in vere."
+        ],
+        [
+          "Ideja",
+          "V peklu trajna kazen, v vicah očiščenje in možnost napredovanja."
+        ]
+      ],
+      "motifs": [
+        "Temni gozd in tri zveri.",
+        "Vodniki, stopnje vzpona in kazni."
       ]
     },
     "8": {
-      "crit": [
-        "Ponavljajoči se blagoslov posveti srečanje in rano. Govor, podoben molitvi, je namenjen tudi očem, vzdihom in pesnikovim besedam.",
-        "Amorjev lok iz pogleda naredi telesno rano. Grenkoba in sladkost sta v enem vzdihu, zato je bolečina vpisana v samo ljubezensko izkušnjo.",
-        "V zadnji tercini nastopi pisanje. Enkratno srečanje se spremeni v navado spominjanja, iz katere nastanejo verzi."
-      ],
       "periodTraits": [
         [
-          "Oblikovanje zgodnje renesančne lirike",
-          "Petrarca v sonetnem okviru po svoje uporabi starejše izročilo opevanja nedosegljive ljubljene. Dva kvarteta in dve tercini uredijo zaporedje blagoslovov."
+          "Italijanski sonet",
+          "Dva kvarteta in dve tercini. Ponavljajoči se blagoslovi oblikujejo ljubezensko izpoved."
         ],
         [
-          "Opazovanje lastne notranjosti",
-          "Govorec obnavlja, kako se je zaljubil in kako zdaj doživlja to ljubezen. Blagoslavlja tako prvi vzdih kakor rane in solze, zato je občutje hkrati prijetno in boleče."
+          "Opazovanje notranjosti",
+          "Govorec pozorno opiše občutke: prvi vzdih, rano in solze."
+        ]
+      ],
+      "periodSources": [
+        [
+          "https://cuny.manifoldapp.org/read/the-complete-canzoniere/section/aac6e72d-e30e-4e35-81b0-fddada34dbe6",
+          "Canzoniere in Laura · CUNY"
+        ]
+      ],
+      "crit": [
+        [
+          "Laura in neuslišana ljubezen",
+          "Laura je pesnikov navdih. V sonetu ni odziva ljubljene dame.",
+          "Lirski subjekt ostaja predan kljub bolečini in neizpolnjeni ljubezni."
+        ],
+        [
+          "Amor in antika",
+          "Amorjev lok in puščice so motiv antičnega boga ljubezni. Rana v srcu je podoba ljubezenske bolečine."
+        ],
+        [
+          "Blagoslov in nasprotje",
+          "Blagoslov kraja, pogleda, solz in verzov. Grenko-sladki vzdih združi užitek z bolečino.",
+          "Zadnja tercina: ljubezen ostane v spominu in pesmi."
+        ]
+      ],
+      "material": [
+        "Canzoniere, sonet 61. Spomin na Lauro in tradicija ljubezenske lirike."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Neuslišana ljubezen in spomin nanjo."
+        ],
+        [
+          "Ideja",
+          "Govorec ostaja predan ljubljeni dami kljub trpljenju."
+        ]
+      ],
+      "motifs": [
+        "Čas in kraj srečanja.",
+        "Amor, rana, vzdihi, solze in verzi."
+      ],
+      "notes": [
+        [
+          "Blagoslov časa in kraja srečanja. Od leta in meseca do določenega kraja in pogleda."
+        ],
+        [
+          "Amorjeva puščica kot rana v srcu. Grenko-sladki vzdih: veselje in bolečina skupaj."
+        ],
+        [
+          "Blagoslov solz in vzdihov. Bolečina ostane dragocena zaradi ljubezni."
+        ],
+        [
+          "Blagoslov verzov in misli. Pisanje ohrani spomin na ljubljeno."
         ]
       ]
     },
@@ -722,10 +1561,6 @@ window.STUDY = {
         "Federigo pri dvorjenju Giovanni porabi večino imetja. Na posestvu mu pri lovu ostane sokol. Giovannin bolni sin si ptico zaželi in mati se odloči, da bo Federiga prosila zanjo.",
         "Federigo hoče plemkinjo pogostiti, a nima primerne hrane. Skuhati da sokola, še preden izve za njeno prošnjo. Po obedu oba spoznata, kakšen nesporazum je povzročilo gostoljubje.",
         "Sin pozneje umre. Ko bratje Giovanno nagovarjajo k ponovni poroki, izbere človeka, čigar dar je prepoznala kljub revščini."
-      ],
-      "crit": [
-        "Sokol istočasno pomeni lov in preživetje, otrokovo željo ter možnost, da mati izkaže skrb. Hud izid nastane, ker različne vrednosti predmeta postanejo jasne šele po kosilu.",
-        "Bogat Federigo je občudovanje iskal z razkošjem. Ob kosilu svoji gostji ponudi zadnjo dragocenost. To dejanje dobi težo pri Giovannini samostojni izbiri moža."
       ],
       "cast": [
         [
@@ -771,46 +1606,78 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Posvetni svet zgodnje renesanse",
-          "Ljudje ravnajo v okoliščinah denarja, posesti in poroke. Giovannini bratje pričakujejo novo poroko, ona pa med snubci izbere obubožanega Federiga."
+          "Posvetna snov",
+          "Denar, poroka, posest in odločitev Giovanne, da izbere obubožanega Federiga."
         ],
         [
-          "Razčlenjene človeške odločitve",
-          "Darilo je utemeljeno z značajem in napačno domnevo. Federigo ne ve, zakaj je Giovanna prišla, zato ji iz gostoljubnosti postreže prav sokola, ki ga želi odnesti sinu."
+          "Človeški značaj",
+          "Federigo se iz velikodušnosti odpove sokolu, ne da bi poznal namen obiska."
         ],
         [
-          "Novela in odločilni predmet",
-          "Sokol najprej pomeni ostanek plemiškega življenja, nato postane obrok in naposled dokaz velikodušnosti. Zgoščeno dogajanje s tem predmetom poveže dve družbeni usodi."
+          "Osrednji predmet",
+          "Sokol poveže lov, prošnjo bolnega sina, kosilo in obrat."
         ]
+      ],
+      "periodSources": [
+        [
+          "https://eucbeniki.sio.si/slo1/2474/index1.html",
+          "Novela o sokolu · e-učbenik"
+        ]
+      ],
+      "crit": [
+        [
+          "Dekameron",
+          "Deveta novela petega dne. Okvirna zbirka stotih zgodb, ki jih pripoveduje deset mladih ljudi med umikom pred kugo."
+        ],
+        [
+          "Viteška ljubezen",
+          "Federigo za Giovanno žrtvuje edino dragoceno lastnino. Pogosti jo s sokolom, čeprav mu ta pomaga pri lovu in preživetju."
+        ],
+        [
+          "Sokol in obrat",
+          "Sokol pomeni tudi upanje za bolnega sina. Giovanna pove namen obiska šele po kosilu.",
+          "Pozneje Giovanna izbere Federiga zaradi njegovega značaja. Družinski pritisk k premožni poroki je pri tem ovira."
+        ]
+      ],
+      "material": [
+        "Dekameron, peti dan, deveta novela. Lov, dvorjenje in poroka."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Viteška ljubezen, darežljivost in družbena vrednost premoženja."
+        ],
+        [
+          "Ideja",
+          "Giovanna prepozna Federigovo velikodušnost tudi v revščini."
+        ]
+      ],
+      "motifs": [
+        "Sokol kot lovski pomočnik, otrokova želja in gostija."
       ]
     },
     "10": {
       "stages": [
         [
-          "Na danskem dvoru po smrti starega kralja vlada njegov brat Klavdij. Gertruda se je poročila z njim, Hamlet še žaluje.",
-          "Straža in Horacij vidita prikazen. Duh princu pove, da ga je Klavdij zastrupil, in zahteva maščevanje."
+          "Očetova smrt. Klavdij prevzame prestol in se poroči z Gertrudo.",
+          "Duh razkrije umor s strupom in Hamletu naloži maščevanje."
         ],
         [
-          "Hamlet začne nastopati čudaško. Polonij vedenje pripiše ljubezni do Ofelije, Klavdij pa ga opazuje prek Rosencrantza in Guildensterna.",
-          "Princ igralcem naroči prizor z umorom v vrtu. S Horacijem bo preveril, kaj bo Klavdij storil pred uprizoritvijo."
+          "Hamlet hlini blaznost in išče dokaz. Dvor ga opazuje prek Ofelije in nekdanjih prijateljev.",
+          "Igralci na Hamletovo zahtevo pripravijo Mišelovko."
         ],
         [
-          "Klavdij predstavo prekine. Hamlet je prepričan o njegovi krivdi, vendar ga ob molitvi pusti pri življenju.",
-          "V Gertrudini sobi sliši glas za zaveso in prebode Polonija. Preiskovanje umora se spremeni v novo družinsko tragedijo."
+          "Klavdij ob prizoru zastrupitve prekine predstavo. Hamlet in Horacij opazita odziv.",
+          "Hamlet v materini sobi v naglici ubije Polonija, ki je skrit za zaveso."
         ],
         [
-          "Klavdij pošlje Hamleta v Anglijo z ukazom za njegovo smrt. Hamlet prebere listino in se v potovanju reši.",
-          "Ofelija umre. Laert se vrne z željo po maščevanju in s Klavdijem pripravi dvoboj z zastrupljeno konico in čašo."
+          "Ofelija umre. Hamlet se po poti proti Angliji vrne na Dansko.",
+          "Klavdij in Laert pripravita dvoboj z zastrupljenim mečem in čašo."
         ],
         [
-          "Gertruda izpije strup. Laert in Hamlet sta ranjena z istim rezilom, Laert pa razkrije dogovor. Hamlet ubije Klavdija in umre.",
-          "Horacij ostane, da pove zgodbo. Fortinbras pride na dvor, kjer je kraljevska družina propadla."
+          "Gertruda spije strup. Laert in Hamlet sta ranjena z istim mečem.",
+          "Laert razkrije spletko. Hamlet ubije Klavdija in umre. Fortinbras prevzame oblast."
         ]
-      ],
-      "crit": [
-        "Prizor z igro v igri loči dokaz za Hamleta od dokaza za druge. Kraljev odziv je zgovoren, a še vedno potrebuje pričo in razlago. Gledališče lahko razkrije, kar dvor skriva, pri tem pa ne zagotavlja pravične sodbe.",
-        "Prizor za zaveso je nasprotna vrsta spoznanja. Hamlet udari, še preden je preveril, kdo govori. Tako dobi tisto, česar se je skušal izogniti pri ravnanju z duhom: nedolžna žrtev pade zaradi napačno razloženega znamenja.",
-        "Laert in Fortinbras predstavljata različna odgovora na očetovo izgubo. Prvi v naglici sprejme Klavdijevo ponudbo, drugi prejme priložnost po propadu dvora. Hamletovo odlašanje se zato presoja ob dejanjih drugih."
       ],
       "cast": [
         [
@@ -824,7 +1691,7 @@ window.STUDY = {
         [
           "A*",
           "Klavdij",
-          "Spreten politik, zasebno se zaveda teže svojega zločina.",
+          "Hladnokrven in preračunljiv. Z umorom in nadzorom si ohranja oblast.",
           "Skrije umor in pripravi odstranitev Hamleta.",
           null,
           "Novi danski kralj, Hamletov stric in Gertrudin drugi mož."
@@ -848,7 +1715,7 @@ window.STUDY = {
         [
           "S*",
           "Gertruda",
-          "Išče mir na dvoru in skuša govoriti s sinom.",
+          "Razpeta med kraljem in sinom. V enem branju lutka dvorne politike.",
           "Njena poroka in zastrupitev povezujeta začetek s koncem drame.",
           null,
           "Danska kraljica, Hamletova mati in žena dveh zaporednih kraljev."
@@ -896,45 +1763,107 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Renesančno vprašanje človeškega delovanja",
-          "Hamlet v samogovorih pretresa, kaj človeka zadrži pred dejanjem. Dvom o posledicah in o tem, kar sledi smrti, postane del dramskega dejanja."
+          "Notranji dvom",
+          "Samogovori o odločitvi za dejanje, življenju in smrti."
         ],
         [
-          "Elizabetinska odrska raznolikost",
-          "Tragedija združi dvor, prikazen, odrsko igro in prizor z grobarjema. Grobarjeva besedna igra se dotakne smrti iz drugega družbenega položaja kot Hamletov samogovor."
+          "Elizabetinska raznolikost",
+          "Dvor, duh, pokopališče. Tragični prizori in besedna komika grobarjev."
         ],
         [
-          "Gledališče presoja resnico",
-          "Hamlet da igralcem uprizoriti zločin, podoben očetovemu umoru. Klavdijev odziv mu služi kot preizkus pripovedi, ki jo je slišal od duha."
+          "Gledališka igra v igri",
+          "Mišelovka preizkusi Klavdijev odziv na uprizorjen umor."
         ]
+      ],
+      "periodSources": [
+        [
+          "https://www.folger.edu/explore/shakespeares-works/hamlet/",
+          "Hamlet · besedilo in razlaga, Folger"
+        ],
+        [
+          "https://folgerpedia.folger.edu/Shakespeare%2C_Life_of_an_Icon_Exhibition_Material",
+          "Vprašanje avtorstva in dokumenti · Folger"
+        ]
+      ],
+      "crit": [
+        [
+          "Sintetično-analitična zgradba",
+          "Analitični del: očetov umor pred začetkom drame, razkrit prek duha in Klavdijevih besed.",
+          "Sintetični del: Hamletovi preizkusi in maščevanje pred gledalcem. Več prizorišč in dogajanje, daljše od dneva, presegajo klasicistično pravilo treh enotnosti."
+        ],
+        [
+          "Mišelovka",
+          "Igra v igri. Hamlet uprizori prizor zastrupitve, Horacij pa opazuje Klavdija.",
+          "Kralj prekine predstavo. Hamlet dobi znamenje krivde, ki ga je iskal."
+        ],
+        [
+          "Temeljna nasprotja",
+          "Dobro in zlo: maščevanje za zločin prinese nove žrtve.",
+          "Življenje in smrt: samogovor o bivanju in prizor z Yorickovo lobanjo.",
+          "Videz in resnica: navidezno urejen dvor, v ozadju umor in prisluškovanje."
+        ],
+        [
+          "Tri branja Hamleta",
+          "Romantično: melanholija, neodločnost in spor med mislijo ter dejanjem.",
+          "Eksistencialno: bivanjska stiska in dvom o vrednotah v pokvarjenem svetu.",
+          "Psihoanalitično: možna razlaga Hamletovega odnosa do matere in strica z Ojdipovim kompleksom."
+        ],
+        [
+          "Klavdij in Gertruda",
+          "Klavdij: preračunljiv vladar, ki za obstanek na oblasti uporabi umor, nadzor in dvoboj.",
+          "Gertruda: v enem branju lutka dvorne politike. Ima svoj položaj, a jo nadzorujeta kralj in sin."
+        ],
+        [
+          "Napačna presoja in maščevanje",
+          "Za zaveso Hamlet udari brez preverjanja in ubije Polonija.",
+          "Laert se zaradi očeta hitro odloči za maščevanje. Fortinbras po propadu dvora prevzame oblast."
+        ]
+      ],
+      "material": [
+        "Legenda o Amlethu iz Saxove kronike in poznejših predelav."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Maščevanje, dvom in dokazovanje krivde."
+        ],
+        [
+          "Ideja",
+          "Nevarnost naglih sodb in neskončnega odlašanja."
+        ]
+      ],
+      "motifs": [
+        "Duh, Mišelovka in maska blaznosti.",
+        "Strup v ušesu, v čaši in na meču."
+      ],
+      "genre": [
+        "Elizabetinska tragedija maščevanja. Samogovori, igralci in grobarja.",
+        "Sintetično-analitična zgradba: sedanje dejanje in postopno razkritje starega zločina.",
+        "Kraji: dvor, pokopališče in pot proti Angliji. Dogajanje traja dlje od enega dne."
       ]
     },
     "11": {
       "stages": [
         [
-          "V Orgonovi hiši se družina prepira o gostu Tartuffu. Orgon in njegova mati vidita v njem vzor pobožnosti, drugi pa se bojijo njegovega vpliva.",
-          "Orgon namerava hčer Mariano poročiti z gostom, čeprav je obljubljena Valerju."
+          "Orgon zaupa gostu Tartuffu. Družina opaža njegovo licemerstvo.",
+          "Orgon namerava z njim poročiti Mariano, čeprav je zaljubljena v Valerja."
         ],
         [
-          "Tartuffe se približa Elmiri. Damis ga sliši in obtoži pred očetom. Orgon verjame Tartuffu, sina spodí in mu odvzame dediščino.",
-          "Orgon Tartuffu prepiše premoženje. Elmira spozna, da mora dokaz pripraviti tako, da ga bo mož sam slišal."
+          "Tartuffe snubi Elmiro. Damis ju sliši in prevaro razkrije očetu.",
+          "Orgon verjame Tartuffu, zavrne Damisa in gostu prepusti premoženje."
         ],
         [
-          "Orgon se skrije pod mizo. Elmira Tartuffa pripravi do zasebnega govora, med katerim se pokažejo njegovi spolni nameni in dvoličnost.",
-          "Ko Orgon stopi iz skrivališča, njegov ukaz za odhod ne zadošča. Tartuffe je pravno že gospodar hiše."
+          "Elmira skrije Orgona pod mizo.",
+          "Tartuffe znova snubi Elmiro. Orgon dejanje sliši in spozna prevaro."
         ],
         [
-          "Tartuffe skuša uporabiti darilno listino. Poleg hiše so ogroženi občutljivi dokumenti, ki mu jih je Orgon zaupal.",
-          "Orgonovim zagrozijo z izselitvijo. Družina pričakuje, da bo uradnik izvršil vedno strožje posledice njegove zmote."
+          "Tartuffe uporabi listino za izselitev družine.",
+          "Orgona ogrozijo tudi zaupni dokumenti, ki jih je dal gostu."
         ],
         [
-          "Kraljevi uradnik prepozna Tartuffa kot prestopnika in aretira njega. Družina dobi možnost obdržati dom.",
-          "Orgon naposled pristane na poroko Mariane in Valerja."
+          "Kraljevi uradnik aretira Tartuffa. Družina obdrži dom.",
+          "Mariana in Valer se lahko poročita."
         ]
-      ],
-      "crit": [
-        "Tartuffe uporablja besede o ponižnosti kot dokaz, da je vreden zaupanja. Ko ga Damis obtoži, je navidezno samokritičen in prav s tem utrdi Orgonovo prepričanje. Komika izvira iz razlike med pomenom izjave za občinstvo in za Orgona.",
-        "Skrivališče pod mizo je preizkus ušes in avtoritete. Mož, ki drugim odreka pravico do presoje, postane neviden poslušalec lastne žene. Razplet z listino pokaže, da je prevaro razmeroma lahko spoznati, njene pravne posledice pa težje odpraviti."
       ],
       "cast": [
         [
@@ -1004,19 +1933,61 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Francoska klasicistična komedija",
-          "Dogajanje je zgoščeno okoli ene hiše in osrednje prevare. Družinski spor, ogrožena poroka in izguba premoženja izvirajo iz Orgonovega zaupanja Tartuffu."
+          "Klasicistična zgoščenost",
+          "Ena hiša in osrednja prevara. Poroka in premoženje sta del istega zapleta."
         ],
         [
-          "Komika značaja in nravi",
-          "Tartuffova hlinjena pobožnost je prepoznavna po razliki med govorom in ravnanjem. Prizor, v katerem Orgon pod mizo posluša snubljenje Elmire, to razliko razkrije tudi njemu."
+          "Komedija značaja in nravi",
+          "Tartuffovo licemerstvo v prizoru pod mizo. Orgon spozna razliko med besedami in ravnanjem."
         ]
       ],
       "periodSources": [
         [
           "https://eucbeniki.sio.si/slo1/2426/index.html",
           "Evropski klasicizem · e-učbenik"
+        ],
+        [
+          "https://www.comedie-francaise.fr/actualites/le-tartuffe-la-comedie-francaise",
+          "Tartuffe in zgodovina uprizarjanja · Comédie-Française"
         ]
+      ],
+      "crit": [
+        [
+          "Satirična komedija",
+          "Tarča je hlinjena pobožnost. Tartuffe z verskimi besedami skrije željo po bogastvu in Elmiri.",
+          "Ideja: nevarnost izkoriščanja dobre vere in radodarnosti za lastno korist."
+        ],
+        [
+          "Značajska in situacijska komika",
+          "Orgon vztraja pri slepem zaupanju. Tartuffovo navidezno priznanje razume kot ponižnost.",
+          "Elmira skrije Orgona pod mizo. Orgon na lastna ušesa sliši Tartuffovo snubljenje."
+        ],
+        [
+          "Kralj kot rešitelj",
+          "V končni različici kraljevi uradnik aretira Tartuffa. Kraljeva odločitev reši Orgonovo družino pred izgubo premoženja."
+        ]
+      ],
+      "material": [
+        "Francoska družba 17. stoletja. Vpliv pobožnih svetovalcev v bogatih hišah."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Licemerstvo in slepo zaupanje."
+        ],
+        [
+          "Ideja",
+          "Verski ugled lahko prikrije izkoriščanje dobrote in željo po premoženju."
+        ]
+      ],
+      "motifs": [
+        "Navidezna pobožnost in snubljenje Elmire.",
+        "Listina o premoženju in kraljevi poseg."
+      ],
+      "genre": [
+        "Francoska klasicistična komedija v petih dejanjih.",
+        "Značajska komika: Orgonova lahkovernost in Tartuffovo licemerstvo. Situacijska komika: skrivanje pod mizo.",
+        "Nenaden poseg kraljevega uradnika v razpletu."
       ]
     },
     "12": {
@@ -1024,10 +1995,6 @@ window.STUDY = {
         "Vida ob vodi sreča tujca, ki ji ponudi odhod čez morje. Doma sta mož in otrok. Nekatere različice poudarjajo prevaro, druge upanje na boljše razmere za otroka.",
         "Na dvoru Vida doji tujega otroka. Skrb zanjo znova odpre vprašanje otroka, ki ga je pustila doma. Sonce ali luna ji v nekaterih različicah prineseta novice.",
         "Sklep se med zapisi razlikuje. Njena pot se lahko konča s hrepenenjem, vrnitvijo ali smrtjo."
-      ],
-      "crit": [
-        "Vida na dvoru opravlja dejanje, ki ga domači otrok zdaj pogreša. Prav stik z drugim otrokom ji vsak dan pokaže, kako oddaljen je njen dom.",
-        "Različice odhoda različno odmerijo odgovornost. V primeru prevare Vida izgubi možnost obveščene odločitve. Kjer je odhod zavesten, pomen dobi presoja okoliščin, ki so jo do njega privedle."
       ],
       "cast": [
         [
@@ -1073,16 +2040,16 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Ustno izročilo in različice",
-          "Ljudsko balado poznamo v več zapisih. Od različice je odvisno, ali Vida odide zaradi prevare ali na ponujeni odhod pristane, zato se spremeni branje njene odgovornosti."
+          "Ustne različice",
+          "Različni razlogi za odhod: prevara ali upanje na boljše življenje."
         ],
         [
-          "Obrazci ljudske pesmi",
-          "Ponavljanja, stalni pridevki in dvogovor pomagajo zgraditi ter ohraniti zgodbo. Vida ogovori rumeno sonce in skuša tako izvedeti, kaj je z možem in otrokom."
+          "Folklorni obrazci",
+          "Dvogovor, ponovitve in stalni pridevniki. Vida nagovori rumeno sonce."
         ],
         [
-          "Preplet pripovedi in lirike",
-          "Pot čez morje in delo na dvoru tvorita pripoved. Vidini nagovori soncu in luni pa ohranjajo v ospredju njeno hrepenenje po domu."
+          "Lirsko in pripovedno",
+          "Odhod ter dvor kot potek zgodbe. Govor s soncem in luno poudari domotožje."
         ]
       ],
       "periodSources": [
@@ -1090,35 +2057,71 @@ window.STUDY = {
           "https://eucbeniki.sio.si/slo1/2670/index.html",
           "Ustno izročilo in ljudske pesmi · e-učbenik"
         ]
+      ],
+      "edition": [
+        "https://eucbeniki.sio.si/slo1/2672/Lepa%20Vida.pdf",
+        "Lepa Vida · dolenjska različica"
+      ],
+      "inlineEdition": true,
+      "keepPlot": true,
+      "crit": [
+        [
+          "Ženska balada",
+          "V ospredju Vidina čustva: hrepenenje po boljšem življenju, nato žalost in domotožje."
+        ],
+        [
+          "Odhod in ugrabitev",
+          "V nekaterih različicah prevara ali ugrabitev, v drugih Vidina odločitev. Različni poteki, skupna ločitev od doma in otroka."
+        ],
+        [
+          "Domači in tuji otrok",
+          "Na dvoru Vida skrbi za tujega otroka. Pogovor s soncem ali luno ji prinese novice o domačem."
+        ],
+        [
+          "Poznejše simbolno branje",
+          "Ugrabljena žena kot podoba naroda, iztrganega iz domačega okolja. Osnovna zgodba balade je osebna usoda Vide."
+        ]
+      ],
+      "material": [
+        "Ustno izročilo o mladi ženi, ki odide čez morje."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Hrepenenje, domotožje in ločitev od otroka."
+        ],
+        [
+          "Ideja",
+          "Boljši gmotni položaj ne nadomesti doma in družine."
+        ]
+      ],
+      "motifs": [
+        "Morje med domom in tujino.",
+        "Bolan otrok, tuji dvor, sonce in luna."
       ]
     },
     "13": {
       "stages": [
         [
-          "Matiček in Nežka načrtujeta poroko. Baron jima dodeli sobo blizu svojega stanovanja, zato Nežka zasluti, da jo hoče imeti pri roki.",
-          "Baron jo skuša pridobiti z obljubami. Matiček, ki je hotel urediti poroko, se mora spopasti s pravico močnejšega in lastnim dolgom."
+          "Matiček in Nežka se pripravljata na poroko.",
+          "Baron jima ponudi sobo. Nežka spozna, da jo želi imeti blizu."
         ],
         [
-          "Smrekarica zahteva vračilo dvestotih kron. Če jih Matiček ne vrne, naj jo vzame za ženo. Baron vidi v pravdi priložnost za preprečitev poroke.",
-          "Položaj zaplete Tonček. Gospa in Nežka morata pred baronom skrivati mladeničevo navzočnost in se začneta dogovarjati o preizkusu baronove zvestobe."
+          "Zaradi dolga Smrekarici Matičku grozi prisilna poroka.",
+          "Nežka, Matiček in baronica pripravijo past za barona."
         ],
         [
-          "Pri obravnavi Matiček ugovarja razlagi pogodbe. Razkritje njegovega otroštva pokaže, da je Smrekarica njegova mati, Žužek pa oče.",
-          "Sodna past se preobrne v prepoznanje, a preizkus barona mora biti še izpeljan."
+          "Pravda o pomenu listine.",
+          "Prepoznanje: Smrekarica in Žužek sta Matičkova starša. Grožnja poroke odpade."
         ],
         [
-          "Gospa in Nežka zamenjata obleki. V vrtu baron govori lastni ženi, kakor da bi govoril z Nežko, in se pred drugimi razkrije.",
-          "Ko prepozna osebe, ugotovi, da je bil sam ujet v dogovor, s katerim je želel obvladovati poroko."
+          "Nežka in baronica zamenjata obleki. Srečanje na vrtu.",
+          "Baron v drugi ženski vidi Nežko. S svojim ravnanjem se izda."
         ],
         [
-          "Baron prosi za odpuščanje. Matiček in Nežka se lahko poročita, z njima pa se združita tudi Žužek in Smrekarica.",
-          "Praznično snidenje na koncu združi ljudi, ki jih je prej ločeval dvorski interes."
+          "Baron je osramočen, spletke se razjasnijo.",
+          "Matiček in Nežka se lahko poročita. Zvezo uredita tudi Žužek in Smrekarica."
         ]
-      ],
-      "crit": [
-        "Graščakova prednost se kaže že v dodelitvi sobe. Na videz velikodušno darilo mu odpira dostop do Nežke. Služabnika morata zato politični problem rešiti v zasebnih prostorih, ki so pod oblastjo gospodarja.",
-        "Pravda izpostavi, kdo ima pravico narekovati pomen listine. Matiček prebere pogoj o vračilu drugače od ljudi, ki obvladujejo postopek. Njegovo natančno branje je razsvetljenski odgovor na hierarhijo.",
-        "Preobleka omogoči ženskama, da izkoristita razliko med baronovim govorom pred ženo in pred služabnico. Obleka ima pri preizkusu družbeni pomen, saj baron po njej odloči, kaj si lahko dovoli."
       ],
       "cast": [
         [
@@ -1188,28 +2191,73 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Razsvetljenska kritika privilegijev",
-          "Baron uporablja družbeni položaj za poseg v služabnikovo poroko. Matiček in Nežka mu lahko kljubujeta z razlago pogodbe, domislico in sodelovanjem."
+          "Razsvetljenska kritika stanov",
+          "Baron zlorabi položaj. Matiček in Nežka mu kljubujeta z razumom in iznajdljivostjo."
         ],
         [
-          "Slovensko posvetno gledališče",
-          "Linhart francosko komedijo prestavi na gorenjsko graščino. Prizor pravde sooči govor domačih oseb z učenim in slabo razumljivim uradnim jezikom."
+          "Slovenski posvetni oder",
+          "Francoska priredba na kranjski graščini. V pravdi domači govor in uradni jezik."
         ]
       ],
       "periodSources": [
         [
           "https://www.mgl.si/en/shows/the-marry-day-or-the-marriage-of-maticek/",
           "Matiček · osebe in priredba, MGL"
+        ],
+        [
+          "https://etorba.sio.si/etorba/sl/files/epubs/15/page-63.xhtml",
+          "Matiček · zgovorna imena, e-učbenik"
         ]
+      ],
+      "crit": [
+        [
+          "Kritika plemstva",
+          "Baron Naletel z novo sobo in pravdo poskuša priti do Nežke. Njegov položaj mu omogoča pritisk na služabnike."
+        ],
+        [
+          "Dve vrsti ljubezni",
+          "Baronovo minljivo poželenje in iskrena ljubezen Matička ter Nežke.",
+          "Razplet potrdi zvezo po svobodni izbiri."
+        ],
+        [
+          "Zgovorna imena",
+          "Naletel večkrat naleti na lastno spletko. Zmešnjava predstavlja zmedeno uradništvo, Budalo neumnost."
+        ],
+        [
+          "Trojna enotnost",
+          "Glavni zaplet: poroka in ovire zanjo. Strnjeno dogajanje v enem dnevu.",
+          "Prizori v prostorih dvorca in na grajskem vrtu. Širša enotnost kraja v okviru posestva."
+        ],
+        [
+          "Pravda in preobleka",
+          "Matiček se v pravdi brani z razlago listine. Prepoznanje staršev odpravi grožnjo prisilne poroke.",
+          "Nežka in baronica zamenjata obleki. Baron se izda, ker sogovornico presoja po obleki in položaju."
+        ]
+      ],
+      "material": [
+        "Priredba Beaumarchaisove Figarove svatbe za kranjsko graščino."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Spopad zaradi poroke in zloraba plemiškega položaja."
+        ],
+        [
+          "Ideja",
+          "Srečen razplet za iskreno ljubezen in svobodno izbiro."
+        ]
+      ],
+      "motifs": [
+        "Dolžniška listina in pravda.",
+        "Preobleka, zamenjava vlog in prepoznanje staršev."
+      ],
+      "genre": [
+        "Slovenska razsvetljenska komedija v petih dejanjih.",
+        "Situacijska komika: preobleka in zamenjava oseb. Besedna komika: uradni govor in zgovorna imena.",
+        "En dan, pretežno ista graščina in njena okolica, osrednji poročni zaplet."
       ]
     },
     "14": {
-      "crit": [
-        "V Samoti samotna hoja omogoča stik z naravo, medtem ko množica govorca ne prepozna. Obrat med kiticama spremeni osamljenost iz vprašanja števila ljudi v vprašanje bližine.",
-        "V Renskih gradovih tok reke daje merilo pozabe. Razvaline so še vidne, mnogi boji pa nimajo več nikogar, ki bi jih pomnil. Nagovor Renu poveže zgodovinski spomin z osebnim.",
-        "V Morju človek nadzoruje kopno, ocean pa izniči družbene oznake in pogrebne spomenike. Govorec se ga kljub temu spominja kot prostora zaupanja.",
-        "Slovo ponovi začetni verz, nato od zavrnitve laskanja preide k možnosti, da obljube in dobrota vendarle obstajajo."
-      ],
       "cast": [
         [
           "P*",
@@ -1239,40 +2287,136 @@ window.STUDY = {
       "periodTraits": [
         [
           "Byronski junak",
-          "Harold je plemič, ki se odmakne od družbe in odpotuje. V odlomku Samota je ta romantična odtujenost izražena kot osamljenost sredi ljudi."
+          "Odtujeni plemič in potovanje. V Samoti osamljenost sredi ljudi."
         ],
         [
           "Vzvišena narava",
-          "V Morju je ocean mogočen in nevaren, govorca pa kljub temu privlači. Njegova moč sega onkraj nadzora, ki ga lahko človek uveljavi na kopnem."
+          "Mogočen in nevaren ocean, hkrati prostor svobode."
         ],
         [
-          "Pogled v preteklost",
-          "Razvaline ob Renu sprožijo premislek o viteštvu, nekdanjih bojih in pozabi. Pokrajina tako povezuje zgodovinski prizor z osebnim razmišljanjem."
+          "Zgodovinski spomin",
+          "Gradovi ob Renu kot sled redkih ohranjenih spominov na viteštvo in boje."
+        ]
+      ],
+      "crit": [
+        [
+          "Samota",
+          "Samota v naravi prinese mir. Med ljudmi brez bližine se govorec počuti osamljenega."
+        ],
+        [
+          "Renski gradovi",
+          "Razvaline kot sled bojev in viteštva. Ren teče naprej, spomin na ljudi pa izginja."
+        ],
+        [
+          "Morje in Slovo",
+          "Ocean je močnejši od človekove oblasti, govorec pa mu zaupa od otroštva.",
+          "Slovo: zavrnitev družbenega laskanja in preostalo upanje v obljubo ter dobroto."
+        ]
+      ],
+      "material": [
+        "Byronova potovanja po Evropi in ob Renu."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Samota, odnos do ljudi, narava in preteklost."
+        ],
+        [
+          "Ideja",
+          "Narava omogoča svobodo in bližino. Reka in morje preživita človekovo oblast."
+        ]
+      ],
+      "motifs": [
+        "Gozd, gore, Ren, razvaline in ocean.",
+        "Potovanje, spomin in slovo."
+      ],
+      "notes": [
+        [
+          "Gore in gozd kot prostor svobode. Samotna hoja omogoča bližino z naravo."
+        ],
+        [
+          "Samota sredi množice. Ponavljanje »brez koga« kaže odsotnost bližnjih."
+        ],
+        [
+          "Gradovi kot duhovi. Stene ostanejo, vojska in življenje v njih izgineta."
+        ],
+        [
+          "Viteški blišč in grobost vladanja. Grb in posest ne jamčita veličine."
+        ],
+        [
+          "Ljubezen na ščitu kot znak zvestobe. Za slavnimi boji na koncu ostanejo požgane stene."
+        ],
+        [
+          "Nagovor Renu. Reka preživi človeško slavo, govorec pa ohrani svoj spomin."
+        ],
+        [
+          "Ocean omeji človeško oblast. V morju ob smrti izginejo položaj, ime in nagrobnik."
+        ],
+        [
+          "Otroški spomin na morje. »Strah prijeten« združi nevarnost in zaupanje."
+        ],
+        [
+          "Odklanjanje družbe in laskanja. Mrtvaški prt kot podoba odtujenosti."
+        ],
+        [
+          "Ponovitev zavrnitve na začetku. Sklep kljub temu dopušča iskrene obljube in sočutje."
         ]
       ]
     },
     "15": {
-      "crit": [
-        "Jadro se najprej vidi kot majhna točka, nato dobi z vprašanjema človeško željo po odhodu. Pokrajina postane prostor, kamor opazovalec položi misel o lastnem nemiru.",
-        "Mirni prizor zadnje kitice pride po viharju. Jadro ima na dosegu prav tisto, kar bi drugi imeli za cilj, vendar želi prav burjo, v kateri more občutiti pobudo."
-      ],
       "periodTraits": [
         [
           "Romantični nemir",
-          "Jadro se ob koncu usmeri k viharju. Mirno morje mu ne zadostuje, zato njegova pot ponazarja romantično željo po preseganju danega."
+          "Jadro si v miru želi viharja. Svobodo išče v preizkušnji."
         ],
         [
-          "Narava kot podoba notranjosti",
-          "Sončni sij in mirna gladina stojita ob podobi upornega jadra. Nasprotje med vremenom in njegovo željo omogoča branje jadra kot simbola osamljenega iskalca."
+          "Narava in notranjost",
+          "Mir in sonce poudarita nemir jadra. Jadro kot simbol osamljenega iskalca."
+        ]
+      ],
+      "crit": [
+        [
+          "Jadro kot simbol",
+          "Majhno jadro dobi človeške želje. Podoba samotnega in nemirnega iskalca."
+        ],
+        [
+          "Mir in vihar",
+          "Morje je mirno, jadro pa si želi viharja. Njegov ideal je svoboda v nemiru."
+        ]
+      ],
+      "material": [
+        "Obmorski prizor z osamljenim jadrom. Lermontovova pesem iz leta 1832."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Nemir osamljenega popotnika."
+        ],
+        [
+          "Ideja",
+          "Iskanje svobode in polnega življenja v viharju."
+        ]
+      ],
+      "motifs": [
+        "Jadro, razdalja, vihar in mirna gladina."
+      ],
+      "genre": [
+        "Romantična lirska pesem v treh štirivrstičnicah.",
+        "V vsaki kitici prizor na morju in premik k želji ali nemiru jadra."
+      ],
+      "notes": [
+        [
+          "Jadro je sprva oddaljena točka. Vprašanji mu pripišeta človeško željo po iskanju."
+        ],
+        [
+          "Vihar približata veter in škripanje jambora. Jadro ne potuje za preprosto srečo."
+        ],
+        [
+          "Mirna voda in sončna svetloba. Jadro si kljub miru želi viharja."
         ]
       ]
     },
     "16": {
-      "crit": [
-        "Govorec ne more pregnati zgodbe iz misli. Že njegov okvir ponovi ujetost v pozornost, ki čolnarja pozneje odvrne od čeri.",
-        "Zaporedje nakita, las in glavnika vodi pogled vse višje. V čolnarjevem primeru se ista usmeritev spremeni v fizično nevarnost. Lepota in poguba sta povezani z dejanjem gledanja.",
-        "Zadržek v sklepu o tem, kaj se je najbrž zgodilo, ohrani pripoved na meji med domnevo in legendo."
-      ],
       "cast": [
         [
           "P*",
@@ -1301,29 +2445,144 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Romantična folklorna snov",
-          "Heine pesem uvede s staro zgodbo o pevki nad Renom. Legendarna postava in resnična rečna pokrajina se združita v isti prizor."
+          "Legenda in pokrajina",
+          "Stara zgodba o pevki na resnični skali nad Renom."
         ],
         [
-          "Skrivnostna moč lepote",
-          "Večerna svetloba, zlati lasje in petje pritegnejo čolnarja. Čolnar zaradi tega gleda proti pečini in spregleda čeri, zato se občudovanje spremeni v nevarnost."
+          "Skrivnostna lepota",
+          "Petje preusmeri čolnarjev pogled s čeri na pevko."
+        ]
+      ],
+      "crit": [
+        [
+          "Okvir legende",
+          "Pripovedovalec ne more pozabiti zgodbe. Podobno čolnar ne more odvrniti pozornosti od Lorelaj."
+        ],
+        [
+          "Lepota in nevarnost",
+          "Zlati lasje, nakit in petje preusmerijo čolnarjev pogled. Zato ne vidi čeri.",
+          "Negotov konec ohrani skrivnost legende."
+        ]
+      ],
+      "material": [
+        "Legenda o skali Loreley ob Renu. Pred Heinejem jo uporabi tudi Brentano."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Pogubna moč lepote in petja."
+        ],
+        [
+          "Ideja",
+          "Čolnarjeva prevzetost mu zastre nevarnost."
+        ]
+      ],
+      "motifs": [
+        "Zlati lasje, glavnik, petje in čeri."
+      ],
+      "notes": [
+        [
+          "Žalosten pripovedovalec. Stare zgodbe ne more pozabiti."
+        ],
+        [
+          "Ren v večernem mraku in svetel vrh skale. Pogled se usmeri proti pečini."
+        ],
+        [
+          "Lesk nakita in zlatih las. Primerjava s kraljico poudari lepoto."
+        ],
+        [
+          "Petje dopolni videz. Sladek napev vzbuja tudi strah."
+        ],
+        [
+          "Čolnar gleda proti skali. Ne opazi nevarnih čeri."
+        ],
+        [
+          "Pripovedovalec pesmi pripiše potop. Negotovost ohrani značaj legende."
         ]
       ]
     },
     "17": {
-      "crit": [
-        "Pogojne oblike o domu, ženi in mirni barki pokažejo, da si govorec predstavlja preteklost, ki je nikoli ni živel. Izguba zato obsega tudi zamišljeno prihodnost.",
-        "Peti sonet razporedi stisko v ječo s služabniki. Ključ, vrata in cesta ponudijo izhod, ponavljanje »tje« pa pot podaljšuje do groba kot postelje.",
-        "Šesti sonet preizkusi čustveno otrplost. Tnalo prenese udarec in božanje, obenem pa ob izgubi strahu izgine tudi upanje. Zmes teh posledic določa ceno obrambe."
-      ],
       "periodTraits": [
         [
-          "Romantični razkol z življenjem",
-          "Izkušnjo nemira oblikujejo podobe doma in sveta. V prvem sonetu se govorec obrne k domu, v petem pa življenje nagovori kot ječo in čas kot rablja."
+          "Ideal in resničnost",
+          "Zamišljena varnost doma v prvem sonetu. Življenje kot ječa v petem."
         ],
         [
-          "Notranja izkušnja v strogi obliki",
-          "Cikel romantično izpoved oblikuje v sonetih. V šestem nagovor nesreče vodi v željo po neobčutljivosti, ki naj konča dotedanje trpljenje."
+          "Izpoved in oblika",
+          "Romantična stiska v strogi sonetni obliki. V šestem želja po čustveni neobčutljivosti."
+        ]
+      ],
+      "crit": [
+        [
+          "Prvi sonet",
+          "Zamišljeno življenje v domači vasi: družina, zavetje, varnost. Govorec žaluje tudi za prihodnostjo, ki je ni imel."
+        ],
+        [
+          "Peti sonet",
+          "Življenje kot ječa, čas kot rabelj in smrt kot možen izhod. Ponavljanje »tje« podaljša pot do groba."
+        ],
+        [
+          "Šesti sonet",
+          "Tnalo kot podoba neobčutljivosti. Želja po koncu bolečine pomeni tudi odpoved veselju in upanju."
+        ]
+      ],
+      "material": [
+        "Odhod iz Vrbe in dolgotrajna osebna stiska."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Izgubljen dom, trpljenje in želja po neobčutljivosti."
+        ],
+        [
+          "Ideja",
+          "Obramba pred bolečino lahko pomeni tudi izgubo upanja."
+        ]
+      ],
+      "motifs": [
+        "Pšenica, domača vas in mirna barka.",
+        "Ječa, verige, grob in tnalo."
+      ],
+      "genre": [
+        "Trije italijanski soneti. Vsak: dva kvarteta in dve tercini.",
+        "Peti sonet: ječa in možen izhod v kvartetih, pot do groba v tercinah."
+      ],
+      "notes": [
+        [
+          "Nagovor rodni Vrbi. Želja po učenosti kot zapeljiva kača."
+        ],
+        [
+          "Sladkost se spremeni v strup. Odhod prinese izgubo zaupanja in miru."
+        ],
+        [
+          "Zamišljena zvesta žena. Domača bližina kot dragocenejša od bogastva."
+        ],
+        [
+          "Mirna barka kot mirno življenje. Sveti Marko v predstavi varnega doma."
+        ],
+        [
+          "Življenje kot ječa. Čas kot rabelj, skrb in obup kot del zapora."
+        ],
+        [
+          "Nagovor prijazni smrti. Ključ, vrata in cesta kot možen izhod."
+        ],
+        [
+          "Ponavljanje »tje«. Pot vedno dlje od preganjalcev."
+        ],
+        [
+          "Postelja v črni jami. Grob kot konec ječe in počitek."
+        ],
+        [
+          "Nagovor sovražni sreči. Govorec ji ne bo več tožil."
+        ],
+        [
+          "Telo se privadi bremenu in grenkobi. Trda koža kot podplat."
+        ],
+        [
+          "Otrpli sklepi in okamenelo srce. Obramba pred nadlogami omeji občutenje."
+        ],
+        [
+          "Izguba strahu in upanja. Tnalo enako prenese udarec in božanje."
         ]
       ]
     },
@@ -1332,10 +2591,6 @@ window.STUDY = {
         "Valjhun širi krščanstvo z vojsko. Črtomir se z majhno skupino zateče v Ajdovski gradec. Zaradi pomanjkanja izbere nočni preboj in ostane brez svojih soborcev.",
         "Ob jezeru ga doseže spomin na srečanja z Bogomilo pri svetišču boginje Žive. Ribič mu pomaga priti do nje. Bogomila mu pove, da je sprejela krščanstvo in se za njegovo rešitev zaobljubila Bogu.",
         "Ponudi mu upanje na posmrtno srečanje. Duhovnik ga krsti ob Savici, Črtomir pa prevzame vlogo oznanjevalca nove vere."
-      ],
-      "crit": [
-        "Bojni del meri odločitve z zalogami, vojsko in pogoji preživetja. Pogovor ob Savici jim doda ljubezen, vero in posmrtno upanje. Z menjavo ritma se spremeni vrsta spora.",
-        "Bogomili krst pomeni izpolnitev zaobljube, Črtomir pa z novo skupnostjo izgubi nekdanji svet in zemeljsko zvezo. Obe razlagi lahko obstajata v istem dejanju."
       ],
       "cast": [
         [
@@ -1381,33 +2636,98 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Narodna preteklost kot pesniška snov",
-          "Spopad ob pokristjanjevanju Prešeren prenese v zasebno zgodbo Črtomirja in Bogomile. Vojaški poraz usmeri junaka k odločitvi, ki je boj sam ne more rešiti."
+          "Zgodovinska snov",
+          "Pokristjanjevanje in boj starih vernikov. Črtomirjeva odločitev po porazu."
         ],
         [
-          "Razkol med željo in danostjo",
-          "Ljubezen med junakoma ostane, a se Bogomila odpove skupnemu življenju. V romantični zgodbi postane razdalja med osebnim idealom in mogočim bistveni vir napetosti."
+          "Ljubezen in odpoved",
+          "Ljubezen ostane, Bogomila pa se odpove skupnemu življenju na zemlji."
         ],
         [
-          "Preoblikovanje prejšnjih oblik",
-          "Uvod uporablja verižne tercine, osrednji Krst pa osemvrstične kitice. Prešeren evropski pesniški obliki uporabi za slovensko zgodovinsko in ljubezensko snov."
+          "Evropske pesniške oblike",
+          "Verižne tercine v Uvodu in osemvrstične kitice v Krstu."
         ]
+      ],
+      "crit": [
+        [
+          "Od boja do odločitve",
+          "Uvod: poraz Črtomirjeve vojske. Krst: pogovor o ljubezni, veri in upanju po smrti."
+        ],
+        [
+          "Dva pomena krsta",
+          "Bogomila izpolni zaobljubo. Črtomir sprejme novo vero in se odpove prejšnjemu svetu ter življenju z njo."
+        ]
+      ],
+      "material": [
+        "Pokristjanjevanje alpskih Slovanov. Izmišljena zgodba Črtomirja in Bogomile."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Vojaški poraz, ljubezen in verska odločitev."
+        ],
+        [
+          "Ideja",
+          "Krst prinese upanje v posmrtno snidenje in odpoved skupnemu življenju."
+        ]
+      ],
+      "motifs": [
+        "Poganski boj, voda pri Bledu in krst pri Savici.",
+        "Posvetilo Matiji Čopu."
       ]
     },
     "19": {
-      "crit": [
-        "Vprašanja zajamejo spomin, sedanjost in prihodnost, zato stiska deluje v vseh časih. Najprej govorec išče pot, kako bi jo tako ali drugače odpravil.",
-        "Kraguljevo kljuvanje da bolečini ponavljajoč se telesni ritem. Ob Prometejevi kazni se pokaže, zakaj je pomembno trajanje, srce v pesmi pa prenese motiv v pesnikovo notranjost.",
-        "Kratek zadnji ukaz zamenja vprašanja. Pesniški poklic zahteva, da izkušnjo obdrži dovolj dolgo, da jo lahko ubesedi."
-      ],
       "periodTraits": [
         [
-          "Romantična podoba pesnika",
-          "Govorec postavi pesnika pred vprašanje, kako živeti s spominom na trpljenje. S tem postane položaj pesnika sam tema pesmi."
+          "Pesnikovo poslanstvo",
+          "Vprašanje, kako preživeti in ubesediti bolečino."
         ],
         [
-          "Izpoved v obliki vprašanj",
-          "Zaporedje vprašanj odpre izkušnjo dvoma. Sklepna zapoved, naj pesnik nosi svoj pekel ali nebo, poveže ustvarjanje z bremenom, ki ga prinaša življenje."
+          "Izpoved in antični motiv",
+          "Vprašanja in kraguljevo kljuvanje kot podoba dolgotrajne bolečine."
+        ]
+      ],
+      "crit": [
+        [
+          "Pesnikova bolečina",
+          "Zaporedje vprašanj o spominu, sedanjosti in prihodnosti. Kraguljevo kljuvanje spominja na Prometejevo dolgotrajno kazen."
+        ],
+        [
+          "Pesniško poslanstvo",
+          "Sklepni ukaz: pesnik mora nositi svojo izkušnjo. Iz nje lahko nastane pesem."
+        ]
+      ],
+      "material": [
+        "Romantična predstava pesnika. Antični motiv Prometejeve kazni."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Pesnikova bolečina in odgovornost do lastnega izkustva."
+        ],
+        [
+          "Ideja",
+          "Pesnik vztraja z izkušnjo in ji da glas."
+        ]
+      ],
+      "motifs": [
+        "Tema, spomin, kljuvanje in ukaz v sklepu."
+      ],
+      "notes": [
+        [
+          "Temna misel kot noč. Prvo vprašanje išče razjasnitev."
+        ],
+        [
+          "Kragulj kljuje srce. Bolečina od jutra do večera in nazaj."
+        ],
+        [
+          "Spomin na nesrečo, sedanja stiska in strah pred prihodnostjo."
+        ],
+        [
+          "Nagovor pesniku. Pekel in nebo kot skrajni izkušnji."
+        ],
+        [
+          "Sklepni ukaz: nosi svojo izkušnjo. Bolečina kot del pesnikovega poklica."
         ]
       ]
     },
@@ -1417,11 +2737,6 @@ window.STUDY = {
         "Med vročico se umika prijatelju Razumihinu. Porfirij preiskavo poveže z Raskolnikovovim člankom o izjemnih ljudeh. Soboslikar Nikolaj po krivem prizna umor.",
         "Sonja mu bere o Lazarju. Lužin ji podtakne denar, toda Lebezjatnikov prevaro razkrije. Svidrigajlov zasliši Raskolnikovovo priznanje Sonji in skuša izsiliti Dunjo. Ta ga zavrne.",
         "Porfirij Raskolnikovu pove, koga sumi, in mu predlaga priznanje. Raskolnikov ga poda na policiji. V Sibiriji ga Sonja obiskuje, njegova sprememba pa se šele začne."
-      ],
-      "crit": [
-        "Teorija dopušča odvzem življenja v imenu napredka, dokler o žrtvi govori abstraktno. Lizaveta pade zgolj zato, ker vstopi. Zato se namera takoj razširi od izbrane žrtve k vsakomur, ki ovira storilca.",
-        "Porfirij ob Nikolajevem priznanju loči izjavo od dokazov. Bralec je že videl umor, zato spremlja, kako lahko nekdo pravilno presodi tuja dejanja in kako storilec presoja lastna.",
-        "Pripoved o Lazarju dobi odmev v Sibiriji. Sprememba postane mogoča ob odnosu s Sonjo in ima drugačen ritem od sodne kazni. Epilog napove proces, ki ga roman ne razvije do konca."
       ],
       "cast": [
         [
@@ -1507,13 +2822,49 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Družbeno okolje vedenja",
-          "Roman dejanja postavi v revno in prenatrpano peterburško okolje. Raskolnikova soba, dolgovi in Sonjino preživljanje družine izrišejo materialne okoliščine njunih izbir."
+          "Družbeno okolje",
+          "Tesna soba, dolgovi in Sonjino delo kot znaki peterburške revščine."
         ],
         [
-          "Ruski psihološki realizem",
-          "Zločin je prikazan skupaj z razpadanjem junakovega samorazumevanja. V pogovorih s Porfirijem Raskolnikov svojo teorijo brani, čeprav se njegova dejanja in odzivi z njo ne ujemajo."
+          "Psihološki realizem",
+          "Pogovori s Porfirijem razkrijejo protislovje med Raskolnikovo teorijo in njegovim vedenjem."
         ]
+      ],
+      "crit": [
+        [
+          "Teorija in dvojni umor",
+          "Raskolnikov si dovoli umor v imenu družbene koristi. Ob njem ubije še Lizaveto, ki po naključju vstopi."
+        ],
+        [
+          "Dokaz in priznanje",
+          "Porfirij Nikolajevega priznanja ne sprejme brez dokazov. Raskolnikova krivda je bralcu znana od začetka preiskave."
+        ],
+        [
+          "Sodna kazen in kesanje",
+          "Sibirija pomeni kazen. Sonja in spomin na Lazarja nakažeta možnost moralne spremembe v epilogu."
+        ]
+      ],
+      "material": [
+        "Revščina v Peterburgu, kriminal in teorije o izjemnem človeku. Dostojevski je poznal kaznilnico v Omsku."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Zločin, strah, krivda, kazen in možnost spremembe."
+        ],
+        [
+          "Ideja",
+          "Raskolnikova teorija odpove že pri drugem umoru. Priznanje šele odpre pot do spremembe."
+        ]
+      ],
+      "motifs": [
+        "Sekira, skriti plen in Lizaveta.",
+        "Lazar, Sonja in Nova zaveza v Sibiriji."
+      ],
+      "genre": [
+        "Psihološki in družbeni roman z elementi kriminalke.",
+        "Tretjeosebna pripoved pogosto blizu Raskolnikovu. Napetost zaradi preiskave in njegovega obnašanja po umoru.",
+        "Sonja in Porfirij preizkusita njegovo razlago zločina."
       ]
     },
     "21": {
@@ -1521,10 +2872,6 @@ window.STUDY = {
         "Emma se poroči z zdravnikom Charlesom. Ples na dvorcu ji pokaže razkošje, po katerem hrepeni. Po selitvi v Yonville spozna Léona, njun odnos pa se sprva ne razvije.",
         "Z Rodolphom začne zvezo in se pripravlja na odhod. Ta jo tik pred pobegom zapusti s pismom. Po bolezni znova sreča Léona in se z njim sestaja v Rouenu pod pretvezo ur klavirja.",
         "Lheureux spremeni odložena plačila v zapadle menice. Emmi grozi rubež, denarja ne dobi niti od ljubimcev, zato zaužije arzenik. Charles odkrije pisma in pozneje umre. Berthe ostane brez sredstev in dela v predilnici."
-      ],
-      "crit": [
-        "Prosti odvisni govor nas približa Emminim idealom, pripoved pa njihove resničnosti ne potrdi. Na sejmu se Rodolphovo zapeljevanje prepleta z razglašanjem kmetijskih nagrad. Dve naučeni govorici se druga ob drugi razkrijeta kot predvidljivi.",
-        "Lheureux lahko njeno razkošje omogoči, ker je sprva skrito pred Charlesom. Prehod od izbiranja predmetov do menic pokaže gospodarsko zgradbo hrepenenja. Berthe na koncu nosi del posledic, čeprav pri odločitvah ni sodelovala."
       ],
       "cast": [
         [
@@ -1586,41 +2933,63 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Realistični prikaz okolja",
-          "Podeželsko meščanstvo vidimo prek poklicev, denarja in vsakdanjih opravkov. Lheureuxovi krediti razkrijejo, kako Emmina želja po drugačnem življenju postane izterljiv dolg."
+          "Realistične podrobnosti",
+          "Poklici, posojila in menice v provinci. Lheureuxov kredit se konča z rubežem."
         ],
         [
-          "Pripovedni odmik in ironija",
-          "Flaubert se približa Emminemu doživljanju, ob njem pa pokaže njegove okoliščine. Blišč plesa v Vaubyessardu dobi pomen v primerjavi z dolgočasjem doma in poznejšimi nakupi."
+          "Pripovedna ironija",
+          "Blišč plesa in dolgčas doma. Prosti odvisni govor približa Emmin pogled."
         ]
+      ],
+      "crit": [
+        [
+          "Emmin pogled",
+          "Prosti odvisni govor približa njene želje. Na sejmu Rodolphovo zapeljevanje prekinjajo govori o kmetijskih nagradah."
+        ],
+        [
+          "Dolg in posledice",
+          "Lheureux z menicami spremeni nakupe v dolg. Berthe po propadu družine nosi posledice odločitev odraslih."
+        ]
+      ],
+      "material": [
+        "Podeželsko meščanstvo v 19. stoletju. Zakon, romantično branje in krediti."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Razkorak med idealnim življenjem in vsakdanom v provinci."
+        ],
+        [
+          "Ideja",
+          "Emmin beg v razkošje in ljubezenske zveze ustvari dolg, ki prizadene tudi Berthe."
+        ]
+      ],
+      "motifs": [
+        "Ples pri markizu, ljubezenske zveze in menice."
       ]
     },
     "22": {
       "stages": [
         [
-          "Pred odprtjem zavetišča v spomin na stotnika Alvinga se na posestvo vrne Osvald. Pastor Manders pride urediti zadeve zavetišča.",
-          "Z gospo Alving se pogovarjata o zavarovanju. Pastor ga odsvetuje zaradi javnega mnenja."
+          "Osvald se vrne domov pred odprtjem sirotišnice v očetov spomin.",
+          "Manders odsvetuje zavarovanje zaradi ugleda pred verniki."
         ],
         [
-          "Manders spomni na nekdanji odhod Alvingove od moža. Gospa Alving razkrije, da je bil zakon drugačen od javne podobe in da je Regina stotnikova hči.",
-          "Osvald, ki ga privlači Regina, materi zaupa svoje bolezenske znake in svoje obupovanje nad prihodnostjo."
+          "Gospa Alving razkrije moževo življenje in da je Regina njegova hči.",
+          "Osvald materi pove za bolezen in strah pred prihodnostjo."
         ],
         [
-          "Zavetišče zagori in ni zavarovano. Požar uniči spomenik, s katerim je gospa Alving skušala ločiti sinovo prihodnost od očetove dediščine.",
-          "Ko izvesta za Reginino poreklo, se hkrati razbije upanje na skupno življenje z Osvaldom."
+          "Nezavarovana sirotišnica pogori. Spomenika očetu ni več.",
+          "Regina in Osvald izvesta, da imata istega očeta."
         ],
         [
-          "Regina zapusti hišo. Osvald prosi mater, naj mu ob hudem napadu da morfij, ki ga je pripravil.",
-          "Gospa Alving še vedno upa, da do napada ne bo prišlo, čeprav se sinovo stanje hitro slabša."
+          "Regina odide. Osvald materi pokaže morfij.",
+          "Prosi jo za odmerek, če zaradi bolezni izgubi razum."
         ],
         [
-          "Ob zori Osvald otrpne in ponavlja prošnjo za sonce. Mati se skuša odločiti, kako naj mu pomaga.",
-          "Zavesa pade med njenim omahovanjem."
+          "Ob zori Osvald otrpne in prosi za sonce.",
+          "Mati okleva. Zavesa pade pred njeno odločitvijo."
         ]
-      ],
-      "crit": [
-        "Naslovni strahovi učinkujejo kot podedovane razlage. Mandersov ugovor zavarovanju izhaja iz skrbi, kaj bo družba rekla o njegovi veri. Podoben strah je Alvingovo nekoč vrnil v zakon, ki je za družino ohranil nevarno skrivnost.",
-        "Zavetišče naj bi bilo razmejitev med očetovim denarjem in prihodnostjo sina. Požar pokaže, da je lažje odstraniti stavbo kot posledice dejanj, ki so se že vpisala v odnose in telesa. Sonce v sklepu je hkrati navaden vzhod in predmet prošnje, ki je mati ne zna izpolniti."
       ],
       "cast": [
         [
@@ -1675,16 +3044,58 @@ window.STUDY = {
       "periodTraits": [
         [
           "Realistična problemska drama",
-          "Družina v ospredje postavi vprašanje ugleda, zakonske dolžnosti in družbenih posledic molka. Pastor Manders je gospo Alving nekoč prepričal, da se je vrnila k možu."
+          "Ugled družine in zakonska dolžnost. Manders gospo Alving prepriča, naj se vrne k možu."
         ],
         [
           "Analitična zgradba",
-          "Sedanje dogajanje postopoma odkrije stare odločitve. Razkritje, kdo je Reginin oče, spremeni pomen njenega odnosa z Osvaldom."
+          "Stara skrivnost pride na dan v pogovoru. Reginin oče je stotnik Alving."
         ],
         [
           "Naturalistična težnja",
-          "Ibsen bolezni, dednosti in družinskemu okolju nameni pomembno mesto. Osvaldovo stanje omaje domnevo, da družina z molkom lahko obvaruje prihodnost otrok."
+          "Poudarek na bolezni, dednosti in okolju. Osvaldova bolezen je povezana z očetovim življenjem."
         ]
+      ],
+      "crit": [
+        [
+          "Strah pred javnim mnenjem",
+          "Manders nasprotuje zavarovanju sirotišnice zaradi ugleda pred verniki.",
+          "Zaradi dolžnosti in ugleda je gospo Alving nekoč prepričal, da se je vrnila k možu."
+        ],
+        [
+          "Sirotišnica in požar",
+          "Sirotišnica naj porabi očetov denar in ohrani njegov javni ugled.",
+          "Požar uniči stavbo. Očetova skrivnost in Osvaldova bolezen ostaneta."
+        ],
+        [
+          "Bolezen, dednost in molk",
+          "Drama Osvaldovo bolezen poveže z očetovim življenjem. Družinski molk sinu ne zagotovi varnosti."
+        ],
+        [
+          "Sonce na koncu",
+          "Jutranja svetloba in Osvaldova zadnja prošnja. Mati ostane pred odločitvijo o morfiju."
+        ]
+      ],
+      "material": [
+        "Meščanska družina, družinski ugled, spolnost in bolezen v 19. stoletju."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Zamolčana preteklost, dednost in strah pred obsojanjem."
+        ],
+        [
+          "Ideja",
+          "Varovanje ugleda ohrani skrivnosti, ki pozneje prizadenejo otroke."
+        ]
+      ],
+      "motifs": [
+        "Strahovi: stare predstave o dolžnosti in spodobnosti.",
+        "Sirotišnica, požar, morfij in sonce."
+      ],
+      "genre": [
+        "Realistična problemska drama v treh dejanjih.",
+        "Analitična zgradba: stari dogodki prihajajo na dan v družinskih pogovorih.",
+        "Odprt konec: materine odločitve o morfiju ne vidimo."
       ]
     },
     "23": {
@@ -1692,10 +3103,6 @@ window.STUDY = {
         "Upokojeni stotnik Bitič redno obiskuje Zelenikovo gostilno. Po pečenki razpravlja o politiki in ugovore mladih vzame osebno.",
         "Ko podvomi o pripravi jedi, preskuša druge gostilne. Nikjer več ne najde iste zanesljivosti. Prek gospodinje poskuša urediti poroko, ki naj bi mu zagotovila domačo oskrbo.",
         "Snubitev se izjalovi. Pri Zeleniku tisti večer pečenke ne je, nenavadno veliko popije in gre v dež. Policaja ga najdeta mrtvega, preiskava ugotovi kap."
-      ],
-      "crit": [
-        "Pečenka ureja Bitičev urnik in zaupanje do gostilne. Ko podvomi o pripravi, izgubi prostor, kjer si je lahko predstavljal, da ima njegov glas težo.",
-        "Vojaški naziv se smešno razhaja z njegovo nemočjo pri urejanju večerje, ob koncu pa ista navada pokaže njegovo osamljenost. Najkonkretnejši znak spremembe je obrok, ki ga nazadnje opusti."
       ],
       "cast": [
         [
@@ -1733,13 +3140,39 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Opazovanje vsakdana",
-          "Slovenski realizem se pokaže v gostilniških pogovorih, obrokih in skrbi za gospodinjstvo. Bitičeva redna naročila razkrijejo, od česa je odvisen njegov občutek reda."
+          "Realistični vsakdan",
+          "Večerja, politika in druženje v gostilni pri Zeleniku."
         ],
         [
           "Značaj skozi navado",
-          "Bitiča spoznamo po odzivih na znane ljudi in jedi. Ko se mu pečenka zazdi sumljiva, se pokažeta njegova neprožnost in potreba po zanesljivem okolju."
+          "Bitičeva navezanost na reden obrok. Dvom o pripravi pečenke razkrije njegovo neprožnost."
         ]
+      ],
+      "crit": [
+        [
+          "Pečenka in navada",
+          "Stalen obrok pomeni red in prijetno družbo. Po obisku kuhinje Bitič gostilni ne zaupa več."
+        ],
+        [
+          "Komika in osamljenost",
+          "Stotnikov naziv in nemoč pri iskanju večerje. Na koncu opusti obrok, okoli katerega je zgradil svoj dan."
+        ]
+      ],
+      "material": [
+        "Mestna gostilna, redne večerje in politični prepiri."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Bitičev značaj, rutina in osamljenost."
+        ],
+        [
+          "Ideja",
+          "Izguba stalne navade razkrije, kako malo varnosti ima zunaj gostilne."
+        ]
+      ],
+      "motifs": [
+        "Pečenka, gostilniško omizje, snubitev in dež."
       ]
     },
     "24": {
@@ -1747,11 +3180,6 @@ window.STUDY = {
         "Izidor v kroniki popiše očetovo preteklost in zločin iz tridesetletne vojne, s katerim je povezano Polikarpovo premoženje. Posest na Visokem zato nosi družinsko krivdo.",
         "Ko pride Agata Schwarzkoblerica, jo obtožijo čarovništva. Pri preizkusu jo spustijo v vodo. Izidor omahuje, Jurij pa skoči za njo.",
         "Agata se poroči z Jurijem. Izidor se vrne ranjen iz vojne in se poroči z Margareto Wulffingovo. Njegov sin Georgius Postumus doda kroniki zapis o očetovi smrti."
-      ],
-      "crit": [
-        "Izidor ima pri pisanju moč nad vrstnim redom pripovedi, ob reki pa ni odločen. Kronikalna oblika zato omogoča, da beremo njegovo krivdo iz razlike med razumevanjem in dejanjem.",
-        "Vodni preizkus je sestavljen tako, da domneve o krivdi skoraj ni mogoče ovreči brez nevarnosti. Jurijev skok postavi dejanje pomoči nad gotovost postopka.",
-        "Sin dobi zemljišče, spomin in vprašanje, kaj naj z njima stori. S pripisom kronika ostane odprta tudi v prihodnost."
       ],
       "cast": [
         [
@@ -1814,15 +3242,15 @@ window.STUDY = {
       "periodTraits": [
         [
           "Pozna realistična dediščina",
-          "Čeprav je roman nastal v 20. stoletju, vsakdan 17. stoletja konkretno gradi s posestmi, dedovanjem in delom. Oporoka in pripis k družinski kroniki povežeta osebne usode z lastnino."
+          "Posest, dedovanje in delo v 17. stoletju. Roman je izšel leta 1919."
         ],
         [
-          "Zgodovinsko okolje in družba",
-          "Vodna preizkušnja Agate pokaže, kako ljudsko verovanje, verska pričakovanja in oblast odločajo o življenju posameznice."
+          "Zgodovinska družba",
+          "Vodna preizkušnja Agate: povezava ljudskega verovanja, prava in oblasti."
         ],
         [
-          "Meja realistične oznake",
-          "Kronika je osebno pričevanje z izrazitim pogledom pripovedovalca. Starejši Izidor lahko presoja lastno omahovanje, Jurijevo reševanje Agate pa je bolj izrazito junaško."
+          "Subjektivna oblika kronike",
+          "Izidorjevo kesanje v prvi osebi in junaški Jurijev skok."
         ]
       ],
       "periodSources": [
@@ -1830,21 +3258,92 @@ window.STUDY = {
           "https://www.textgridrep.org/browse/41k8f.0?lang=en",
           "Visoška kronika · izdaja ELTeC"
         ]
+      ],
+      "crit": [
+        [
+          "Izidorjeva krivda",
+          "Izidor kot kronist razume lastno omahovanje. Ob preizkusu v vodi Agati ne pomaga prvi."
+        ],
+        [
+          "Jurijeva odločnost",
+          "Vodni preizkus ogrozi Agato. Jurij skoči v vodo in jo reši."
+        ],
+        [
+          "Dedovanje",
+          "Georgius prejme posest in družinski zapis. S svojim pripisom ohrani spomin na očeta."
+        ]
+      ],
+      "material": [
+        "Poljanska dolina, tridesetletna vojna, protireformacija in čarovniški procesi."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Družinska krivda, dediščina in odgovornost."
+        ],
+        [
+          "Ideja",
+          "Izidor razume krivico, pomaga pa odločni Jurij."
+        ]
+      ],
+      "motifs": [
+        "Denar, posest in kronika.",
+        "Čarovniška obtožba in vodni preizkus."
       ]
     },
     "25": {
-      "crit": [
-        "Večerni glasovi zvenijo kot vzdihi, vendar se v naslednji kitici pokaže razlika med mirno zemljo in človekom, ki ne more spati. Narava zato ohrani ritem, ki se od njegovega razlikuje.",
-        "Svetopisemski glas v puščavi dobi v pesmi samotnega govorca. Večkratni klic viharju je kratek izbruh, ki ga sklepna personifikacija mirne noči znova pogasi."
-      ],
       "periodTraits": [
         [
-          "Impresionističen večerni vtis",
-          "Zaznava spreminjajoče se svetlobe in temnenja prikliče razpoloženje. Pokrajino spremljamo v kratkem prehodu od jasnejših oblik k mraku."
+          "Impresionizem",
+          "Kratki čutni vtisi: mrak, tihi glasovi in trepet zvezd."
         ],
         [
-          "Pokrajina in notranji nemir",
-          "Mirna večerna pokrajina sproži primerjavo z govorčevim nemirom. Medtem ko na zemljo lega mir, si on želi neviht in burnega življenja."
+          "Narava in notranji nemir",
+          "Mirna pokrajina in govorec, ki kliče nevihte."
+        ]
+      ],
+      "crit": [
+        [
+          "Narava in govorec",
+          "Večerni glasovi kot vzdihi. Pokrajina se umirja, govorec ne more zaspati."
+        ],
+        [
+          "Klic po življenju",
+          "Samotni glas v puščavi in klic nevihtam. Na koncu noč kljub njegovi želji ostane mirna."
+        ]
+      ],
+      "material": [
+        "Večerni prizor in govorec, ki ga muči nemir."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Samota in želja po dejavnem življenju."
+        ],
+        [
+          "Ideja",
+          "Zunanji mir poudari notranji nemir."
+        ]
+      ],
+      "motifs": [
+        "Mrak, šepet, zvezde in svetopisemski glas v puščavi.",
+        "Vihar, sončni dnevi in boj."
+      ],
+      "notes": [
+        [
+          "Tihi glasovi kakor vzdihi. Večer že v prvi kitici dobi žalosten zven."
+        ],
+        [
+          "Mirna pokrajina in nespeči govorec."
+        ],
+        [
+          "Polnoč, zvezde in svetopisemski glas v puščavi. Izpostavljena samota."
+        ],
+        [
+          "Klic nevihti, burnemu življenju in hrepenenju."
+        ],
+        [
+          "Sonce in boj kot zaželeno življenje. Noč kljub klicem mirno sanja."
         ]
       ]
     },
@@ -1853,10 +3352,6 @@ window.STUDY = {
         "Francka se kot deklica odpravi na romanje in zaman teče za vozom. Kot odrasla se poroči s Tonetom in skuša družini urediti zanesljiv dom.",
         "Delo in stanovanje ostaneta negotova, zato družina pride med revne na klancu. Tone odhaja po delo, Francka ostane z velikim delom skrbi za otroke. Lojze dobi možnost šolanja.",
         "Franckina pot se izteče v pomanjkanju. V Lojzetovem pogledu na učiteljevo luč ostane možnost prihodnosti zunaj razmer, ki so jo omejevale."
-      ],
-      "crit": [
-        "Tek za vozom je telesna podoba hrepenenja: razdalja raste tudi takrat, ko otrok porabi vse moči. Ta zgradba se ponovi v odraslih prizadevanjih, kjer trud ne zagotovi gmotne varnosti.",
-        "Klanec združuje ljudi pod sorodnimi pogoji. Učiteljeva luč proti koncu odpre možnost izobrazbe za naslednjo generacijo, te možnosti pa Franckina izkušnja prej ni poznala."
       ],
       "cast": [
         [
@@ -1902,13 +3397,40 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Simbol v slovenski moderni",
-          "Tek za vozom ni samo spomin na dogodek iz otroštva. Podoba se poveže s poznejšimi Franckinimi prizadevanji za družino, saj se cilj izmika, ne glede na vložen trud."
+          "Simbolni motiv",
+          "Franckin tek za vozom kot podoba nedosegljivega cilja."
         ],
         [
-          "Subjektiven pogled na družbeno stisko",
-          "Revščina je konkretna, pripoved pa jo usmeri v Franckino doživljanje. Družbeni pomen klanca dodatno razkrije učiteljeva luč, ki nakazuje možnost za naslednji rod."
+          "Subjektiven pogled",
+          "Revščina iz Franckine izkušnje. Učiteljeva luč kot možnost za otroke."
         ]
+      ],
+      "crit": [
+        [
+          "Tek za vozom",
+          "Francka teče z vsemi močmi, voz se oddaljuje. Podoba se vrne v njenem odraslem boju za družino."
+        ],
+        [
+          "Klanec in luč",
+          "Klanec kot prostor življenjske stiske. Učiteljeva luč nakaže možnost izobrazbe za otroke."
+        ]
+      ],
+      "material": [
+        "Cankarjevo poznavanje revščine in materinega življenja. Izmišljena usoda Francke."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Materino hrepenenje in revščina."
+        ],
+        [
+          "Ideja",
+          "Učiteljeva pomoč nakaže možnost spremembe za naslednji rod."
+        ]
+      ],
+      "motifs": [
+        "Nedosegljivi voz in klanec revežev.",
+        "Luč v učiteljevem domu."
       ]
     },
     "27": {
@@ -1933,10 +3455,6 @@ window.STUDY = {
           "Osamljeni Jerman vzame revolver. Zasliši materin glas in nato Lojzkinega.",
           "Lojzka se vrne. Jerman z njo stopi k materini izbi in prosi za blagoslov."
         ]
-      ],
-      "crit": [
-        "Naslovno hlapčevstvo se pojavi kot naučena sprememba govora. Učitelji zaznajo, kateri jezik zagotavlja mir in službo. Jermanov upor razkrije, koliko stane, če človek javno obdrži lastno presojo.",
-        "Mati in župnik zapleteta preprosto delitev med oblastjo in vero. Jerman pred smrtjo matere razmišlja o resničnem kesanju, župnik pa prizna, da bi v njegovem položaju lahko ravnal podobno. Drama s tem loči politično pokorščino od vprašanja osebne vesti."
       ],
       "cast": [
         [
@@ -2014,12 +3532,12 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Cankarjeva družbena kritika",
-          "Dogajanje po volitvah pokaže, kako se učitelji zaradi službe in ugleda prilagajajo zmagovalcem. Jermanov spor z zborom vodi od politike do vprašanja osebne odgovornosti."
+          "Družbena kritika",
+          "Učitelji po volitvah zamenjajo stališča zaradi položaja in službe."
         ],
         [
-          "Preplet javnega in notranjega",
-          "Spor o neodvisnosti učitelja ima tudi lirsko in psihološko razsežnost. Ob bolni materi Jerman presoja lastna dejanja drugače kot sredi javnega zbora."
+          "Javno in osebno",
+          "Jermanov javni upor in zasebni občutek krivde ob bolni materi."
         ]
       ],
       "periodSources": [
@@ -2027,6 +3545,38 @@ window.STUDY = {
           "https://sl.wikisource.org/wiki/Stran:Ivan_Cankar_-_Hlapci.pdf/4",
           "Hlapci · seznam oseb v izvirni izdaji"
         ]
+      ],
+      "crit": [
+        [
+          "Hlapčevstvo po volitvah",
+          "Učitelji spremenijo govor in stališča zaradi službe in ugleda. Jerman z vztrajanjem izgubi podporo."
+        ],
+        [
+          "Vera in vest",
+          "Mati veruje iskreno. Njena smrt odpre Jermanovo vprašanje krivde.",
+          "Župnik na koncu pokaže razumevanje, čeprav sta si politično nasprotovala."
+        ]
+      ],
+      "material": [
+        "Volitve leta 1907, vpliv cerkve na šolstvo in Cankarjevo politično delo."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Javni upor, pokorščina in vest."
+        ],
+        [
+          "Ideja",
+          "Samostojno mišljenje zahteva pogum in prinese tudi osebno izgubo."
+        ]
+      ],
+      "motifs": [
+        "Volitve, učiteljski zbor in zborovanje.",
+        "Mati, vera in krivda."
+      ],
+      "genre": [
+        "Družbenokritična drama v petih dejanjih.",
+        "Javni prizori: učiteljski zbor in zborovanje. Zasebni prizori: odnos do bolne matere in občutek krivde."
       ]
     },
     "28": {
@@ -2034,10 +3584,6 @@ window.STUDY = {
         "Odrasli pripovedovalec poskusi magdalenico, pomočeno v čaj. Občuti veselje brez jasnega vzroka.",
         "Poskuša ponoviti okus, a z novimi požirki učinek slabi. Usmeri se v spomin in čaka, da nenavadno občutje dobi podobo.",
         "Prepozna pecivo, ki mu ga je ob nedeljah dajala teta Léonie. Vrnitev sobe, hiše in okolice razširi trenutni okus v ves otroški Combray."
-      ],
-      "crit": [
-        "Okus deluje pred prepoznavanjem. Nehotni spomin ima zato svoj vrstni red: najprej se pojavi občutek, šele nato zavestna razlaga njegovega izvora.",
-        "Prehod od drobtine do ulic preuredi odnos med podrobnostjo in celoto. Pripovedni čas se začne ravnati po tem, kako se veliki pretekli svet postopoma sestavi iz majhnega sedanjega dogodka."
       ],
       "cast": [
         [
@@ -2067,12 +3613,12 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Modernistični čas zavesti",
-          "Pripoved se premika po asociacijah. Okus magdalenice v čaju iz sedanjega trenutka sproži plasti spomina na Combray."
+          "Nehotni spomin",
+          "Magdalenica s čajem sproži spomin na Combray."
         ],
         [
-          "Spomin kot tema in zgradba",
-          "Odrasli pripovedovalec opisuje izkušnje otroškega jaza in hkrati raziskuje, kako se mu vračajo. Spomin na večerni poljub tako učinkuje kot doživetje in kot predmet poznejšega razmisleka."
+          "Čas zavesti",
+          "Otroški spomin na večerni poljub in odrasli razmislek o istem dogodku."
         ]
       ],
       "periodSources": [
@@ -2080,6 +3626,33 @@ window.STUDY = {
           "https://assets.cambridge.org/97811070/21891/excerpt/9781107021891_excerpt.pdf",
           "Marcel Proust in Context · o spominu in pripovedi"
         ]
+      ],
+      "crit": [
+        [
+          "Nehotni spomin",
+          "Okus magdalenice v čaju najprej prikliče občutek. Šele nato ga pripovedovalec poveže z otroštvom."
+        ],
+        [
+          "Pripovedni čas",
+          "Od drobnega okusa do hiše, ulic in ljudi. Spomin določa vrstni red, v katerem spoznamo Combray."
+        ]
+      ],
+      "material": [
+        "Proustovo otroštvo in obiski v Illiersu. Odlomek iz cikla Iskanje izgubljenega časa."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Nehotni spomin."
+        ],
+        [
+          "Ideja",
+          "Čutni vtis prikliče preteklost z živostjo, ki je premišljeno naštevanje ne doseže."
+        ]
+      ],
+      "motifs": [
+        "Magdalenica in čaj.",
+        "Hiša, soba, ulice in poti v Combrayu."
       ]
     },
     "29": {
@@ -2087,10 +3660,6 @@ window.STUDY = {
         "Stephen Dedalus začne dan v stolpu z Mulliganom, pozneje poučuje in hodi po Dublinu. Leopold Bloom pripravi zajtrk, misli na Molly in odide po opravkih ter na pogreb.",
         "Bloom se premika po mestu, opravlja oglaševalsko delo in srečuje različne ljudi. Po nočnih dogodkih pomaga Stephenu in ga povabi domov na kakav.",
         "Stephen nadaljuje svojo pot. Bloom zaspi ob Molly, njene misli pa povežejo preteklost, ljubezenske spomine in sklep dneva."
-      ],
-      "crit": [
-        "Homerjeva shema dobi v Dublinu vsakdanjo razsežnost. Bloomovo gostoljubje ima odmev odnosa očeta in sina, vendar se Stephen pri njem ne ustali. Starodavni vzorec tako izpostavi sodobno, začasno zavezništvo.",
-        "Časopisni naslovi razrežejo dogodek. V Itaki vprašanja in odgovori merijo običajen večer s pretirano natančnostjo. Mollyjin monolog pa postavi pripoved v zavest osebe, ki je prej nastopala predvsem v Bloomovih mislih."
       ],
       "cast": [
         [
@@ -2144,16 +3713,16 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Tok zavesti in notranji monolog",
-          "Pozornost se giblje od zaznav k spominom in željam. V Mollyjinem nočnem monologu preskoke zaznamo po zvezah med mislimi in ohlapnejšem ločevanju povedi."
+          "Tok zavesti",
+          "Mollyjin nočni monolog s preskoki in malo ločili."
         ],
         [
-          "Mit v sodobnem vsakdanu",
-          "Obris Odiseje uredi navaden dan v Dublinu. Gostilniški spopad med Bloomom in Državljanom tako dobi vzporednico s Kiklopom."
+          "Mit v vsakdanu",
+          "Odiseja v Dublinu. Gostilniški spor kot vzporednica Kiklopu."
         ],
         [
-          "Menjavanje pripovednih postopkov",
-          "Slog pripada posamezni epizodi in njenemu pogledu na mesto. Časopisni naslovi na primer členijo epizodo Eol povsem drugače od Mollyjinega monologa."
+          "Različni slogi",
+          "Časopisni naslovi v Eolu, vprašanja in odgovori v Itaki."
         ]
       ],
       "periodSources": [
@@ -2161,6 +3730,33 @@ window.STUDY = {
           "https://academic.oup.com/edited-volume/35429/chapter/303210901",
           "Tok zavesti v modernističnem romanu · Oxford"
         ]
+      ],
+      "crit": [
+        [
+          "Odiseja v Dublinu",
+          "Bloom sprejme Stephena kakor oče sina. Njuna bližina traja le kratek del poti."
+        ],
+        [
+          "Različni slogi",
+          "Eol: časopisni naslovi. Itaka: natančna vprašanja in odgovori. Penelopa: Mollyjin notranji monolog."
+        ]
+      ],
+      "material": [
+        "En dan v Dublinu in zgradba Homerjeve Odiseje."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Bližina, dom in pripadnost v sodobnem mestu."
+        ],
+        [
+          "Ideja",
+          "Običajna dejanja sodobnih ljudi dobijo pomen antične poti."
+        ]
+      ],
+      "motifs": [
+        "Mestne poti, vrnitev domov in Molly.",
+        "Odnos Blooma in Stephena, spomin na Rudyja."
       ]
     },
     "30": {
@@ -2168,11 +3764,6 @@ window.STUDY = {
         "Gregor Samsa se zbudi v nenavadnem telesu in najprej misli na zamujeni vlak. Prokurist pride v stanovanje. Ob odprtju vrat se prestraši, oče pa Gregorja odžene v sobo.",
         "Greta mu prinaša hrano. Ko z materjo odnašata pohištvo, Gregor zaščiti sliko na steni. Oče vrže jabolka, eno mu ostane v hrbtu. Družina začne delati in sprejme podnajemnike.",
         "Gregor ob Gretini violini pride iz sobe. Podnajemniki zagrozijo z odhodom, Greta pa zahteva njegovo odstranitev. Gregor se umakne in umre. Družina na izletu začne načrtovati prihodnost."
-      ],
-      "crit": [
-        "Gregorjeva prva skrb je vlak, čeprav je okoliščina nemogoča. Stvarni slog tako razkrije, kako močno je delovni red določal njegovo mišljenje že pred preobrazbo.",
-        "Odstranitev pohištva mu poveča prostor za gibanje, obenem mu vzame vezi s prejšnjim življenjem. Z oprijemom slike pokaže, da želi vsaj eno vez ohraniti.",
-        "Violina razkrije, da Gregor še pozna željo po bližini. Drugi njegov prihod vidijo predvsem kot nevarnost za dohodek. Razliko med notranjo in zunanjo presojo pripoved ohrani do konca."
       ],
       "cast": [
         [
@@ -2226,45 +3817,156 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Nenavadno v vsakdanjem svetu",
-          "Nepričakovana preobrazba je podana neposredno, Gregor pa še vedno razmišlja o vlaku in službi. S tem modernistična novela preizkusi pravila realistično prepoznavnega gospodinjstva."
+          "Fantastični dogodek",
+          "Nemogoča preobrazba v stvarno opisanem vsakdanu. Gregor najprej pomisli na vlak za službo."
         ],
         [
-          "Odtujitev in omejeni pogled",
-          "Ob začetku vemo predvsem, kaj Gregor sliši in razume iz svoje sobe. Družina njegove besede dojema kot nerazločne zvoke, zato se razlika med njegovim notranjim življenjem in družbenim položajem poveča."
+          "Odtujenost",
+          "Bralec pozna Gregorjeve misli, družina za vrati pa sliši le nerazločen glas."
         ]
+      ],
+      "crit": [
+        [
+          "Služba in preobrazba",
+          "Gregor se zbudi v nenavadnem telesu. Njegova prva skrb je zamujeni vlak za službo."
+        ],
+        [
+          "Pohištvo in slika",
+          "Prazna soba olajša gibanje, a izbriše sledi starega življenja. Gregor se oprime slike na steni."
+        ],
+        [
+          "Violina in družina",
+          "Glasba razkrije Gregorjevo željo po bližini. Podnajemniki in družina v njem vidijo finančno nevarnost."
+        ]
+      ],
+      "material": [
+        "Delovni in družinski vsakdan, prekinjen s fantastično telesno spremembo."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Odtujenost in pogojna pripadnost družini."
+        ],
+        [
+          "Ideja",
+          "Z Gregorjevo nezmožnostjo za delo izgine njegova veljava doma."
+        ]
+      ],
+      "motifs": [
+        "Vrata, slika, očetovo jabolko in Gretina violina."
       ]
     },
     "31": {
-      "crit": [
-        "Prvi verzi poimenujejo polja, podrtijo in temo v kratkih odsekih. Vsak zahteva premor, zato se zaznave pokažejo druga za drugo in tvorijo občutek počasnega, previdnega umikanja.",
-        "Senca ostane neznana. Premik od »za menoj« k »z menoj« spremeni položaj grožnje: zunanjemu pogledu se pridruži spremljajoče občutje, ki ga govorec že nosi s seboj."
-      ],
       "periodTraits": [
         [
-          "Čutni utrinki pokrajine",
-          "Polja, podrtija, tema in svetlo okno so podani kot kratki, ločeni vtisi. Podoba oddaljenega okna iz temne pokrajine izloči svoje svetlobno žarišče."
+          "Čutni vtisi",
+          "Polja, podrtija, tema in svetlo okno. Kratki opisi v ločenih verzih."
         ],
         [
           "Ekspresivna tesnoba",
-          "Prizor se iz opisa prevesi v občutek, da senca opazuje govorca. Razdrobljeni verzi in kratko vprašanje stopnjujejo nemir, ki se ob koncu poimenuje kot slutnja smrti."
+          "Senca pri oknu in kratko vprašanje. Na koncu izrečena slutnja smrti."
+        ]
+      ],
+      "crit": [
+        [
+          "Kratki vtisi",
+          "Polja, podrtija, tema in svetlo okno. Kratki verzi z vmesnimi premori ustvarijo napetost."
+        ],
+        [
+          "Senca in tesnoba",
+          "Najprej občutek, da nekdo gleda za njim. Nato strah, ki ga nosi s seboj."
+        ]
+      ],
+      "material": [
+        "Večerni prizor s polji, podrtijo in svetlim oknom."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Tesnoba in slutnja smrti."
+        ],
+        [
+          "Ideja",
+          "Neznana senca sproži strah, ki govorca spremlja naprej."
+        ]
+      ],
+      "motifs": [
+        "Podrtija, tišina, svetlo okno in senca."
+      ],
+      "notes": [
+        [
+          "Polja, podrtija, tema in tišina. Kratki verzi ustvarijo občutek praznine."
+        ],
+        [
+          "Svetlo okno v daljavi. Senca ob njem sproži vprašanje."
+        ],
+        [
+          "Zunanji pogled preraste v tesnobo. Na koncu izrečena slutnja smrti."
         ]
       ]
     },
     "32": {
-      "crit": [
-        "Sončni zahod daje zatonu zapeljiv sijaj. Podoba kraljice v grobu nadaljuje razkošje tudi po tem, ko je zanj zmanjkalo smisla. Ekstaza pripada gledanju, smrt pa svetu, ki ga gledalec tako občuduje.",
-        "Kri prevzame mesto vode, s katero bi bilo mogoče umiti krivdo. Tekočine je povsod preveč in očiščenje je vseeno nedosegljivo.",
-        "Govorec v skupino na koncu vključi sebe. Obsodba Evrope pomeni presojo skupnosti, kateri pripada tudi človek, ki jo kritizira."
-      ],
       "periodTraits": [
         [
-          "Ekspresionistična vizija propada",
-          "Pesem krizo Evrope izrazi v povečanih, sunkovitih podobah smrti, krvi in razkroja. Civilizacija dobi videz telesa, ki izgublja življenje."
+          "Ekspresionistična vizija",
+          "Propad Evrope v sunkovitih podobah krvi, smrti in razkroja."
         ],
         [
-          "Razširitev glasu na skupnost",
-          "Govorec se z osebnega doživljanja premakne k skupinskemu »mi«. Nagovor Evropi razširi usodo posameznika na zgodovinski prostor in njegove ljudi."
+          "Glas skupnosti",
+          "Nagovor Evropi in prehod od posameznikov k množinskemu »mi«."
+        ]
+      ],
+      "crit": [
+        [
+          "Razkošje in propad",
+          "Sijaj zahoda in okrašena kraljica v grobu. Lepota prizora poudari mrtvilo Evrope."
+        ],
+        [
+          "Kri in krivda",
+          "Kri namesto vode. Količina krvi pokaže obseg nasilja in nemožnost preprostega očiščenja."
+        ],
+        [
+          "Skupinski glas",
+          "Pesnik z »mi« vključi tudi sebe. Kritika Evrope velja skupnosti, ki ji pripada."
+        ]
+      ],
+      "material": [
+        "Povojna evropska kriza in nasprotje med krvavo vizijo in zeleno pokrajino."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Propad Evrope in skupna odgovornost."
+        ],
+        [
+          "Ideja",
+          "Pesnik obsoja nasilje in v skupino odgovornih vključi tudi sebe."
+        ]
+      ],
+      "motifs": [
+        "Zlato, kri, mrtva kraljica in zelena narava."
+      ],
+      "notes": [
+        [
+          "Stolpi in kupole kot znamenja razkošja. Rdeče morje jih požira."
+        ],
+        [
+          "Evropa kot kraljica v zlatu. Razkošje ostane vidno tudi v grobu."
+        ],
+        [
+          "Kri v govorčevem srcu in v vseh ljudeh. Skupna vpletenost v nasilje."
+        ],
+        [
+          "Povsod kri, a brez vode za pitje ali umivanje. Nemožnost preprostega očiščenja."
+        ],
+        [
+          "Zelena pokrajina proti pekočemu večeru. Šibko upanje na jutro."
+        ],
+        [
+          "Prehod od »jaz in ti« k »jaz in vsi«. Padec zajame skupnost."
+        ],
+        [
+          "Sonce bo sijalo, ko bodo ljudje mrtvi. Sijaj ostane brez gledalcev."
         ]
       ]
     },
@@ -2290,10 +3992,6 @@ window.STUDY = {
           "Prebivalcem ostanejo njihove sobe, želje in ponavljajoče se navade.",
           "Sklep dopušča Hanin premik ter znova pokaže mesto, ki bo čakalo na nov dogodek."
         ]
-      ],
-      "crit": [
-        "Razdeljeni oder pretvori gledalca v posebnega opazovalca. Vidi več sob kot vsak posamezen lik, zato lahko primerja čakanje, samogovor in opazovanje. Mrtvilo mesta nastane iz seštevka različnih življenj.",
-        "Naslovno besedo mesto in Hana uporabljata z drugačnim merilom. Mestu dogodek pomeni novico, o kateri lahko govori. Hanin odpor nekaj spremeni v njenem razmerju do človeka, ki jo je poškodoval. Zato lahko njen prelom ostane brez javnega priznanja."
       ],
       "cast": [
         [
@@ -2339,16 +4037,16 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Ekspresionistična odrska podoba",
-          "Hkrati vidne sobe pokažejo odtujenost prebivalcev. Gapit govori lutki, medtem ko drugod v mestu ljudje pričakujejo zunanji dogodek, ki bi jih predramil."
+          "Ekspresionistični oder",
+          "Sočasno vidne sobe. Gapit govori lutki, sosedi čakajo na senzacijo."
         ],
         [
-          "Groteska in ponavljanje",
-          "Meščane vznemiri možnost umora, nato se mesto vrne v običajni ritem. Neskladje med groteskno predstavo o dogodku in njihovim vsakdanom poudari ujetost."
+          "Groteska",
+          "Govorica o umoru za kratek čas prekine mestno mrtvilo, ki se na koncu vrne."
         ],
         [
-          "Zanimanje za preteklost in podzavest",
-          "Hanin odziv na Preliha je povezan s preteklo zlorabo. Dramski pritisk zato izvira tudi iz vrnitve izkušnje, ki je mesto od zunaj ne vidi."
+          "Vpliv preteklosti",
+          "Prelihova vrnitev znova prebudi Hanin spomin na zlorabo."
         ]
       ],
       "periodSources": [
@@ -2356,73 +4054,297 @@ window.STUDY = {
           "https://www.dlib.si/details/URN%3ANBN%3ASI%3ADOC-Z462FGQL?language=slo",
           "Dogodek v mestu Gogi · izvirna objava"
         ]
+      ],
+      "crit": [
+        [
+          "Razdeljeni oder",
+          "Gledalec vidi več sob hkrati. Gapitova lutka in drugi osamljeni liki pokažejo mrtvilo mesta."
+        ],
+        [
+          "Dva pomena dogodka",
+          "Mesto čaka na govorico ali senzacijo. Hanin pomembni osebni dogodek je odpor do Preliha."
+        ]
+      ],
+      "material": [
+        "Izmišljeno malo mesto in pretresljive izkušnje njegovih prebivalcev."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Čakanje na dogodek, ujetost in osebni odpor."
+        ],
+        [
+          "Ideja",
+          "Hanin odpor je pomemben zanjo. Mesto v njem išče senzacijo."
+        ]
+      ],
+      "motifs": [
+        "Okna, ločene sobe in lutka.",
+        "Čakanje in govorica o umoru."
+      ],
+      "genre": [
+        "Ekspresionistična drama in groteska. Več prostorov na odru hkrati.",
+        "Osrednji lok pripada Hani. Stranski prizori pokažejo življenje mesta.",
+        "Obsežne didaskalije: podrobni napotki za prostor, gibanje in govor."
       ]
     },
     "34": {
-      "crit": [
-        "Prvo vprašanje deluje kot pogled za živaljo, pridevnik »napisana« pa jo že postavi na papir. Bralec se mora hkrati odzvati na nevarnost za srno in na izbiro besed, ki jo je ustvarila.",
-        "Strel lahko v pesmi obstane, če pisanje ne določi njegovega cilja. Lov prikaže razliko med pripovednim časom, ki ga je mogoče urediti, in fizičnim časom pisca.",
-        "Sklep poveže radost in umrljivost. Roka lahko ohrani trenutek za poznejšega bralca, svojega življenja pa ne more zadržati na enak način."
-      ],
       "periodTraits": [
         [
           "Metapoezija",
-          "Povojna pesem govori o lastnem nastajanju: deklarirano napisana srna in napisani gozd opozorita, da pokrajino v trenutku branja sestavljajo besede."
+          "Napisana srna in gozd. Pesem razmišlja o tem, kako nastaja njen svet."
         ],
         [
-          "Intelektualna igra in ironija",
-          "Črnilo vsebuje možne lovce, pesnica pa lahko njihovo kroglo ustavi. Zabaven primer vodi do resnega vprašanja, kaj lahko umetnost prihrani času."
+          "Igra s časom",
+          "Lovci v kaplji črnila. Pisanje lahko ustavi njihovo kroglo v letu."
+        ]
+      ],
+      "crit": [
+        [
+          "Pesem o nastajanju pesmi",
+          "Srna, gozd in nevarnost nastanejo iz zapisanih besed. Pridevnik »napisana« opozori na to že na začetku."
+        ],
+        [
+          "Ustavljeni strel",
+          "Pesnica lahko ustavi kroglo v letu. Čas zapisanega prizora je odvisen od njene odločitve."
+        ],
+        [
+          "Umetnost in minljivost",
+          "Pisanje ohrani trenutek za poznejšega bralca. Pesnica sama ostaja umrljiva."
+        ]
+      ],
+      "material": [
+        "Izmišljeni prizor lova, ki nastaja s pisanjem."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Moč pisanja in meja človeškega življenja."
+        ],
+        [
+          "Ideja",
+          "Zapis ohrani trenutek po smrti pisca."
+        ]
+      ],
+      "motifs": [
+        "Napisan gozd, srna, črke in ustavljena krogla."
+      ],
+      "notes": [
+        [
+          "Srna in gozd iz besed. Vprašanja ustvarijo občutek pravega prizora."
+        ],
+        [
+          "Črke in stavki kot zasledovalci. Nevarnost nastaja s pisanjem."
+        ],
+        [
+          "Lovci v kaplji črnila. Pero jim odpre pot do srne."
+        ],
+        [
+          "Krogla obstane med letom. Pisec nadzoruje čas zgodbe."
+        ],
+        [
+          "Čas iz znakov proti času zunaj papirja. Napisani svet ima drugačne zakone."
+        ],
+        [
+          "Smrtna roka in trajnejši zapis. Umetnost lahko ohrani hip."
         ]
       ]
     },
     "35": {
-      "crit": [
-        "Govorka na začetku trdi, da ne pričakuje znamenja, vendar vztrajno uporablja besede o čudežu in angelu. Izbira besed pokaže hrepenenje po odgovoru sveta, ki ga ne more zahtevati.",
-        "Sijaj mize in mokrega perja da običajnim stvarem natančno nalogo. Vran ji za trenutek dvigne veke, zato se sprememba začne v pozornosti in šele nato zadeva razpoloženje.",
-        "Beseda »bežen« ob mejah kitic podaljša hip, ki ga označuje kot kratkega. Sklepno čakanje ohrani možnost novih trenutkov in njihovo nepredvidljivost."
-      ],
       "periodTraits": [
         [
           "Povojna osebna lirika",
-          "Zasebno občutje pesem razvije iz opazovanja mokrega vrana in iz pripovedovalkine pripravljenosti, da v prizoru zazna kratko spremembo."
+          "Moker vran in kratek premik v notranjem razpoloženju."
         ],
         [
-          "Zadržan odnos do razodetja",
-          "Veliki podobi čudeža in angela stojita ob navadnih predmetih ter ptici. Za hip vznikne občutek smisla, pesem pa mu ohrani krhkost in dvom."
+          "Zadržano upanje",
+          "Čudež in angel ob vsakdanjih predmetih. Smisel se pokaže le za hip."
+        ]
+      ],
+      "crit": [
+        [
+          "Vran in čudež",
+          "Moker vran pritegne pogled. Majhen vsakdanji trenutek za kratek čas spremeni razpoloženje govorke."
+        ],
+        [
+          "Čakanje in upanje",
+          "Angel in čudež kot podobi redkega smisla. Govorka ne ve, kdaj se bo tak trenutek ponovil."
+        ]
+      ],
+      "material": [
+        "Vran v dežju in notranje doživljanje govorke. Zbirka The Colossus."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Upanje na kratko olajšanje sredi otopelosti."
+        ],
+        [
+          "Ideja",
+          "Navaden prizor je lahko trenutek lepote, ki ga ni mogoče izsiliti."
+        ]
+      ],
+      "motifs": [
+        "Moker vran, dež in listje.",
+        "Sijaj, čudež in angel."
+      ],
+      "genre": [
+        "Osebnoizpovedna lirika v osmih kiticah.",
+        "Stavki se pogosto nadaljujejo čez mejo kitice. Kratek premor pri besedi »bežen«."
+      ],
+      "notes": [
+        [
+          "Moker vran si ureja perje. Povsem vsakdanji prizor."
+        ],
+        [
+          "Padajoče listje brez znamenja. Govorka ne pričakuje posebnega dogodka."
+        ],
+        [
+          "Priznana želja, da bi ji svet kdaj odgovoril."
+        ],
+        [
+          "Miza in stol za hip zasijeta. Nebeški ogenj kot primerjava za spremembo pogleda."
+        ],
+        [
+          "Previdno upanje na lep trenutek tudi v neprijaznem okolju."
+        ],
+        [
+          "Angel kot pričakovano znamenje. V resničnem prizoru le vran, ki pritegne pogled."
+        ],
+        [
+          "Kratko olajšanje in upanje, da se bo razpoloženje še izboljšalo."
+        ],
+        [
+          "Govorka podvomi v čudež, vendar še naprej čaka na redek trenutek."
         ]
       ]
     },
     "36": {
-      "crit": [
-        "Nedoločniki puščajo izvajalca odprtega, zato kitice delujejo kot življenjske drže, uporabne za več ljudi. Njihovo zaporedje vodi od vztrajanja ob pritisku do priprave na konec.",
-        "Jok trte po rezi je znak poškodbe in hkrati predhodnik rasti. Primera daje žalovanju možnost nadaljevanja, ne da bi ga odstranila.",
-        "Zadnje spanje začne sanje o Jurjevem. Posameznikova minljivost se v sklepni podobi sreča s pomladjo, v kateri se obnova nadaljuje."
-      ],
       "periodTraits": [
         [
-          "Pozna meditativna lirika",
-          "Izbiranje osnovnih glagolov strne izkušnjo življenja v odločitve in drže. Glagoli na začetku posameznih delov pomenijo dejanja, ki jih lahko prevzame tudi drug človek."
+          "Meditativna lirika",
+          "Nedoločniki na začetku delov. Kratka dejanja in drže namesto življenjske zgodbe."
         ],
         [
-          "Pogovor z izročilom",
-          "Podoba Jurjevega na koncu odpre pomladno obnovo. Osebni premislek o minljivosti se tako poveže s starim obrednim praznovanjem začetka rastne dobe."
+          "Ljudsko izročilo",
+          "Jurjevo, pomlad in nova rast ob misli na smrt."
+        ]
+      ],
+      "crit": [
+        [
+          "Nedoločniki",
+          "Začetni glagoli označijo različne življenjske drže, od vztrajanja do priprave na konec."
+        ],
+        [
+          "Jok trte",
+          "Sok po rezi spominja na solze. Ista podoba napove novo rast po poškodbi."
+        ],
+        [
+          "Jurjevo",
+          "Pomladni praznik in obnova narave. Ob misli na konec življenja ostane možnost nove rasti."
+        ]
+      ],
+      "material": [
+        "Navezava na pesem Glagoli, zbirka Dediščina in podobe podeželja."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Vztrajanje ob bolečini in sprejemanje konca življenja."
+        ],
+        [
+          "Ideja",
+          "Po posameznikovem koncu se naravni krog nadaljuje."
+        ]
+      ],
+      "motifs": [
+        "Solze, jok trte, spanje in Jurjevo."
+      ],
+      "genre": [
+        "Osebnoizpovedna pesem v prostem verzu.",
+        "Nedoločniki na začetku kitic razdelijo pesem na kratke življenjske drže."
+      ],
+      "notes": [
+        [
+          "Pokončna drža ob pohvali ali ponižanju. Luč in blato kot nasprotje."
+        ],
+        [
+          "Bolečina kot spremljevalka. Molk kot zadrževanje njene moči."
+        ],
+        [
+          "Solze in sok trte po rezi. Žalost in rana pred novo rastjo."
+        ],
+        [
+          "Igralec s klovnovskim obrazom da na odru vse od sebe."
+        ],
+        [
+          "Mirna pripravljenost na konec in urejanje obveznosti."
+        ],
+        [
+          "Spanje kot smrt. Jurjevo in sanje o pomladi kot podoba nove rasti."
         ]
       ]
     },
     "37": {
-      "crit": [
-        "Stene neba so prostorsko protislovje. Puščava je odprta, deček pa je v njej izpostavljen pogledu starcev in sovražnim silam narave. Nevarnost se nadaljuje podnevi in ponoči.",
-        "Z vsako ponovitvijo razpadanja ostane manj od ptic, ki so pred tem zakrile nebo. Izpuščanje nove jate po razpadu spremeni ponovitev v obliko trmastega vztrajanja.",
-        "Ptice lahko pomenijo ustvarjanje ali upanje. Prvo branje poudari dejanje, s katerim deček nekaj pošlje v svet, drugo pa dejstvo, da brez njih v puščavi nima več opore."
-      ],
       "periodTraits": [
         [
-          "Povojna eksistencialna lirika",
-          "Samotna postava v puščavi se znajde med grožnjami. Ponavljajoča se izguba ptic oblikuje občutek, da upanje zahteva vedno nov napor."
+          "Eksistencialna lirika",
+          "Osamljena postava v puščavi. Vztrajanje kljub ponavljajoči se izgubi ptic."
         ],
         [
-          "Sodobna simbolna in ekspresivna podoba",
-          "Sonce in zvezde sta v pesmi nevarna, ptice pa se razkrojijo. S tem Zajc preoblikuje prepoznavne naravne podobe v prizor groze in ranljivosti."
+          "Simbolna govorica",
+          "Sonce in zvezde kot grožnja. Ptice kot podoba upanja ali ustvarjanja."
+        ]
+      ],
+      "inlineEdition": true,
+      "crit": [
+        [
+          "Odprta puščava in ujetost",
+          "Stene neba ustvarijo občutek zapora. Starci opazujejo dečka, sonce in zvezde ogrožajo njegove ptice."
+        ],
+        [
+          "Ptice in vztrajanje",
+          "Ptice kot podoba upanja ali ustvarjanja. Deček po njihovem propadu znova izpusti jato."
+        ]
+      ],
+      "material": [
+        "Izmišljena puščava in samotna otroška postava. Zbirka Jezik iz zemlje iz leta 1961."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Vztrajanje ob uničevanju tistega, kar daje upanje."
+        ],
+        [
+          "Ideja",
+          "Deček kljub izgubam vedno znova pošlje ptice v svet."
+        ]
+      ],
+      "motifs": [
+        "Puščava, starci, sonce, zvezde in ptice.",
+        "Pepel in steklene kosti."
+      ],
+      "notes": [
+        [
+          "Odprta puščava s stenami neba. Občutek ujetosti in žalosti."
+        ],
+        [
+          "Kačje sledi kot znak grožnje. Deček zaradi ptic ostane."
+        ],
+        [
+          "Starci kot ujede. Njihov pogled in dečkova izguba glasu."
+        ],
+        [
+          "Ptice so dečkova edina last. Izpusti jih in prekrijejo nebo."
+        ],
+        [
+          "Sonce kot napadalec. Ponavljanje »razpadejo« vodi od perja do pepela."
+        ],
+        [
+          "Zvezde uničujejo ptice tudi ponoči. Pepel prekrije pokrajino in dečkova usta."
+        ],
+        [
+          "Deček znova izpusti ptice. Njegovo vztrajanje kljub samoti in izgubam."
         ]
       ]
     },
@@ -2431,10 +4353,6 @@ window.STUDY = {
         "Bubi odide z družino, ki mora zapustiti Švico. V Jugoslaviji se mora orientirati v kraju očetovega rodu in v jeziku, ki ga slabo razume. Družina nato živi v Ljubljani.",
         "Revščina, očetova bolezen in okupacija se kažejo skozi stanovanja, obroke in spore odraslih. Bubi se uči slovenščine in opazuje, kako politične razlike posežejo v družino.",
         "Povojni izgon zadene del družine, Bubi pa ostane. Pripoved te dogodke povezuje z drobci spomina, natančnimi zaznavami in poznejšim odnosom do jezika."
-      ],
-      "crit": [
-        "Otroški pripovedni pogled ne more imeti celotnega zgodovinskega znanja. Okupacijo in izgon zazna prek sob, tega, kar odrasli lahko pripravijo za obrok, in njihovega govora. Zgodovina je zato vpeta v materialne podrobnosti.",
-        "Slovenščina jezikovno zmanjša razdaljo do novega okolja in postane sredstvo, s katerim lahko pripovedovalec pozneje opiše tujstvo. Pripadnost, ki jo doseže v pisanju, ne izbriše izkušnje izgube."
       ],
       "cast": [
         [
@@ -2488,13 +4406,39 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Avtobiografska povojna proza",
-          "Bubijeva zgodba je povezana z izkušnjo avtorja. Selitev iz Švice in izgon po vojni velike politične dogodke pokažeta skozi izkušnjo ene družine."
+          "Avtobiografska proza",
+          "Selitev iz Basla in izgon skozi izkušnje avtorjeve družine."
         ],
         [
-          "Modernistična perspektiva",
-          "Otroški pogled ne more zajeti celotnega položaja odraslih. Prostori, preskrba in prehajanje med jeziki razkrivajo razmere postopoma, kakor jih zaznava Bubi."
+          "Modernistični pogled",
+          "Omejeno otroško razumevanje zgodovine. Prostori, hrana in jeziki kot sledi družbenega položaja."
         ]
+      ],
+      "crit": [
+        [
+          "Zgodovina skozi otroške oči",
+          "Bubi okupacijo in izgon razume prek prostora, hrane in govora odraslih."
+        ],
+        [
+          "Jezik in tujstvo",
+          "Slovenščina mu pomaga pri vključevanju in poznejšem pisanju o izgubi doma ter selitvah."
+        ]
+      ],
+      "material": [
+        "Kovačičeva selitev iz Basla, odraščanje v Sloveniji in povojni izgon družine."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Tujstvo, pripadnost in spomin na otroštvo."
+        ],
+        [
+          "Ideja",
+          "Novi jezik daje Bubiju možnost pripadnosti in pripovedovanja o izgubi."
+        ]
+      ],
+      "motifs": [
+        "Dom, začasne sobe, hrana, jeziki in selitve."
       ]
     },
     "39": {
@@ -2502,10 +4446,6 @@ window.STUDY = {
         "Tjaž izgubi mater in se naveže na babico. V dijaškem domu strog red določa način molitve, gibanja in tišine.",
         "Tjaž se izraža s praskanjem. Najprej poseže v drobne predmete, pozneje z vrstniki poškoduje kipe v cerkvi. Bližina z Nini za nekaj časa odpre življenje zunaj pravil.",
         "Tjažev upor se izteče v smrti po skoku z višine. Zavod organizira slovesen pogreb in s tem v javnem obredu spet prevzame govor o njem."
-      ],
-      "crit": [
-        "Med obredom fant premakne le roko, toda s praskanjem že preoblikuje predmet. Pri kipih ista gesta poseže v podobo, ki naj bi bila nedotakljiva. Sprememba predmeta pokaže stopnjevanje spora.",
-        "Ustanova se na koncu izrazi z urejenim pogrebnim govorom. Razdrobljenost, preskoki in besedne iznajdbe romana odpirajo prav izkušnjo, ki jo tak govor skuša vključiti v enotno razlago."
       ],
       "cast": [
         [
@@ -2559,12 +4499,12 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Povojna modernistična proza",
-          "Razdrobljeno pripoved in besedne iznajdbe lahko beremo ob zavodskem govoru, ki bi Tjaževo življenje rad pojasnil enoznačno. Pogrebni govor je jasen primer tega razhajanja."
+          "Modernistična proza",
+          "Razdrobljenost in besedne iznajdbe ob urejenem zavodskem pogrebnem govoru."
         ],
         [
-          "Koroška slovenska izkušnja",
-          "Izkušnja manjšinskega okolja se poveže z vprašanjem vzgoje in pripadnosti. Tjaževo praskanje prebije obredni red ustanove, ki zahteva nadzor tudi nad majhnimi kretnjami."
+          "Koroški manjšinski prostor",
+          "Katoliški zavod in vprašanje pripadnosti. Praskanje razbije njegov obredni red."
         ]
       ],
       "periodSources": [
@@ -2572,6 +4512,32 @@ window.STUDY = {
           "https://beletrinadigital.si/e-knjiga/zmote-dijaka-tjaza",
           "Zmote dijaka Tjaža · izdaja Beletrine"
         ]
+      ],
+      "crit": [
+        [
+          "Praskanje kot upor",
+          "Tjaž med obredom s praskanjem poseže v prepovedano. Nadaljuje tudi pri kipih."
+        ],
+        [
+          "Zavodski govor",
+          "Urejen pogrebni govor ponuja eno razlago Tjaža. Razdrobljena pripoved pokaže njegovo stisko iz več strani."
+        ]
+      ],
+      "material": [
+        "Koroško podeželje, manjšinsko okolje in katoliški dijaški dom."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Tjažev upor proti nepopustljivemu zavodskemu redu."
+        ],
+        [
+          "Ideja",
+          "Zavod obsodi prestope, fantova stiska pa ostane neopažena."
+        ]
+      ],
+      "motifs": [
+        "Praskanje, kipi, maša in pogreb."
       ]
     },
     "40": {
@@ -2596,11 +4562,6 @@ window.STUDY = {
           "Prišlek, ki ga obravnavajo kot Chopina, sede h klavirju. Zaigra naslovni valček, drugi pa obstanejo.",
           "Glasba traja tudi po padcu zavese. Sistem lahko sprejme novega človeka, glasba pa ohrani dvoumno razmerje med ukazom in občutkom svobode."
         ]
-      ],
-      "crit": [
-        "Zavod zamenja metaforo za zdravniško dejstvo. Najprej izenači zgodovinarja s predmetom raziskave, nato z nasiljem ustvari telesni dokaz za svojo trditev. Vzrok in posledica sta zamenjana na način, ki ga uradni jezik lahko prikrije.",
-        "Vloga Volodje razkriva razliko med položajem v hierarhiji in oblastjo, ki jo nekdo dejansko izvaja. Zdravnik ima uradno vednost, bolničar pa odloči, kaj besede pomenijo za telo drugega človeka.",
-        "Valček je del urejenega bolnišničnega obreda in hkrati glasba, ki se ne konča z odrom. Ta dvojnost dopušča branje plesa kot prisile ter glasbe kot nečesa, kar ustanove ne morejo povsem razložiti."
       ],
       "cast": [
         [
@@ -2654,16 +4615,16 @@ window.STUDY = {
       ],
       "periodTraits": [
         [
-          "Groteskna povojna drama",
-          "Zavod zgodovinarja enači s predmetom njegove raziskave. Uradno prepričanje spremeni v telesno dejstvo z odvzemom noge, zato pravilo ustanove dobi groteskno logiko."
+          "Povojna groteska",
+          "Zavod vidi v Simonu nekoga drugega. Napačno diagnozo uresniči z odvzemom noge."
         ],
         [
-          "Kritika nadzora",
-          "Zdravniški govor in bolničarjeva dejanska moč pokažeta, kako ustanova razpolaga z življenjem varovancev. Odločitev o tem, kdo je Simon, je prepuščena tistim, ki mu odvzamejo glas."
+          "Kritika ustanove",
+          "Diagnoza daje uradno moč zdravniku. Bolničar z nadzorom telesa prevzame dejansko oblast."
         ],
         [
-          "Odprt sklep",
-          "Valček in prihod pianista nakažeta, da se lahko nastavljeni vzorec ponovi. Glasba na koncu obenem dopušča branje, da pomena vseh odzivov zavod ne obvladuje."
+          "Odprt konec",
+          "Novi pianist in valček nakažeta ponovitev prisile."
         ]
       ],
       "periodSources": [
@@ -2671,323 +4632,768 @@ window.STUDY = {
           "https://veza.sigledal.org/uprizoritev/veliki-briljantni-valcek",
           "Veliki briljantni valček · osebe in uprizoritev"
         ]
+      ],
+      "crit": [
+        [
+          "Diagnoza in nasilje",
+          "Zavod Simona enači z zgodovinsko osebo brez noge. Z odvzemom noge potem ustvari telesni dokaz za svojo trditev."
+        ],
+        [
+          "Uradna in dejanska oblast",
+          "Zdravnik ima uradno pristojnost. Bolničar Volodja odločitve izvaja in si prilasti oblast nad varovanci."
+        ],
+        [
+          "Valček in odprti konec",
+          "Glasba spremlja zavodsko prisilo. Novi pianist v sklepu nakaže, da se vzorec lahko ponovi."
+        ]
+      ],
+      "material": [
+        "Poljski vstajnik Drohojowski, zaprta ustanova in Chopinova glasba."
+      ],
+      "meaning": [
+        [
+          "Tema",
+          "Prisilna sprememba identitete in nadzor ustanove."
+        ],
+        [
+          "Ideja",
+          "Zavod prikrije nasilje z diagnozo in besedami o zdravljenju."
+        ]
+      ],
+      "motifs": [
+        "Odvzeta noga, valček in ime zavoda Svoboda osvobaja."
+      ],
+      "genre": [
+        "Moderna groteskna drama z elementi absurda.",
+        "Krožna zgradba: prisila na začetku, valček in nov prišlek na koncu.",
+        "Uradna diagnoza spremeni človekovo življenje, čeprav izvira iz zamenjave identitete."
       ]
     }
   },
   "topics": {
     "1": {
       "facts": [
-        "Ep je obsežna pripoved v verzih. Dogajanje ima težo za skupnost in junakova izbira lahko spremeni njen položaj. Ustno tradicijo podpirajo stalni pridevki in ponovljive prizorne sheme, na primer priprava na boj.",
-        "Antični ep uporablja heksameter ter povezuje človeško dejanje z božjim posegom. Rimski ep lahko pojasnjuje izvor države. Srednjeveški junaški ep preuredi junaštvo v okvir vere in vdanosti, alegorični ep pa spremeni potovanje v moralno učenje."
+        [
+          "Ep",
+          "Dolga pripoved v verzih. Pomemben dogodek za junaka in skupnost."
+        ],
+        [
+          "Antični ep",
+          "Heksameter, junaštvo, bogovi, stalni pridevniki in ponavljajoči se prizori."
+        ],
+        [
+          "Srednjeveški ep",
+          "Junaški ep: zvestoba gospodu in veri. Alegorični ep: potovanje kot moralno učenje."
+        ]
       ],
       "examples": [
-        "Gilgameš po Enkidujevi smrti išče nesmrtnost. Ahila vrne v boj Patroklova smrt, toda razplet prinese pogreb sovražnika. Vergilov Enej vodi prihodnje ljudstvo, Dante pa potuje, da bi se naučil presojati življenje in krivdo."
+        "Gilgameš: po Enkidujevi smrti iskanje nesmrtnosti.",
+        "Iliada: po Patroklovi smrti vrnitev v boj.",
+        "Eneida: prihodnje rimsko ljudstvo.",
+        "Božanska komedija: moralna pot skozi onstranstvo."
       ]
     },
     "2": {
       "facts": [
-        "Sveto pismo je zbirka besedil iz različnih obdobij in jezikov, ki se je oblikovala v več verskih izročilih. V njem so pesmi, zakoniki, preroški govori, pripovedi, pisma in evangeliji. Pri branju je pomembna razlika med namenom besedila in njegovo literarno obliko.",
-        "Biblijski paralelizem razvije misel v dveh ali več členih. Prilika je kratka pripoved, katere konkretni dogodek poslušalca vodi k splošnejšemu vprašanju. Prevodi so posameznim jezikom dali obsežna besedila in utrjevali besedišče."
+        [
+          "Biblija",
+          "Zbirka knjig Stare in Nove zaveze. Verska, kulturna in literarna vloga."
+        ],
+        [
+          "Književne oblike",
+          "Psalmi, pridige, zakoni, evangeliji, prilike in pisma. Paralelizem: ista ali nasprotna misel v sorodnih členih."
+        ],
+        [
+          "Pomen prevodov",
+          "Razvoj knjižnih jezikov, širitev pismenosti in skupno besedišče."
+        ]
       ],
       "examples": [
-        "Lukova prilika o izgubljenem sinu v družinskem sporu zastavi vprašanje odpuščanja. Dalmatinova Biblija iz leta 1584 je prvi celotni slovenski prevod. Svetopisemski motiv človeške krivde in odrešenja soustvarja tudi Dantejev posmrtni svet."
+        "O izgubljenem sinu: družinska zgodba kot prilika o odpuščanju.",
+        "Dalmatinova Biblija iz leta 1584: prvi celovit slovenski prevod.",
+        "Dante: krivda in odrešenje v posmrtnem svetu."
       ]
     },
     "3": {
       "facts": [
-        "Antična tragedija nastane v okviru praznika in vključuje zbor. Odločilna dejanja so lahko pred začetkom predstave, njihovi dokazi pa prihajajo prek prič. Prizori izostrijo razmerje med posameznikom, mestom, bogovi in družinsko dolžnostjo.",
-        "Renesančna tragedija ohrani padec pomembne osebe, vendar elizabetinski oder dopušča več krajev, različne registre in neposreden govor o notranjih dvomih. V tragediji maščevanja ima junak častno nalogo, katere izvršitev zahteva odločitev in dokaz."
+        [
+          "Antična tragedija",
+          "Dionizije, mitološka snov, zbor in sočutje ter strah. Pomembna prepoznanje in preobrat."
+        ],
+        [
+          "Renesančna tragedija",
+          "Več prizorišč, dialog, samogovor in raznolikost prizorov. Pogosta tema maščevanje."
+        ],
+        [
+          "Skupno",
+          "Spor, pri katerem odločitev vpliva na junaka in njegovo skupnost. Pogost tragični padec."
+        ]
       ],
       "examples": [
-        "Ojdip sam sproži preiskavo svojega dejanja. Hamlet z igralci poustvari umor, nato na napačno domnevo reagira pri zavesi. Obe drami zgradita tragičen preobrat iz informacij, do katerih ima junak le delen dostop."
+        "Kralj Ojdip: preiskava razkrije junakovo krivdo.",
+        "Hamlet: Mišelovka za potrditev suma, nato nepreverjen udarec za zaveso."
       ]
     },
     "4": {
       "facts": [
-        "Komedija uporabi neujemanje med pričakovanjem in dejanjem. Situacijska komika nastane iz razporeditve vednosti, besedna iz jezika, značajska iz ponavljajoče se poteze. Te vrste pogosto delujejo skupaj.",
-        "Antična komedija sega od politične satire do družinskega zapleta. Stalni tipi, preobleke in prepoznanja se prek rimske komedije razvijajo v poznejši evropski tradiciji. Sodobna komika se lahko veže na absurdno ponavljanje ali grotesko in pusti konec odprt."
+        [
+          "Antika",
+          "Stara komedija: javna satira in izrazit zbor. Nova: ljubezenski in družinski zaplet, prepoznanja in tipi oseb."
+        ],
+        [
+          "Klasicizem in razsvetljenstvo",
+          "Kritika človeških slabosti in družbenih privilegijev. Besedna, značajska in situacijska komika."
+        ],
+        [
+          "Sodobnost",
+          "Satira, groteska in absurd. Tudi nelagoden smeh in odprti konci."
+        ]
       ],
       "examples": [
-        "Orgon pod mizo prvič sliši Tartuffovo drugo govorico. Pri Linhartu baron narobe prepozna žensko zaradi njene obleke, pri Grumu pa pričakovanje senzacije dobi grotesken učinek."
+        "Tartuffe: Orgon pod mizo in Tartuffova maska pobožnosti.",
+        "Matiček: preobleka in napačna prepoznava.",
+        "Goga: groteskno čakanje na senzacijo."
       ]
     },
     "5": {
       "facts": [
-        "Srednjeveško pismenstvo je povezano s cerkvijo, dvorom in pozneje mesti. Latinščina je dolgo jezik ustanov, besedila v ljudskem jeziku pa lahko dosežejo tiste, ki latinščine ne obvladajo.",
-        "Verska dela vključujejo pridige, molitve, legende in liturgične igre. Posvetni del zajema trubadursko liriko, viteško pripoved in junaške epe. Na Slovenskem so ohranjeni zgodnji slovenski verski rokopisi, medtem ko je velik del posvetnega ustvarjanja krožil ustno."
+        [
+          "Pismenstvo",
+          "Samostani, cerkev in dvor. Latinščina ter širitev pisanja v ljudskih jezikih."
+        ],
+        [
+          "Verska književnost",
+          "Molitve, pridige, legende in verske igre. Na Slovenskem molitveni in pridigarski rokopisi."
+        ],
+        [
+          "Posvetna književnost",
+          "Trubadurska lirika, viteški romani, junaški epi in poznejše novele."
+        ]
       ],
       "examples": [
-        "Brižinski spomeniki vsebujejo spovedna obrazca in pridigo. V Dantejevi Komediji posmrtni svet dobi krog, stopnjo in pripovedni potek s pomočjo strukturirane alegorije."
+        "Brižinski spomeniki: spovedna obrazca in pridiga.",
+        "Božanska komedija: pot skozi urejen krščanski posmrtni svet."
       ]
     },
     "6": {
       "facts": [
-        "Novela zgosti čas, število oseb in osrednji konflikt. Pogosto ima obrat, v katerem isti dogodek ali predmet dobi nov pomen. Okvirna pripoved več novel poveže prek pripovedovalcev ali skupnega kraja pripovedovanja.",
-        "Realistična novela poveže odločilni dogodek z družbenim okoljem. Moderna novela lahko preobrat postavi že na prvo stran ali ga pusti brez običajne razlage. Pri kratkih oblikah so pomembni izbor drobcev, glavni motiv in sprememba razmerja med osebami."
+        [
+          "Novela",
+          "Krajša pripoved z malo osebami, osrednjim dogodkom in pogosto presenetljivim razpletom."
+        ],
+        [
+          "Renesansa",
+          "Vsakdanje življenje, okvirne zbirke in prepoznavni predmeti."
+        ],
+        [
+          "Realizem in modernizem",
+          "Realizem: družbeno okolje in posledice dejanja. Modernizem: nenavaden položaj, subjektivni pogled ali odprt konec."
+        ]
       ],
       "examples": [
-        "Federigov sokol se iz daru spremeni v oviro, ko Giovanna pove, po kaj je prišla. Pri Jurčiču obrok razkrije stotnikovo odvisnost od navade. Kafka postavi telesni preobrat na začetek in opazuje spreminjanje družine."
+        "Novela o sokolu: sokol kot predmet prošnje in gostija.",
+        "Telečja pečenka: izguba navade razkrije Bitičev značaj.",
+        "Preobrazba: nenavadni dogodek že na začetku."
       ]
     },
     "7": {
       "facts": [
-        "Sonet ima štirinajst verzov. Italijanski navadno razporedi dve kvartini in dve tercini, angleški tri kvartine in sklepni dvostišnik. Obrat je pomenski prehod, na primer od opisa k sodbi ali od spomina k nagovoru.",
-        "Petrarkistični sonet je razvil vpliven jezik ljubezni in odsotnosti. Poznejše rabe obliko razširijo k filozofski, politični ali družbeni snovi. Cikel daje enaki obliki več zaporednih pogledov na vprašanje."
+        [
+          "Oblika",
+          "14 verzov. Italijanski sonet: dva kvarteta in dve tercini. Angleški: trije kvarteti in dvovrstičnica."
+        ],
+        [
+          "Razvoj",
+          "Renesansa: ljubezenska izpoved. Romantika: hrepenenje, usoda in pesniško poslanstvo."
+        ],
+        [
+          "Sodobnost",
+          "Nove teme, svobodnejši jezik in možni odmiki od tradicionalnega metra ali rime."
+        ]
       ],
       "examples": [
-        "Petrarca v obeh kvartinah blagoslavlja kraj in rano, v tercinah prelije občutek v pisanje. Prešernovi Sonetje nesreče povežejo isto obliko z različnimi držami do doma, smrti in izgubljenega upanja."
+        "Petrarca: ljubezenski sonet in spomin na Lauro.",
+        "Prešeren: sonetna oblika za občutek izgube in stisko."
       ]
     },
     "8": {
       "facts": [
-        "Renesansa se začne v italijanskih mestih in se drugod razvije z odmiki. Humanizem preučuje antično izročilo, tisk omogoča širše razširjanje, dvor in mesto pa ustvarjata različne pogoje za delo pisca.",
-        "Na področju proze se razvija posvetna pripoved, v poeziji sonet, na odru javna poklicna gledališča. Posameznik lahko oblikuje pot skozi znanje, delo ali iznajdljivost, pri tem pa še vedno živi v verskem in stanovskem svetu."
+        [
+          "Zgodovinsko ozadje",
+          "Konec Bizanca, tisk, evropska pomorska odkritja in nova podoba vesolja."
+        ],
+        [
+          "Humanizem",
+          "Antiški jeziki in besedila, izobrazba, človekov razum in posameznik."
+        ],
+        [
+          "Književnost",
+          "Sonet, novela in razvoj gledališča. Posvetna ljubezen, družbeni odnosi in človekova izbira."
+        ]
       ],
       "examples": [
-        "Petrarca oblikuje osebni spomin v zahtevni obliki. Boccaccio v okvir pripovedovanja vključi trgovce, plemstvo in služabnike. Shakespeare razširi antične gledališke vzorce z menjavanjem prostorov in glasov."
+        "Sonet 61: čustvo in antični Amor.",
+        "Novela o sokolu: dvorjenje, premoženje in odločitev o poroki.",
+        "Hamlet: notranji dvom in svobodnejše gledališče."
       ]
     },
     "9": {
       "facts": [
-        "Slovensko liriko je treba spremljati od ustnih pesmi in verskega verza do tiskane avtorske poezije. V razsvetljenstvu pesem opravlja tudi poučno ali javno nalogo. Z romantiko se razširijo evropske oblike in individualni glas.",
-        "Moderna daje več prostora vtisu, ritmu in simbolu. V 20. stoletju se izkušnja razcepi med ekspresionistični izbruh, intimne govore, jezikovno igro in presojanje človekovega položaja. Po letu 1945 se smeri pogosto prekrivajo."
+        [
+          "Zgodnja lirika",
+          "Verska in ljudska pesem. Razsvetljenstvo: posvetna, poučna in domovinska poezija."
+        ],
+        [
+          "Romantika in moderna",
+          "Osebna izpoved in izpopolnjevanje oblik. Pozneje simboli, razpoloženjski vtisi in glasba jezika."
+        ],
+        [
+          "20. stoletje",
+          "Ekspresionizem, intimizem, eksistencialna lirika in jezikovni poskusi."
+        ]
       ],
       "examples": [
-        "Vodnikov nagovor ima javni namen, Prešernovo tnalo izraža utrujenost posameznika. Murn začne pri večernem zvoku, Kosovel pri viziji propada, Zajc pri ponavljajočem se prizoru osamljenega dečka."
+        "Prešeren: sonetna izpoved in pesniško poslanstvo.",
+        "Murn: večerni vtis in nemir.",
+        "Kosovel: ekspresionistična vizija Evrope.",
+        "Pavček in Zajc: minljivost ter vztrajanje."
       ]
     },
     "10": {
       "facts": [
-        "Slovenska dramatika se razvija iz obredne igre in pozneje iz uprizarjanja evropskih besedil. Razsvetljenska komedija uporabi sodobnejšo odrsko prakso, domači govor in družbeno kritiko.",
-        "Moderna razširi politično in psihološko razsežnost drame. Med vojnama lahko oder hkrati prikaže več prostorov, po vojni pa poetična drama, groteska in absurd preizkusijo tudi mejo med govorom in dejanskim nasiljem."
+        [
+          "Razsvetljenstvo",
+          "Začetek slovenskega posvetnega gledališča. Kritika družbenih privilegijev v komediji."
+        ],
+        [
+          "Moderna in medvojni čas",
+          "Socialni spori, satira, notranji konflikt in simboli. Ekspresionizem: tesnoba in groteska."
+        ],
+        [
+          "Po letu 1945",
+          "Poetična drama, absurd, groteska in kritika ustanov ter oblasti."
+        ]
       ],
       "examples": [
-        "Linhart pravdo in preobleko uporabi za stanovsko kritiko. Cankar z zborovanjem postavi na oder delo oblasti. Grum razdeli prostor, Jančar pa en jezikovni ukaz razvije do telesne posledice."
+        "Matiček: kritika plemiških privilegijev.",
+        "Hlapci: politična pokorščina.",
+        "Goga: razdeljeni oder in tesnoba.",
+        "Veliki briljantni valček: oblast zavoda."
       ]
     },
     "11": {
       "facts": [
-        "Klasicizem se opira na antična pravila, mero in jasnost. Francosko gledališče strožje ureja čas, kraj in dejanje. Med klasicističnim idealom oblike in komično rabo vsakdanjega značaja lahko nastane napetost.",
-        "Razsvetljenstvo poudari javno razpravo, razumsko presojo in vzgojo. Knjige, časopisi in saloni širijo zamisli o odgovornosti oblasti, verski strpnosti in odpravi privilegijev. Književnost uporablja satiro in kratko filozofsko pripoved."
+        [
+          "Klasicizem",
+          "Antiški zgled, pravila, jasna zgradba, tri enotnosti v dramatiki."
+        ],
+        [
+          "Razsvetljenstvo",
+          "Razum, izobrazba, kritika predsodkov in družbena korist književnosti."
+        ],
+        [
+          "Oblike",
+          "Klasicistična komedija in tragedija. Razsvetljenska satira, filozofska povest in poučno pisanje."
+        ]
       ],
       "examples": [
-        "Molière pokaže, kako se verski govor uporablja za zasebne koristi. Voltaire v Kandidu preizkuša na videz splošno veljaven nauk skozi niz neprijetnih posledic. Linhart domačemu občinstvu približa razsvetljensko kritiko stanov."
+        "Tartuffe: klasicistični zaplet in satira licemerstva.",
+        "Matiček: poučna družbena kritika in razum služabnikov."
       ]
     },
     "12": {
       "facts": [
-        "Romantika pogosto preizkuša, kaj človek stori z ideali ob razočaranju. Narava, preteklost in nadnaravno lahko oblikujejo doživljanje. Realizem sistematično poveže odločitve z ustanovami, družino, okoljem in denarjem.",
-        "Smeri se časovno prekrivata. Razlikuje ju tudi prevladujoče pripovedno gledišče: romantični glas lahko odkrito vrednoti svet pod vplivom hrepenenja, realistični roman sooči več družbenih presoj in uporablja postopke, kot je prosti odvisni govor."
+        [
+          "Romantika",
+          "Čustva, hrepenenje, narava, preteklost in svoboda. Pogoste krepke podobe in nasprotja."
+        ],
+        [
+          "Realizem",
+          "Vsakdanje okolje, verjetni dogodki, delo, denar in odnosi med družbenimi sloji."
+        ],
+        [
+          "Razlika v težišču",
+          "Pri romantiki spor z idealom. Pri realizmu okoliščine in opis posledic dejanj."
+        ]
       ],
       "examples": [
-        "Lermontovovo jadro želi nemir kljub mirnemu prizoru. Emma Bovary bere romantične vzorce, realistično zgrajeni roman pa njenim odločitvam doda pogodbe, menice in javni ugled."
+        "Jadro: želja po viharju kot podoba nemira.",
+        "Gospa Bovary: ljubezenske želje v svetu dolgov in provincialnih pravil."
       ]
     },
     "13": {
       "facts": [
-        "Slovenska romantika se oblikuje okoli Prešerna in Čopa, v stikih z evropskimi poetikami in ob omejenem domačem knjižnem trgu. Kranjska čbelica je ponudila prostor za zahtevnejšo poezijo. Pomembna sta tudi cenzura in spor o pisavi.",
-        "Poezija uporablja sonet, romanco, balado, elegijo in lirsko-epsko pesnitev. Vloga pesnika, življenjsko razočaranje in kulturni položaj jezika so različna vprašanja, ki se lahko srečajo v istem delu."
+        [
+          "Pesništvo",
+          "Osebna stiska, dom, ljubezen, svoboda in položaj pesnika."
+        ],
+        [
+          "Oblike",
+          "Sonet, sonetni venec, balada in romantična pesnitev."
+        ],
+        [
+          "Kulturna vloga",
+          "Razvoj slovenskega pesniškega jezika v krogu Prešerna in Čopa."
+        ]
       ],
       "examples": [
-        "Sonetje nesreče raziščejo dolgoročno stisko, Pevcu zgoščeno poveže trpljenje in ustvarjanje, Krst pri Savici pa v osebno zgodbo vključi nasilno versko in družbeno spremembo."
+        "Sonetje nesreče: dom, ječa in bolečina.",
+        "Pevcu: pesniško poslanstvo.",
+        "Krst pri Savici: narodna zgodovina in Črtomirjeva odpoved."
       ]
     },
     "14": {
       "facts": [
-        "Romantično hrepenenje pomeni trajno napetost med zaželenim življenjem in okoliščinami, ki ga omejujejo. Lahko meri na ljubljeno osebo, svobodo, dom, naravo ali skladnost sveta.",
-        "Narava lahko postane sogovornica, ogledalo čustva ali samostojna sila. Lirski subjekt je pomemben za izbor podob, njegovih sodb pa samodejno ne pripisujemo biografskemu avtorju. Nacionalne literature romantiko razvijajo v različnih političnih položajih."
+        [
+          "Ideje",
+          "Svoboda posameznika in naroda. Poudarek na domišljiji, čustvih in pesnikovi vlogi."
+        ],
+        [
+          "Teme",
+          "Neuresničena ljubezen, samota, hrepenenje in spor z družbo."
+        ],
+        [
+          "Podobe",
+          "Narava, daljava, spomin, ruševine in ljudsko izročilo. Narava pogosto sledi doživljanju govorca."
+        ]
       ],
       "examples": [
-        "Byron v Samoti spremeni pomen družbe in narave. Heine v Lorelaj poveže naravno nevarnost in lepoto, Prešernova Vrba pa domači mir oblikuje kot pogojno možnost."
+        "Byron: popotnik in samota.",
+        "Lermontov: nemir jadra.",
+        "Heine: lepota in nevarnost.",
+        "Prešeren: hrepenenje ter osamljen pesnik."
       ]
     },
     "15": {
       "facts": [
-        "Ep in roman organizirata obsežnejše pripovedno dogajanje. Ep ima tradicionalno verzno obliko in skupnostni pomen, roman se praviloma razvija v prozi in lažje spaja vsakdan, družbeni prostor in več pripovednih perspektiv.",
-        "V epu ponavljanje podpira spomin in slovesni ritem. Roman nima ene stalne sheme; lahko spremlja razvoj junaka, socialno mrežo, miselni tok ali sestavljanje spomina. Modernizem te lastnosti uporabi tudi pri predelavi epskih motivov."
+        [
+          "Ep",
+          "Dolga pripoved v verzih. Junaško dejanje s širšim pomenom za skupnost."
+        ],
+        [
+          "Roman",
+          "Daljša prozna pripoved. Razvoj oseb, družbeno okolje in več pripovednih postopkov."
+        ],
+        [
+          "Razmerje",
+          "Od opazovanja zunanjega dejanja do podrobnejšega prikaza notranjosti. Roman lahko prevzame epski mit."
+        ]
       ],
       "examples": [
-        "Iliado odpre Ahilova jeza, hkrati pa pripoved doseže vojske, domove in bogove. Joyce v Uliksesu s Homerjevo shemo poveže en dan, oglaševalca in mestne opravke."
+        "Iliada: boj, čast in skupnost.",
+        "Zločin in kazen: družbene razmere in notranjost storilca.",
+        "Ulikses: sodobni roman z epsko podlago Odiseje."
       ]
     },
     "16": {
       "facts": [
-        "Ljudsko slovstvo se prenaša s ponavljanjem in izvedbo. Različice so posledica prenosa, saj pripovedovalec lahko zaradi občinstva, pokrajine ali priložnosti spremeni potek ter izraz. Zapisi ohranijo izvedeno različico.",
-        "Umetna književnost lahko ljudski motiv prevzame, spremeni govorca ali čas, ali pa ga prenese v drug žanr. Razmerje med zapisom ljudske pesmi in avtorsko predelavo je pomembno pri primerjavi sklepov."
+        [
+          "Prenos",
+          "Ustno izročilo, neznano avtorstvo in različice. Pogosti ponavljanje, dvogovor in stalni pridevniki."
+        ],
+        [
+          "Vrste",
+          "Ljudska pesem, balada, pravljica, povedka in legenda."
+        ],
+        [
+          "Vpliv",
+          "Pisatelji prevzamejo motive, pravljične tipe, ritem ali jezik in jim dajo nov pomen."
+        ]
       ],
       "examples": [
-        "Lepa Vida v ljudskih različicah različno odhaja in se vrača. Pri Cankarjevi Lepi Vidi ime in motiv dobita širši pomen hrepenenja. Heine literarno oblikuje renško zgodbo o pevki na skali."
+        "Lepa Vida: različni razlogi za odhod in različni konci.",
+        "Poznejše predelave: motiv Vidinega hrepenenja v umetni književnosti."
       ]
     },
     "17": {
       "facts": [
-        "Realistična junakinja deluje v mreži zakonov, denarja, dela, zakona in javne sodbe. Njena izbira v romanu pogosto razkrije, koliko zasebno ravnanje pogojujejo možnosti, ki jih priznava okolje.",
-        "Avtor lahko pokaže položaj tudi z obliko pripovedi: prosti odvisni govor približa predstavo junakinje, druge epizode pa izpostavijo njene materialne posledice. S tem roman omogoči več presoj istega ravnanja."
+        [
+          "Družbeni položaj",
+          "Družina, zakon, dediščina, premoženje, delo in javni ugled."
+        ],
+        [
+          "Razlike med liki",
+          "Pritisk pravil in različne oblike odziva: prilagoditev, upor, iskanje ljubezni ali samostojnosti."
+        ],
+        [
+          "Pripovedni prikaz",
+          "Ženske kot posameznice z željami, omejitvami in konkretnimi posledicami odločitev."
+        ]
       ],
       "examples": [
-        "Flaubert poveže Emmin kredit, poroko in dolgočasje. Kersnikova Ančka z zakonom pridobi položaj, ki ga javna sodba lahko ogrozi. Ibsenova Alvingova preizkusi, kaj stane vzdrževanje ugleda."
+        "Emma Bovary: zakon, ideal ljubezni in dolg.",
+        "Gospa Alving: ugled in razkritje moževe preteklosti.",
+        "Sonja: gmotna stiska in moralna opora Raskolnikovu."
       ]
     },
     "18": {
       "facts": [
-        "Slovenska moderna se običajno umešča od leta 1899 do konca prve svetovne vojne. Njene smeri se prepletajo. Impresionizem poudari minljiv vtis, simbolizem povezavo med podobo in težje izrekljivim pomenom, dekadenca občutljivost in razkroj meril.",
-        "Lirika razišče jezik trenutka, proza poveže notranje doživetje z družbenim okoljem, drama razporedi spore med javne ustanove in zasebne odnose. Pri isti osebi se lahko prepletata socialna kritika in simbolno branje."
+        [
+          "Lirika",
+          "Povezovanje simbolizma, impresionizma in dekadence. Zgoščen jezik in notranji svet."
+        ],
+        [
+          "Proza",
+          "Črtica, novela, povest in roman. Družbena stiska skozi osebno doživljanje."
+        ],
+        [
+          "Drama",
+          "Satira, politični konflikt in zasebna vest. Simbolne ali groteskne prvine."
+        ]
       ],
       "examples": [
-        "Murnov večer iz zvokov in svetlobe odpre govor o nemiru. Cankarjev klanec je življenjski kraj in družbeni simbol, Hlapci pa soočijo javno načelo in družinsko odgovornost."
+        "Murn: večerni vtis v liriki.",
+        "Na klancu: simbol v romanu.",
+        "Hlapci: politični spor in zasebna vest v drami."
       ]
     },
     "19": {
       "facts": [
-        "Lirika slovenske moderne uporablja različne postopke. Impresionistična pesem odbira trenutne zaznave, simbolistična pa predmetu pusti pomen, ki presega dobesedni prizor. Pojem dekadenca se nanaša na poseben odnos do čutnosti, naveličanosti in razkroja vrednot.",
-        "Ritem, glasovna ponavljanja, barve in premori lahko sami oblikujejo razpoloženje. Opis narave zato pogosto odpre notranjo izkušnjo, ki v pesmi ni v celoti pojasnjena z izjavo."
+        [
+          "Impresionizem",
+          "Trenutni vidni in slušni vtisi, razpoloženje, narava."
+        ],
+        [
+          "Simbolizem",
+          "Podoba, ki dobi dodaten pomen. Namig in glasbena govorica."
+        ],
+        [
+          "Dekadenca",
+          "Izostrena čutnost, naveličanost in občutek konca starega reda."
+        ]
       ],
       "examples": [
-        "Pri Murnu glasovi v mraku spominjajo na vzdihe, mir noči pa izostri govorčev nemir. Župančičevo pesništvo lahko isti poudarek na ritmu izkoristi tudi v javnem ali razgibanem otroškem govoru."
+        "Murn: mrak, glasovi in notranji nemir.",
+        "Župančič: oblikovanje pesniškega ritma in zvoka."
       ]
     },
     "20": {
       "facts": [
-        "Pripovedništvo slovenske moderne poveže realistično konkretne razmere z notranjim doživljanjem. Črtica se zgosti okoli odločilnega spomina ali majhne kretnje, roman lahko isti simbol razporedi čez več življenjskih stopenj.",
-        "Perspektiva lahko omeji, koliko bralec razume o drugih osebah. Ob tem se v pripovedih pojavljajo revščina, položaj matere, hrepenenje in politična neenakost, pogosto s ponavljajočim se predmetom ali prizorom."
+        [
+          "Oblike",
+          "Črtica, novela, povest in roman."
+        ],
+        [
+          "Slog",
+          "Simboli, ponavljajoči se motivi in lirska govorica. Izbor dogodkov po doživljanju oseb."
+        ],
+        [
+          "Teme",
+          "Revščina, izključevanje, materinstvo, krivda in hrepenenje."
+        ]
       ],
       "examples": [
-        "Tek za vozom v Na klancu postane model Franckinih odraslih prizadevanj. V črtici Skodelica kave se krivda zbere v majhnem dejanju zavrnitve."
+        "Na klancu: voz in klanec kot ponavljajoča se simbola.",
+        "Cankarjeve črtice: krajši prizori in osebno doživljanje."
       ]
     },
     "21": {
       "facts": [
-        "Dramatika slovenske moderne povezuje socialno kritiko z vprašanjem posameznikove vesti. Cankar uporablja komedijo, satiro, realistično dramo in močne simbolne podobe. Odrski prostor omogoči, da je razlika med javnim in zasebnim govorom vidna.",
-        "Značaj se v drami pokaže ob konfliktu, ne samo v opisu. Didaskalije, gibi in premori določajo, kako občinstvo razume isto govorjeno izjavo."
+        [
+          "Dramatika moderne",
+          "Družbeni spor, razmerje posameznika do oblasti in politična satira."
+        ],
+        [
+          "Osebna razsežnost",
+          "Družina, vera, občutek krivde in vprašanje vesti."
+        ],
+        [
+          "Postopki",
+          "Realistični prizori, simbol, groteska in menjava javnega ter zasebnega prostora."
+        ]
       ],
       "examples": [
-        "Hlapci pokažejo, kako hitro učitelji po volitvah zamenjajo javno držo. Jermanov pogovor z materjo in župnikom nato političnemu vprašanju doda vprašanje vesti."
+        "Hlapci: javni zbor in zasebni prizor pri bolni materi.",
+        "Preplet politične satire, vere in občutka krivde."
       ]
     },
     "22": {
       "facts": [
-        "Družinski položaj ima v književnosti 19. stoletja pogosto izrazite materialne meje, kot so poroka, dedovanje in preskrba. Dela 20. stoletja tem vprašanjem dodajo vojne, izseljevanje in spomin na otroštvo.",
-        "Mati in oče sta lahko družbena položaja, konkretni osebi s potrebami ali podobi v spominu pripovedovalca. Njuno ravnanje presojamo tudi glede na to, kdo o njem govori in kaj tak pripovedovalec ve."
+        [
+          "Družbene razmere",
+          "Revščina, odsotnost zaradi dela, poroke in družinsko premoženje."
+        ],
+        [
+          "Materinski lik",
+          "Skrb in žrtev, pa tudi lastne želje, strah in nemoč."
+        ],
+        [
+          "Očetovski lik",
+          "Družinska oblast, zgled, odsotnost ali zapuščina. Vloga se razlikuje od dela do dela."
+        ]
       ],
       "examples": [
-        "Francka v Na klancu poskuša prehraniti otroke ob negotovem delu. Jermanova mati vpliva na njegovo vest. V Prišlekih je otrokova slika staršev povezana z jeziki, stanovanji, boleznijo in političnimi razmerami."
+        "Na klancu: materina skrb za izobrazbo otrok.",
+        "Visoška kronika: očetova dediščina in družinska krivda.",
+        "Prišleki: Vati in Muti v času selitve."
       ]
     },
     "23": {
       "facts": [
-        "Tradicionalno zgrajen roman teži k razpoznavni fabuli, razmeroma strnjenemu časovnemu loku in postopnemu razkrivanju oseb. Odmiki v preteklost so mogoči, vendar večinoma pomagajo pojasniti glavno dejanje.",
-        "Moderni roman preveri že samo pripovedovanje. Notranji monolog ubesedi misli, tok zavesti pa vključuje povezovanje zaznav, občutkov in spominov. Menjava sloga ali časovnega reda lahko spremeni, kateri dogodek sploh postane osrednji."
+        [
+          "Tradicionalni roman",
+          "Prepoznavna pripoved, povezana veriga dogodkov, jasen značaj oseb in opis družbe."
+        ],
+        [
+          "Moderni roman",
+          "Čas zavesti in spomina, več pogledov, notranji monolog in razdrobljenost."
+        ],
+        [
+          "Učinek",
+          "Bralec povezave med dogodki pogosto sestavi sam."
+        ]
       ],
       "examples": [
-        "Pri Flaubertu poteka Emmin življenjski in finančni propad v razmeroma razpoznavnem loku. Pri Proustu vrstni red določi spomin, pri Joyceevem sklepu pa združitev več časov v Mollyjinih mislih."
+        "Gospa Bovary: razmeroma povezana pripoved in Emmin pogled.",
+        "Combray: čas spomina.",
+        "Ulikses: tok zavesti in različni slogi."
       ]
     },
     "24": {
       "facts": [
-        "Tradicionalna drama pogosto poveže dejanja v napet lok od postavitve konflikta do njegovih posledic. Analitična zgradba razkriva pretekle dogodke v sedanjosti. Sintetična zgradba razvije ključne spremembe na odru od začetka naprej.",
-        "V moderni drami so lahko prostori hkratni, sklep odprt ali dogajanje krožno. Trikotnik pomaga opisati en konflikt, pri delih z več enakovrednimi zgodbami pa je treba posebej določiti, katerega opisuje."
+        [
+          "Tradicionalna drama",
+          "Osrednji konflikt, jasen razvoj dejanja in razplet. Dialog kot glavna pot do spremembe."
+        ],
+        [
+          "Moderna drama",
+          "Odprti konec, razdrobljen govor, simbolni prostor, groteska ali absurd."
+        ],
+        [
+          "Prehod",
+          "Realistična analitična drama uporablja sodobno okolje, sedanjost pa gradi iz starih konfliktov."
+        ]
       ],
       "examples": [
-        "Ibsen uporablja razkritja preteklosti pri sedanji krizi Alvingovih. Pri Grumu Hanin preobrat ne spremeni Goge. Pri Jančarju novi prišlek po vrhu omogoči ponovitev delovanja ustanove."
+        "Antigona: jasen osrednji konflikt in tragični razplet.",
+        "Strahovi: razkritje preteklosti.",
+        "Goga in Valček: groteska, odprti ali krožni zaključek."
       ]
     },
     "25": {
       "facts": [
-        "Bivanjska tema se nanaša na pogoje človekovega obstoja, med njimi smrt, samoto, izbiro in vztrajanje. Govorec jo lahko izreče, pogosto pa jo pesem oblikuje skozi predmet, ponovitev ali prostor.",
-        "Pri intimistični in eksistencialni pesmi se oseba umešča v svet brez gotove opore. Ritem, zamolki in odnos do naslovnika odločajo, ali prizor govori o vztrajanju, dvomu ali grožnji."
+        [
+          "Bivanjska tema",
+          "Samota, strah, smrt, minljivost in iskanje smisla."
+        ],
+        [
+          "Povojna lirika",
+          "Intimna izpoved in eksistencialne podobe. Različni odgovori na izgubo ali nesmisel."
+        ],
+        [
+          "Postopki",
+          "Simbol, prosti verz, ponavljanje in nenavadne podobe."
+        ]
       ],
       "examples": [
-        "Pavček oblikuje zaporedje drž z nedoločniki. Pri Zajcu se deček znova odloči izpustiti ptice, čeprav jih ne more obvarovati. Kosovel v Slutnji tesnobo razvije iz nekaj prostorskih zaznav."
+        "Črni deček: osamljenost in ponavljanje izgube.",
+        "Še enkrat glagoli: vztrajanje kljub bolečini in misel na konec."
       ]
     },
     "26": {
       "facts": [
-        "Sodobno slovensko pripovedništvo se odziva na vojno, povojne ustanove, migracije in spremembe v jeziku. Socialni, avtobiografski in modernistični postopki lahko v istem obdobju delujejo vzporedno.",
-        "Pripovedovalčeva omejena vednost pogosto postane vsebinski problem. Razdrobljen spomin, menjave gledišča in nenavaden besedni red omogočajo, da zgodovina pride v roman skozi osebno izkušnjo, predmet ali gesto."
+        [
+          "Povojne teme",
+          "Vojni spomin, družina, družbene spremembe, manjšina in tujstvo."
+        ],
+        [
+          "Oblike",
+          "Avtobiografski roman, modernistična proza in kratka pripoved."
+        ],
+        [
+          "Perspektiva",
+          "Otroški pogled, razdrobljen čas in zamejen spomin. Velika zgodovina skozi osebno izkušnjo."
+        ]
       ],
       "examples": [
-        "Pri Kovačiču je tujstvo povezano s spremembo jezika in prostora. Lipuš prek praskanja in strogih obredov razkrije življenje v zavodu. Kocbek v vojni noveli preizkusi odgovornost posameznika znotraj skupne zadeve."
+        "Prišleki: selitev in spomin skozi otroški pogled.",
+        "Zmote dijaka Tjaža: manjšinski prostor in zavodska disciplina."
       ]
     },
     "27": {
       "facts": [
-        "Kratko pripovedništvo obsega novelo, povest, kratko zgodbo in črtico. Meje niso ostre. Za novelo sta značilna zgoščen konflikt in obrat, za črtico posebej zgoščen vtis, spomin ali prizor.",
-        "Slovenska kratka proza se v 19. stoletju širi ob časopisju in tiskani kulturi. Moderna poveča vlogo notranjega pogleda. Poznejše zgodbe lahko skrajšajo dogajanje, povečajo težo manjkajočih podatkov in pustijo odprto točko presoje."
+        [
+          "Zgodnejša kratka proza",
+          "Povest, novela in črtica. Realizem: značaj ali družbeni problem v konkretnem dogodku."
+        ],
+        [
+          "Moderna in medvojni čas",
+          "Lirska črtica, simbol in socialni konflikt. Manj pomemben zunanji zaplet."
+        ],
+        [
+          "Sodobnost",
+          "Zgoščenost, nenavadni položaji, menjava pogleda in odprti konci."
+        ]
       ],
       "examples": [
-        "Jurčič poveže značaj z eno navado, Cankar strne krivdo v zavrnitev skodelice kave, pri Blatniku pa lahko vsakdanji dialog in zamolk držita celotno pripoved."
+        "Telečja pečenka: navada in značaj.",
+        "Cankarjeva črtica: simbol in osebni odziv.",
+        "Sodobna kratka proza: zgoščen prizor in odprt konec."
       ]
     },
     "28": {
       "facts": [
-        "Pisava je dogovor o zapisovanju glasov in drugih jezikovnih razlik. Nasledstvo med bohoričico in gajico vključuje tudi poskuse z metelčico in dajnčico. Njihove razlike zadevajo oblike črk, šumnike in razmerje med glasom in znakom.",
-        "Bohoričeva slovnica je leta 1584 opisala pisavo reformacijskih tiskov. V črkarski pravdi v 19. stoletju so se spopadli tudi pogledi na praktičnost tiska in na enotnost knjižne norme."
+        [
+          "Zgodnji zapisi",
+          "Latinica v Brižinskih spomenikih. Pozneje bohoričica iz časa reformacije."
+        ],
+        [
+          "19. stoletje",
+          "Poskusi prenove z dajnčico in metelčico. Uveljavitev gajice v štiridesetih letih 19. stoletja."
+        ],
+        [
+          "Danes",
+          "Slovenska latinica s črkami č, š in ž. Razlika med pisavo in pravopisnimi pravili."
+        ]
       ],
       "examples": [
-        "Bohoričica je šumnike zapisovala s kombinacijami črk. Gajica uporablja posebne črke č, š in ž. Takšna sprememba pisave sama po sebi ne spremeni glasov, ki jih zapisuje."
+        "Bohoričica: digrafi za glasove, ki jih danes pišemo s č, š in ž.",
+        "Gajica: po ena črka za vsak od teh glasov."
       ]
     },
     "29": {
       "facts": [
-        "Brižinski spomeniki so trije latinični slovenski zapisi v latinskem rokopisnem kodeksu. Dva sta spovedna obrazca, drugi spomenik pa pridiga o grehu in pokori. Nastanek besedil in čas ohranjenega prepisa sta ločeni vprašanji.",
-        "Raba jezika je funkcionalna: udeleženec obreda potrebuje besedilo, ki ga lahko izgovori in razume. Latinščina v istem kodeksu kaže, da je slovenščina vstopila v obstoječo pisno tradicijo."
+        [
+          "Trije zapisi",
+          "Dva spovedna obrazca in pridiga o grehu in pokori."
+        ],
+        [
+          "Čas in jezik",
+          "Približno 972–1039. Najstarejši ohranjeni slovenski zapisi v latinici."
+        ],
+        [
+          "Pomen",
+          "Dokaz zgodnje pisne rabe slovenščine v verskem okolju."
+        ]
       ],
       "examples": [
-        "Spovedna obrazca uporabljata govor osebe, ki priznava grehe. Pridiga razvija razlago in spodbuja poslušalce k ravnanju. V poznem srednjem veku Stiški rokopis kaže nadaljnjo rabo domačega jezika ob latinščini."
+        "Prvi in tretji spomenik: spovedni obrazec.",
+        "Drugi spomenik: pridiga o grehu in pokori."
       ]
     },
     "30": {
       "facts": [
-        "Reformacija je poudarila versko branje v domačem jeziku. Trubarjeva Katekizem in Abecednik iz leta 1550 sta začela slovensko tiskano knjižno tradicijo. Tisk zahteva izbiro zapisovalnih rešitev in besedišča za občinstva iz več pokrajin.",
-        "Dalmatinova Biblija in Bohoričeva slovnica iz leta 1584 sta opravili različni nalogi. Prevod je razširil obseg pisnega jezika, slovnica pa ga je sistematično opisala. Protireformacija je zmanjšala možnosti protestantskega tiska, vpliv jezika Biblije pa je ostal."
+        [
+          "Prve slovenske tiskane knjige",
+          "Trubarjeva Katekizem in Abecednik iz leta 1550."
+        ],
+        [
+          "Prevod in slovnica",
+          "Dalmatinova Biblija in Bohoričeva slovnica iz leta 1584."
+        ],
+        [
+          "Razvoj jezika",
+          "Knjižni jezik, tiskana besedila, črkopis in nove bralne navade."
+        ]
       ],
       "examples": [
-        "Katekizem posreduje verski nauk, Abecednik podpira opismenjevanje. Bohoričeva slovnica pomaga razložiti pisne rešitve, ki jih srečamo v Dalmatinovi Bibliji."
+        "Katekizem: verski nauk. Abecednik: opismenjevanje.",
+        "Dalmatinova Biblija: obsežna raba knjižne slovenščine. Bohoričeva slovnica: opis jezika."
       ]
     },
     "31": {
       "facts": [
-        "Razsvetljenski razvoj jezika zajame šolstvo, slovarje, slovnice in tisk. Pomembno je vprašanje, kako prilagoditi knjižno slovenščino novemu krogu bralcev ter jo uporabljati pri javnih in strokovnih temah.",
-        "Pohlinova slovnica in Kopitarjeva slovnica sodita v različni razvojni okoliščini. Zoisov krog, Linhart in Vodnik so prispevali k rabi jezika v gledališču, poeziji, časopisju in zgodovinopisju."
+        [
+          "Več javne rabe",
+          "Slovenščina v šoli, časopisu, priročniku, gledališču in posvetni poeziji."
+        ],
+        [
+          "Krogi in priročniki",
+          "Pohlinova slovnica, Pisanice, Zoisov krog in Kopitarjeva slovnica."
+        ],
+        [
+          "Prvi dosežki",
+          "Vodnikove Lublanske novice ter Linhartovi komediji."
+        ]
       ],
       "examples": [
-        "Vodnikove Lublanske novice širijo slovenščino v časopisje, Linhartova komedija v gledališki dialog. Pohlinova slovnica iz leta 1768 izrecno zagovarja vrednost jezika."
+        "Lublanske novice: jezik časopisa.",
+        "Linhartovi komediji: odrski dialog.",
+        "Pohlinova slovnica: opis jezika in zagovor njegove vrednosti."
       ]
     },
     "32": {
       "facts": [
-        "Romantiki se ukvarjajo z izbiro pisave, kulturo jezika in zmožnostjo slovenščine za zahtevno umetniško delo. Kranjska čbelica omogoči objavljanje poezije, ob kateri se razprava ne vrti več samo okoli osnovne razumljivosti.",
-        "Črkarska pravda se nanaša na način zapisovanja in avtoriteto nad knjižnim jezikom. Gajica se pozneje utrdi v praksi. Čop in Prešeren se zavzemata za stik z evropskimi književnimi oblikami in široko izraznost slovenščine."
+        [
+          "Književnost",
+          "Kranjska čbelica, razvite pesniške oblike ter Prešernov in Čopov kulturni program."
+        ],
+        [
+          "Pisava",
+          "Razprave o črkopisu, opuščanje bohoričice in uveljavitev gajice."
+        ],
+        [
+          "Javna raba",
+          "Časopisi, narodno gibanje in zahteva po širši rabi slovenščine."
+        ]
       ],
       "examples": [
-        "Prešeren v sonetih uporablja zahtevno obliko tudi za izkušnjo majhne vasi, osebnega poraza in pesniškega glasu. Izbira med zapisovalnimi sistemi pa je praktično vprašanje tiska in rabe."
+        "Kranjska čbelica: objave zahtevne poezije.",
+        "Prešernovi soneti: evropska oblika za domačo snov.",
+        "Črkarska pravda: praktične posledice izbire pisave."
       ]
     },
     "33": {
       "facts": [
-        "Knjižni jezik je nadregionalna oblika s pravopisom, slovnico in besediščem, ki omogoča sporazumevanje v javnih ustanovah in pisnih besedilih. Norma se skozi čas oblikuje ob rabi, priročnikih, šolstvu in lektoriranju.",
-        "Z razvojem medijev, strok, uprave in digitalnih besedil se razširja število področij, kjer je potrebna izbira izrazov. Različne javne okoliščine zahtevajo različno stopnjo formalnosti, zato knjižna raba ni povsem enotna po tonu."
+        [
+          "Knjižni jezik",
+          "Skupna in kodificirana zvrst. Raba v šoli, upravi, javnosti in medijih."
+        ],
+        [
+          "Razvoj",
+          "Ustaljevanje pravopisa, slovnic in slovarjev. Spreminjanje besedja ob novih področjih rabe."
+        ],
+        [
+          "Vloga",
+          "Sporazumevanje med govorci različnih narečij, izobraževanje in javno življenje."
+        ]
       ],
       "examples": [
-        "Uradna prošnja potrebuje razvidne podatke in vljuden nagovor, strokovni članek natančne izraze, javni govor pa stavke, ki jih je mogoče dobro spremljati pri poslušanju."
+        "Uradna prošnja: jasni podatki in primeren nagovor.",
+        "Strokovni zapis: natančni termini.",
+        "Javni govor: stavki, primerni za poslušanje."
       ]
     },
     "34": {
       "facts": [
-        "Slovar pojasni pomen in razmerja med pomeni. Pravopis obravnava recimo zapis, sklanjanje, začetnice in ločila. Terminološki slovar opredeli strokovni pojem v njegovem področju, etimološki pa pojasni njegov zgodovinski izvor.",
-        "Korpus pokaže, kako se oblika uporablja v več dejanskih besedilih. Priročnik in korpus odgovarjata na različni vprašanji. Pri novi rabi ali zahtevnem primeru lahko primer dopolnimo s pojasnilom jezikovne svetovalnice."
+        [
+          "Slovar",
+          "Pomen, raba, oblike besed in ponazoritveni primeri."
+        ],
+        [
+          "Pravopis in slovnica",
+          "Pravopis: zapis, ločila, velika začetnica. Slovnica: oblike besed, besedne vrste in zgradba povedi."
+        ],
+        [
+          "Specializirani viri",
+          "Terminološki slovar za strokovne pojme, etimološki za izvor besed. Svetovalnica in korpus za dileme ter dejansko rabo."
+        ]
       ],
       "examples": [
-        "Na Franu lahko v SSKJ² poiščemo pomen besede, v pravopisu zapis imena ali pridevniško obliko, v Gigafidi pa dejanske sobesedilne zglede, kjer beseda nastopa."
+        "SSKJ²: pomen besede. Pravopis: začetnica in zapis imena.",
+        "Gigafida: primeri dejanske rabe.",
+        "Jezikovna svetovalnica: pojasnilo konkretne dileme."
       ]
     },
     "35": {
       "facts": [
-        "Socialne zvrsti opišemo glede na skupnost in okoliščine rabe. Knjižni jezik ima zborno in knjižno pogovorno rabo, med neknjižnimi oblikami najdemo narečja, pokrajinski pogovorni jezik in skupinske posebnosti.",
-        "Funkcijske zvrsti razlikujemo po namenu in občinstvu. Ob praktičnosporazumevalnih besedilih so pomembna strokovna, publicistična in umetnostna. Izbira izrazov je odvisna od konkretne naloge, ne samo od tega, ali je besedilo pisno ali govorjeno."
+        [
+          "Socialne zvrsti",
+          "Knjižni: zborni in knjižno pogovorni jezik. Neknjižni: narečja, pokrajinski pogovorni jezik, sleng, žargon in argo."
+        ],
+        [
+          "Funkcijske zvrsti",
+          "Praktičnosporazumevalna, strokovna, publicistična in umetnostna."
+        ],
+        [
+          "Izbira zvrsti",
+          "Odvisna od sogovornika, namena, kraja, teme in stopnje formalnosti."
+        ]
       ],
       "examples": [
-        "Glasovno sporočilo prijatelju prenese domači izraz, uradna prošnja potrebuje natančno navedbo zadeve, poročilo o istem dogodku pa podatke uredi za javnega bralca."
+        "Pogovor s prijateljem: pogovorna raba.",
+        "Uradna prošnja: praktičnosporazumevalni oziroma uradovalni namen.",
+        "Časopisno poročilo: publicistično besedilo za javnost."
       ]
     }
   }
