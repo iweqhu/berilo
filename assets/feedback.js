@@ -7,10 +7,8 @@
   const form = get('feedback-form');
   const radios = [...form.querySelectorAll('input[name="section"]')];
   const entries = get('feedback-entries');
-  const search = get('feedback-search');
   const entry = get('feedback-entry');
   const entryLabel = get('feedback-entry-label');
-  const matches = get('feedback-matches');
   const message = get('feedback-message');
   const send = form.querySelector('button[type="submit"]');
   const error = get('feedback-error');
@@ -21,24 +19,19 @@
     dela: [{ id: 0, title: 'Splošno o delih' }, ...window.GRADIVO.works],
     teme: [{ id: 0, title: 'Splošno o tretjem vprašanju' }, ...window.GRADIVO.topics],
   };
-  const normalize = value => value.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLocaleLowerCase('sl');
   let draftKey;
   let draftId;
 
-  function renderEntries(preferred = entry.value) {
+  function renderEntries(preferred = '') {
     const section = form.elements.section.value;
     entries.hidden = !section;
     entry.disabled = !section;
     if (!section) return;
 
     entryLabel.textContent = section === 'dela' ? 'Delo' : 'Tema';
-    const query = normalize(search.value.trim());
-    const results = catalog[section].filter(item => normalize(item.title).includes(query));
-    const selectLabel = results.length ? 'Izberi naslov …' : 'Ni zadetkov';
-    entry.replaceChildren(new Option(selectLabel, ''), ...results.map(item => new Option(item.title, item.id)));
-    entry.size = query && results.length ? Math.min(4, results.length + 1) : 1;
-    entry.value = results.some(item => String(item.id) === preferred) ? preferred : '';
-    matches.textContent = query ? `Zadetki: ${results.length}` : '';
+    const items = catalog[section];
+    entry.replaceChildren(new Option('Izberi naslov …', ''), ...items.map(item => new Option(item.title, item.id)));
+    entry.value = items.some(item => String(item.id) === preferred) ? preferred : '';
   }
 
   function prefill() {
@@ -46,7 +39,6 @@
     const section = mode === 'delo' || location.hash.startsWith('#dela') ? 'dela'
       : mode === 'tema' || location.hash.startsWith('#teme') ? 'teme' : '';
     radios.forEach(radio => { radio.checked = radio.value === section; });
-    search.value = '';
     renderEntries(id ?? '');
   }
 
@@ -58,24 +50,18 @@
   launcher.addEventListener('click', () => {
     if (!message.value.trim() && receipt.hidden) prefill();
     dialog.showModal();
-    const target = receipt.hidden
-      ? (entry.value ? entry : entries.hidden ? radios[0] : search)
-      : receiptText;
+    const target = receipt.hidden ? (entries.hidden ? radios[0] : entry) : receiptText;
     target.focus();
   });
   close.addEventListener('click', () => dialog.close());
   dialog.addEventListener('close', () => launcher.focus());
-  radios.forEach(radio => radio.addEventListener('change', () => {
-    search.value = '';
-    renderEntries('');
-  }));
-  search.addEventListener('input', () => renderEntries());
+  radios.forEach(radio => radio.addEventListener('change', () => renderEntries()));
   message.addEventListener('input', () => message.setCustomValidity(''));
   newReport.addEventListener('click', () => {
     receipt.hidden = true;
     form.hidden = false;
     prefill();
-    (entry.value ? message : entries.hidden ? radios[0] : search).focus();
+    (entry.value ? message : entries.hidden ? radios[0] : entry).focus();
   });
 
   form.addEventListener('submit', async event => {
@@ -97,7 +83,7 @@
     }
     showError('');
     send.disabled = true;
-    send.textContent = 'Pošiljanje …';
+    send.setAttribute('aria-label', 'Pošiljanje …');
     form.setAttribute('aria-busy', 'true');
     const controls = [...form.querySelectorAll('input, select, textarea')];
     controls.forEach(control => { control.disabled = true; });
@@ -124,7 +110,7 @@
     } finally {
       controls.forEach(control => { control.disabled = false; });
       send.disabled = false;
-      send.textContent = 'Pošlji pripombo';
+      send.setAttribute('aria-label', 'Pošlji pripombo');
       form.removeAttribute('aria-busy');
     }
   });

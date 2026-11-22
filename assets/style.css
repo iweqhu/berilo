@@ -234,14 +234,14 @@ html:has(.feedback-dialog[open]){overflow:hidden}
 .feedback-choices input:checked+span{background:#624979;border-color:#b799d1}
 .feedback-choices input:focus-visible+span{outline:2px solid var(--purple);outline-offset:3px}
 .feedback-entries{margin-bottom:10px}
-.feedback-dialog :is(input[type="search"],select,textarea){
+.feedback-dialog :is(select,textarea){
   display:block;width:100%;min-width:0;margin:0 0 7px;padding:7px 9px;min-height:41px;
   border:1px solid #756282;border-radius:8px;background:#17121d;color:var(--ink);font:inherit;font-size:1rem
 }
-.feedback-dialog textarea{resize:vertical;min-height:82px;outline-offset:3px}
-.feedback-dialog :is(input[type="search"],textarea)::placeholder{color:#b0a0bc}
-#feedback-matches,.feedback-note{font-size:.77rem}
-.feedback-send{margin-top:9px;min-height:42px}
+.feedback-compose{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:end;gap:8px}
+.feedback-dialog textarea{margin:0;resize:vertical;min-height:82px;outline-offset:3px}
+.feedback-dialog textarea::placeholder{color:#b0a0bc}
+.feedback-send{display:grid;place-items:center;width:44px;min-height:44px;padding:0;border-radius:50%}
 .feedback-send:disabled{opacity:.65;cursor:wait}
 .feedback-error{margin-top:9px;color:#ffb7b1;font-size:.85rem}
 .feedback-receipt{border-color:#719a88;background:#26443f;overflow-wrap:anywhere}
