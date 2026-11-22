@@ -4812,5 +4812,18 @@ window.STUDY = {
       ]
     }
   },
-  "topics": {}
+  "topics": {},
+  "periodIds": {
+    "Antika": 1,
+    "Srednji vek": 2,
+    "Renesansa": 3,
+    "Ljudsko slovstvo": 4,
+    "Klasicizem in razsvetljenstvo": 5,
+    "Romantika": 6,
+    "Realizem": 7,
+    "Slovenska moderna": 8,
+    "Modernizem": 9,
+    "Prva polovica 20. stoletja": 10,
+    "Književnost po letu 1945": 11
+  }
 };

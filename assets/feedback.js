@@ -6,7 +6,9 @@
   const close = get('feedback-close');
   const form = get('feedback-form');
   const hasTopics = window.GRADIVO.topics.length > 0;
-  get('feedback-sections').hidden = !hasTopics;
+  const topicSection = form.querySelector('input[value="teme"]');
+  topicSection.disabled = !hasTopics;
+  topicSection.closest('label').hidden = !hasTopics;
   const radios = [...form.querySelectorAll('input[name="section"]')];
   const entries = get('feedback-entries');
   const entry = get('feedback-entry');
@@ -20,9 +22,13 @@
   const catalog = {
     dela: [{ id: 0, title: 'Splošno o delih' }, ...window.GRADIVO.works],
     teme: [{ id: 0, title: 'Splošno o tretjem vprašanju' }, ...window.GRADIVO.topics],
+    obdobja: Object.entries(window.STUDY.periodIds).map(([title, id]) => ({ id, title })),
   };
+  const labels = { dela: 'Delo', teme: 'Tema', obdobja: 'Obdobje' };
+  const workPlaceholder = message.placeholder;
   let draftKey;
   let draftId;
+  let opener = launcher;
 
   function renderEntries(preferred = '') {
     const section = form.elements.section.value;
@@ -30,18 +36,22 @@
     entry.disabled = !section;
     if (!section) return;
 
-    entryLabel.textContent = section === 'dela' ? 'Delo' : 'Tema';
+    entryLabel.textContent = labels[section];
+    message.placeholder = section === 'obdobja' ? 'Npr. letnica začetka obdobja je napačna …'
+      : section === 'teme' ? 'Npr. v opisu teme manjka …' : workPlaceholder;
     const items = catalog[section];
-    entry.replaceChildren(new Option('Izberi naslov …', ''), ...items.map(item => new Option(item.title, item.id)));
+    const prompt = section === 'obdobja' ? 'Izberi obdobje …' : 'Izberi naslov …';
+    entry.replaceChildren(new Option(prompt, ''), ...items.map(item => new Option(item.title, item.id)));
     entry.value = items.some(item => String(item.id) === preferred) ? preferred : '';
   }
 
   function prefill() {
     const [, mode, id] = location.hash.match(/^#(delo|tema)\/(\d+)$/) || [];
-    const section = !hasTopics || mode === 'delo' || location.hash.startsWith('#dela') ? 'dela'
-      : mode === 'tema' || location.hash.startsWith('#teme') ? 'teme' : '';
+    const period = catalog.obdobja.find(({ title }) => title === opener.dataset.feedbackEra
+      || location.hash === '#dela/' + encodeURIComponent(title));
+    const section = period ? 'obdobja' : hasTopics && (mode === 'tema' || location.hash === '#teme') ? 'teme' : 'dela';
     radios.forEach(radio => { radio.checked = radio.value === section; });
-    renderEntries(id ?? '');
+    renderEntries(period ? String(period.id) : id ?? '');
   }
 
   function showError(text) {
@@ -49,21 +59,28 @@
     error.hidden = !text;
   }
 
-  launcher.addEventListener('click', () => {
+  function openFrom(trigger) {
+    opener = trigger;
     if (!message.value.trim() && receipt.hidden) prefill();
     dialog.showModal();
-    const target = receipt.hidden ? (entries.hidden ? radios[0] : entry) : receiptText;
+    const target = receipt.hidden ? (entry.value ? message : entry) : receiptText;
     target.focus();
+  }
+
+  launcher.addEventListener('click', () => openFrom(launcher));
+  document.addEventListener('click', event => {
+    const trigger = event.target.closest('[data-feedback-era]');
+    if (trigger) openFrom(trigger);
   });
   close.addEventListener('click', () => dialog.close());
-  dialog.addEventListener('close', () => launcher.focus());
+  dialog.addEventListener('close', () => (opener.isConnected ? opener : launcher).focus());
   radios.forEach(radio => radio.addEventListener('change', () => renderEntries()));
   message.addEventListener('input', () => message.setCustomValidity(''));
   newReport.addEventListener('click', () => {
     receipt.hidden = true;
     form.hidden = false;
     prefill();
-    (entry.value ? message : entries.hidden ? radios[0] : entry).focus();
+    (entry.value ? message : entry).focus();
   });
 
   form.addEventListener('submit', async event => {
@@ -87,7 +104,7 @@
     send.disabled = true;
     send.setAttribute('aria-label', 'Pošiljanje …');
     form.setAttribute('aria-busy', 'true');
-    const controls = [...form.querySelectorAll('input, select, textarea')];
+    const controls = [...form.querySelectorAll('input:enabled, select:enabled, textarea:enabled')];
     controls.forEach(control => { control.disabled = true; });
     try {
       const response = await fetch(endpoint, {

@@ -6,12 +6,12 @@
   <meta name="theme-color" content="#131119">
   <meta name="description" content="Književna dela in literarna obdobja.">
   <title>Berilo · Slovenščina</title>
-  <link rel="stylesheet" href="assets/style.css?v=20261123-8">
+  <link rel="stylesheet" href="assets/style.css?v=20261123-9">
   <script defer src="assets/data.js?v=20261122-7"></script>
   <script defer src="assets/editorial.js?v=20261122-5"></script>
-  <script defer src="assets/study.js?v=20261123-8"></script>
-  <script defer src="assets/app.js?v=20261123-8"></script>
-  <script defer src="assets/feedback.js?v=20261122-7"></script>
+  <script defer src="assets/study.js?v=20261123-9"></script>
+  <script defer src="assets/app.js?v=20261123-9"></script>
+  <script defer src="assets/feedback.js?v=20261123-9"></script>
 </head>
 <body>
   <a class="skip" href="#vsebina">Preskoči na vsebino</a>
@@ -39,11 +39,12 @@
     </header>
     <div class="feedback-body">
       <form id="feedback-form">
-        <fieldset id="feedback-sections" hidden>
+        <fieldset id="feedback-sections">
           <legend>Razdelek</legend>
           <div class="feedback-choices">
-            <label><input type="radio" name="section" value="dela" required><span>Dela</span></label>
-            <label><input type="radio" name="section" value="teme"><span>Tretje vprašanje</span></label>
+            <label><input type="radio" name="section" value="dela" required checked><span>Dela</span></label>
+            <label><input type="radio" name="section" value="obdobja"><span>Literarna obdobja</span></label>
+            <label hidden><input type="radio" name="section" value="teme" disabled><span>Tretje vprašanje</span></label>
           </div>
         </fieldset>
         <div class="feedback-entries" id="feedback-entries" hidden>

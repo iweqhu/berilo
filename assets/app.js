@@ -7,7 +7,7 @@ const study = window.STUDY;
 const main = document.querySelector('main');
 const norm = value => value.toLowerCase().normalize('NFD').replace(/\p{Diacritic}/gu, '');
 const esc = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]);
-const eraList = ['Antika','Srednji vek','Renesansa','Ljudsko slovstvo','Klasicizem in razsvetljenstvo','Romantika','Realizem','Slovenska moderna','Modernizem','Prva polovica 20. stoletja','Književnost po letu 1945'];
+const eraList = Object.keys(study.periodIds);
 const badge = s => '<span class="tag">'+esc(s)+'</span>';
 const number = n => String(n).padStart(2,'0');
 const href = (kind,id) => '#' + kind + '/' + id;
@@ -56,7 +56,7 @@ function showEra(name, trigger) {
   dialog.querySelector('.dialog-body').innerHTML = '<header class="dialog-header"><div class="era-heading">'+eraIcon(name)+'<div><p class="eyebrow">'+esc(period[0])+'</p><h2 id="era-title">'+esc(name)+'</h2></div></div><button class="chip" type="button" data-dialog-close autofocus aria-label="Zapri pregled obdobja">Zapri</button></header>'+
     (guide?'<div class="epohe era-jump" aria-label="Poglavja">'+sections.map(([label],index)=>'<button class="chip" type="button" data-era-jump="'+index+'">'+esc(label)+'</button>').join('')+'</div>':'')+
     '<div class="era-facts">'+sections.map(([label,items])=>paragraphCard(label,items)).join('')+'</div>'+
-    '<footer class="toolbar"><a class="textlink" href="#dela/'+encodeURIComponent(name)+'" data-era-route>Dela iz tega obdobja</a>'+sourcePanel(sources)+'</footer>';
+    '<footer class="toolbar"><a class="textlink" href="#dela/'+encodeURIComponent(name)+'" data-era-route>Dela iz tega obdobja</a>'+sourcePanel(sources)+'<button class="chip" type="button" data-feedback-era="'+esc(name)+'">Sporoči napako</button></footer>';
   dialog.scrollTop=0;
   dialog.querySelector('[data-dialog-close]').onclick=()=>dialog.close();
   const cards=[...dialog.querySelectorAll('.era-facts>.card')];
