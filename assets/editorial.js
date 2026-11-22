@@ -2960,7 +2960,7 @@ window.BERILO = {
     "37": {
       "credit": "Dane Zajc · Jezik iz zemlje. Prvih pet kitic je zapisanih v celoti, zadnji dve sta prikazani z izbranimi besedami.",
       "edition": [
-        "https://archivio.pubblica.istruzione.it/argomenti/esamedistato/secondo_ciclo/prove/2005/P0TS1X18_W.pdf#page=1",
+        "https://slonamaturi.valentincic.eu/dane-zajc-crni-decek/",
         "Črni deček · celotno besedilo"
       ],
       "stanzas": [
