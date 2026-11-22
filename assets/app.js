@@ -43,10 +43,10 @@ function eraIcon(name) {
   return '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="'+eraPaths[eraList.indexOf(name)]+'"/></svg>';
 }
 const eraButton = name => '<button class="era-button" type="button" data-era-info="'+esc(name)+'">'+eraIcon(name)+'<span>'+esc(name)+'</span><span aria-hidden="true">↗</span></button>';
-const eraDialog = '<dialog class="era-dialog" aria-labelledby="era-title"><div class="dialog-body"></div></dialog>';
+const eraDialog = '<dialog class="era-dialog era-dialog--period" aria-labelledby="era-title"><div class="dialog-body"></div></dialog>';
 
 function showEra(name, trigger) {
-  const dialog = main.querySelector('.era-dialog');
+  const dialog = main.querySelector('.era-dialog--period');
   const period = study.periods[name];
   if (!period || !dialog) return;
   const labels = ['Zgodovinsko ozadje','Lirika','Pripovedništvo','Dramatika','Teme in ideje','Predstavniki'];
@@ -55,19 +55,23 @@ function showEra(name, trigger) {
   const sources = study.periodSources[name] || [['https://ojs-gr.zrc-sazu.si/primerjalna_knjizevnost/article/view/3114','Literarne smeri in obdobja · ZRC SAZU']];
   dialog.querySelector('.dialog-body').innerHTML = '<header class="dialog-header"><div class="era-heading">'+eraIcon(name)+'<div><p class="eyebrow">'+esc(period[0])+'</p><h2 id="era-title">'+esc(name)+'</h2></div></div><button class="chip" type="button" data-dialog-close autofocus aria-label="Zapri pregled obdobja">Zapri</button></header>'+
     (guide?'<div class="epohe era-jump" aria-label="Poglavja">'+sections.map(([label],index)=>'<button class="chip" type="button" data-era-jump="'+index+'">'+esc(label)+'</button>').join('')+'</div>':'')+
-    '<div class="era-facts'+(guide?' era-facts--guide':'')+'">'+sections.map(([label,items])=>paragraphCard(label,items)).join('')+'</div>'+
+    '<div class="era-facts">'+sections.map(([label,items])=>paragraphCard(label,items)).join('')+'</div>'+
     '<footer class="toolbar"><a class="textlink" href="#dela/'+encodeURIComponent(name)+'" data-era-route>Dela iz tega obdobja</a>'+sourcePanel(sources)+'</footer>';
   dialog.scrollTop=0;
   dialog.querySelector('[data-dialog-close]').onclick=()=>dialog.close();
   const cards=[...dialog.querySelectorAll('.era-facts>.card')];
+  const focusSection=(index,trait)=>{
+    const target=cards[index];
+    target.querySelector('.era-point-current')?.classList.remove('era-point-current');
+    const point=trait && [...target.querySelectorAll('li')].reverse().find(item=>item.textContent.toLowerCase().includes(trait.toLowerCase()));
+    point?.classList.add('era-point-current');
+    const focusTarget=point || target.querySelector('h2');
+    focusTarget.tabIndex=-1;
+    focusTarget.focus({preventScroll:true});
+    focusTarget.scrollIntoView({block:'start'});
+  };
   dialog.querySelectorAll('[data-era-jump]').forEach(button=>{
-    button.onclick=()=>{
-      const target=cards[Number(button.dataset.eraJump)];
-      const title=target.querySelector('h2');
-      title.tabIndex=-1;
-      title.focus({preventScroll:true});
-      target.scrollIntoView({block:'start'});
-    };
+    button.onclick=()=>focusSection(Number(button.dataset.eraJump));
   });
   dialog.querySelector('[data-era-route]').onclick=()=>{
     dialog.close();
@@ -77,6 +81,8 @@ function showEra(name, trigger) {
   };
   dialog.addEventListener('close',()=>{if(trigger.isConnected)trigger.focus();},{once:true});
   dialog.showModal();
+  const initialSection=sections.findIndex(([label])=>label===trigger.dataset.eraSection);
+  if(initialSection>=0) focusSection(initialSection,trigger.textContent.trim());
 }
 
 function home() {
@@ -229,9 +235,9 @@ function castPanel(cast) {
       '<article class="cast-card'+(key.includes('*')?' cast-card--main':'')+'"><div><h4>'+esc(name)+'</h4><small>'+(key.includes('!')?'Nasprotna sila':key.includes('*')?'Glavna oseba':'Stranska oseba')+'</small></div><p class="cast-identity">'+esc(identity)+'</p><p><strong>Značaj</strong> '+esc(traits)+'</p>'+(appearance?'<p class="muted">'+esc(appearance)+'</p>':'')+'<p><strong>Vloga v delu</strong> '+esc(roleInStory)+'</p></article>').join('')+'</div></section>';
   }).join(''));
 }
-function periodTraitsPanel(traits) {
-  return card('Značilnosti literarnega obdobja','<ul class="study-points period-traits">'+traits.map(([label,example])=>
-    '<li><strong>'+esc(label)+'</strong><p>'+esc(example)+'</p></li>').join('')+'</ul>');
+function periodTraitsPanel(era,traits) {
+  return card('Značilnosti literarnega obdobja','<ul class="study-points period-traits">'+traits.map(([label,example,section])=>
+    '<li><button type="button" class="period-trait-link" data-era-info="'+esc(era)+'" data-era-section="'+esc(section)+'" aria-haspopup="dialog">'+esc(label)+'</button><p>'+esc(example)+'</p></li>').join('')+'</ul>');
 }
 function work(w) {
   const info={...analysis[w.id],...editions[w.id],...study.works[w.id]};
@@ -244,10 +250,10 @@ function work(w) {
     '<button type="button" class="chip" id="save" aria-pressed="'+marked+'">'+(marked?'Odstrani zaznamek':'Dodaj zaznamek')+'</button><span id="save-status" role="status"></span></div>'+
     '<div class="work-layout">'+authorPanel(w,person)+(info.triangle?trianglePanel(info.stages||info.triangle):reader(w,info))+
     '<div class="stack analysis-column"><section class="analysis-heading"><h2>Analiza</h2></section>'+
-    paragraphCard('Razlaga',info.crit||info.readings||w.detail?.paragraphs)+periodTraitsPanel(info.periodTraits)+castPanel(info.cast)+paragraphCard('Snov',info.material)+
+    paragraphCard('Razlaga',info.crit||info.readings||w.detail?.paragraphs)+periodTraitsPanel(w.era,info.periodTraits)+castPanel(info.cast)+paragraphCard('Snov',info.material)+
     paragraphCard('Zvrst in zgradba',info.genre||[w.form])+devicesPanel(info)+
     paragraphCard('Motivi',info.motifs)+paragraphCard('Tema in ideja',info.meaning||[w.theme])+
-    links('Povezane teme',related.map(t=>link('tema',t)))+sourcePanel(contacts)+'</div></div>';
+    links('Povezane teme',related.map(t=>link('tema',t)))+sourcePanel(contacts)+'</div></div>'+eraDialog;
 }
 function topic(t) {
   const related=works.filter(w=>t.related.includes(w.n));

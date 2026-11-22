@@ -123,9 +123,8 @@ input::placeholder{color:#bbadca}
 .labeled-point>strong{display:block;color:var(--peach)}
 .labeled-point>.study-points{margin-top:.14em}
 .labeled-point>.study-points>li{padding-block:.02em .16em}
-.era-facts.era-facts--guide{grid-template-columns:minmax(0,1fr)}
 .era-jump{margin-bottom:15px}
-.era-facts--guide .card{scroll-margin-top:18px}
+.era-facts .card,.era-point-current{scroll-margin-top:18px}
 .analysis-column .study-points,.article .study-points{max-width:73ch}
 .device-controls{margin-bottom:11px}
 #device-status:empty{display:none}
@@ -171,6 +170,7 @@ input::placeholder{color:#bbadca}
 .era-sidebar .era-button{min-height:44px}
 html:has(.era-dialog[open]){overflow:hidden}
 .era-dialog{width:min(860px,calc(100% - 24px));max-height:calc(100dvh - 28px);margin:auto;padding:0;overflow:auto;background:linear-gradient(150deg,#382b48,#1d1728 70%);border:1px solid #8a7399;border-radius:17px;box-shadow:0 25px 100px #08070acb;color:var(--ink)}
+.era-dialog--period{width:min(1000px,calc(100% - 24px))}
 .era-dialog::backdrop{background:#100d18b8;backdrop-filter:blur(6px)}
 .era-dialog[open]{animation:era-arrive .2s ease-out both}
 @keyframes era-arrive{from{opacity:0;transform:translateY(8px) scale(.99)}to{opacity:1;transform:none}}
@@ -180,8 +180,9 @@ html:has(.era-dialog[open]){overflow:hidden}
 .era-heading svg{flex:none;width:36px;height:36px}
 .era-heading h2{font:600 clamp(1.45rem,4vw,2.35rem) var(--serif)}
 .era-facts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
-.era-facts .card:first-child{grid-column:1/-1}
+.era-facts>.card:first-child,.era-facts>.card:last-child:nth-child(even){grid-column:1/-1}
 .era-facts .card h2{font-size:1.02rem}
+.era-point-current{background:#614b7288;border-radius:5px;outline:1px solid var(--peach)}
 .cast-group+.cast-group{margin-top:18px}
 .cast-group h3{margin-bottom:8px;color:var(--purple)}
 .cast-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,210px),1fr));gap:8px}
@@ -192,7 +193,9 @@ html:has(.era-dialog[open]){overflow:hidden}
 .cast-card p{margin-top:8px;font-size:.92rem}
 .cast-card strong,.device-quote{color:var(--peach)}
 .cast-card .cast-identity{color:var(--purple);font-weight:700;font-size:.88rem}
-.period-traits strong{color:var(--peach)}
+.period-trait-link{padding:0;border:0;background:none;text-align:start;color:var(--peach);font-weight:750;cursor:pointer;overflow-wrap:anywhere}
+.period-trait-link::after{content:"↗" / "";display:inline-block;margin-inline-start:.42em}
+.period-trait-link:hover{text-decoration:underline}
 .period-traits p{margin-top:.15rem}
 
 .feedback-launcher{
