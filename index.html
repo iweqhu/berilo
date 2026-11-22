@@ -4,14 +4,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#131119">
-  <meta name="description" content="Književna dela in teme tretjega vprašanja.">
+  <meta name="description" content="Književna dela in literarna obdobja.">
   <title>Berilo · Slovenščina</title>
-  <link rel="stylesheet" href="assets/style.css?v=20261122-6">
-  <script defer src="assets/data.js?v=20261122-5"></script>
+  <link rel="stylesheet" href="assets/style.css?v=20261122-7">
+  <script defer src="assets/data.js?v=20261122-7"></script>
   <script defer src="assets/editorial.js?v=20261122-5"></script>
-  <script defer src="assets/study.js?v=20261122-5"></script>
-  <script defer src="assets/app.js?v=20261122-5"></script>
-  <script defer src="assets/feedback.js?v=20261122-6"></script>
+  <script defer src="assets/study.js?v=20261122-7"></script>
+  <script defer src="assets/app.js?v=20261122-7"></script>
+  <script defer src="assets/feedback.js?v=20261122-7"></script>
 </head>
 <body>
   <a class="skip" href="#vsebina">Preskoči na vsebino</a>
@@ -21,7 +21,7 @@
       <nav aria-label="Glavna navigacija">
         <a href="#domov"><span aria-hidden="true">◫</span>Pregled</a>
         <a href="#dela"><span aria-hidden="true">▤</span>Dela</a>
-        <a href="#teme"><span aria-hidden="true">◈</span>Tretje vprašanje</a>
+        <a href="#teme" hidden><span aria-hidden="true">◈</span>Tretje vprašanje</a>
       </nav>
     </div>
   </header>
@@ -39,7 +39,7 @@
     </header>
     <div class="feedback-body">
       <form id="feedback-form">
-        <fieldset>
+        <fieldset id="feedback-sections" hidden>
           <legend>Razdelek</legend>
           <div class="feedback-choices">
             <label><input type="radio" name="section" value="dela" required><span>Dela</span></label>

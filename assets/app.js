@@ -1,5 +1,7 @@
 'use strict';
 const {works, topics} = window.GRADIVO;
+const hasTopics = topics.length > 0;
+document.querySelector('nav a[href="#teme"]').hidden = !hasTopics;
 const {people, analysis, editions} = window.BERILO;
 const study = window.STUDY;
 const main = document.querySelector('main');
@@ -79,11 +81,11 @@ function showEra(name, trigger) {
 
 function home() {
   const destinations = [
-    ['#dela','Književna dela',works.length,'Avtorji, besedila in analiza'],
-    ['#teme','Tretje vprašanje',topics.length,'Književnost in jezik']
+    ['#dela','Književna dela',works.length,'Avtorji, besedila in analiza']
   ];
+  if(hasTopics) destinations.push(['#teme','Tretje vprašanje',topics.length,'Književnost in jezik']);
   const resume = lastWork ? '<a class="button" href="'+href('delo',lastWork.id)+'">'+esc(lastWork.title)+' <span aria-hidden="true">↗</span></a><p class="muted">'+esc(lastWork.author+' · '+lastWork.era)+'</p>' : '<a class="button" href="#dela">Izberi delo <span aria-hidden="true">↗</span></a>';
-  return '<header class="overview glass"><div><p class="eyebrow">Književnost in jezik</p><h1>Slovenščina</h1></div><div class="lens" aria-hidden="true"></div></header>'+
+  return '<header class="overview glass"><div><p class="eyebrow">'+(hasTopics?'Književnost in jezik':'Književnost')+'</p><h1>Slovenščina</h1></div><div class="lens" aria-hidden="true"></div></header>'+
     '<section class="dashboard-grid home-grid" aria-label="Gradivo">'+destinations.map(([path,title,count,label])=>
       '<a class="card metric" href="'+path+'"><span class="metric-label">'+title+'</span><strong>'+count+'</strong><span>'+label+'</span><span class="arrow" aria-hidden="true">↗</span></a>').join('')+'</section>'+
     '<section class="card study-home"><div class="resume"><h2>Nadaljuj učenje</h2>'+resume+'</div><div><h2>Literarna obdobja</h2><div class="era-timeline">'+eraList.map(eraButton).join('')+'</div></div></section>'+eraDialog;
@@ -390,6 +392,13 @@ function render(focus=true) {
   let route, param;
   try { [route,param]=location.hash.slice(1).split('/').map(decodeURIComponent); }
   catch { route='neznano'; }
+  if(!hasTopics && (route==='teme' || route==='tema')){
+    history.replaceState(null,'','#dela');
+    route='dela';
+    param=undefined;
+    filters.workQuery='';
+    filters.era='';
+  }
   const w=route==='delo'?works.find(x=>x.id===Number(param)):null;
   const t=route==='tema'?topics.find(x=>x.id===Number(param)):null;
   const active=route==='delo'||route==='zaznamki'?'dela':route==='tema'?'teme':route;

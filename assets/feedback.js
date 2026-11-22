@@ -5,6 +5,8 @@
   const dialog = get('feedback-dialog');
   const close = get('feedback-close');
   const form = get('feedback-form');
+  const hasTopics = window.GRADIVO.topics.length > 0;
+  get('feedback-sections').hidden = !hasTopics;
   const radios = [...form.querySelectorAll('input[name="section"]')];
   const entries = get('feedback-entries');
   const entry = get('feedback-entry');
@@ -36,7 +38,7 @@
 
   function prefill() {
     const [, mode, id] = location.hash.match(/^#(delo|tema)\/(\d+)$/) || [];
-    const section = mode === 'delo' || location.hash.startsWith('#dela') ? 'dela'
+    const section = !hasTopics || mode === 'delo' || location.hash.startsWith('#dela') ? 'dela'
       : mode === 'tema' || location.hash.startsWith('#teme') ? 'teme' : '';
     radios.forEach(radio => { radio.checked = radio.value === section; });
     renderEntries(id ?? '');
