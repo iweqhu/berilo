@@ -247,6 +247,11 @@ html:has(.feedback-dialog[open]){overflow:hidden}
 .feedback-dialog textarea::placeholder{color:#b0a0bc}
 .feedback-send{display:grid;place-items:center;width:44px;min-height:44px;padding:0;border-radius:50%}
 .feedback-send:disabled{opacity:.65;cursor:wait}
+.feedback-attachment{display:grid;justify-items:start;gap:4px;margin-top:9px}
+.feedback-attachment .chip{display:inline-flex;align-items:center;gap:6px;min-height:36px;padding:4px 9px;font-size:.82rem}
+.feedback-attachment small{color:var(--muted);font-size:.75rem}
+.feedback-file-selected{display:flex;align-items:center;gap:8px;max-width:100%;color:var(--purple);font-size:.85rem}
+.feedback-file-selected span{min-width:0;overflow-wrap:anywhere}
 .feedback-error{margin-top:9px;color:#ffb7b1;font-size:.85rem}
 .feedback-receipt{border-color:#719a88;background:#26443f;overflow-wrap:anywhere}
 @media(max-width:480px){
