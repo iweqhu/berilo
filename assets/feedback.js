@@ -94,7 +94,6 @@
     }
     const section = form.elements.section.value;
     const entryId = Number(entry.value);
-    const title = entry.selectedOptions[0].text;
     const key = JSON.stringify([section, entryId, note]);
     if (key !== draftKey) {
       draftId = crypto.randomUUID();
@@ -122,7 +121,7 @@
       message.value = '';
       form.hidden = true;
       receipt.hidden = false;
-      receiptText.textContent = `Hvala! Pripombo za »${title}« smo prejeli.`;
+      receiptText.textContent = 'Hvala! Pripomba je sprejeta.';
       if (dialog.open) receiptText.focus();
     } catch {
       showError('Pripombe ni bilo mogoče poslati. Besedilo je še tu. Poskusi znova.');
