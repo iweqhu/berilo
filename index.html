@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#131119">
   <meta name="description" content="Književna dela in literarna obdobja.">
   <title>Berilo · Slovenščina</title>
-  <link rel="stylesheet" href="assets/style.css?v=20261123-11">
+  <link rel="stylesheet" href="assets/style.css?v=20261123-12">
   <script defer src="assets/data.js?v=20261122-7"></script>
   <script defer src="assets/editorial.js?v=20261122-5"></script>
   <script defer src="assets/study.js?v=20261123-9"></script>
@@ -53,6 +53,9 @@
         </div>
         <label class="feedback-label" for="feedback-message">Kaj naj popravimo?</label>
         <div class="feedback-compose">
+          <button type="button" class="chip feedback-attach" id="feedback-attach" aria-label="Dodaj prilogo" aria-describedby="feedback-file-hint">
+            <span aria-hidden="true">+</span>
+          </button>
           <textarea id="feedback-message" rows="3" minlength="5" maxlength="1500" placeholder="Npr. v razlagi druge kitice je napačno navedeno …" required></textarea>
           <button type="submit" class="button feedback-send" aria-label="Pošlji pripombo">
             <svg width="21" height="21" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
@@ -60,17 +63,11 @@
             </svg>
           </button>
         </div>
-        <div class="feedback-attachment">
-          <input type="file" id="feedback-file" accept=".jpg,.jpeg,.png,.webp,.pdf,.docx,.txt" hidden>
-          <button type="button" class="chip" id="feedback-attach" aria-describedby="feedback-file-hint">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m21 11-8.6 8.6a5 5 0 0 1-7.1-7.1L15 2.8a3.3 3.3 0 0 1 4.7 4.7l-9.3 9.3a1.6 1.6 0 0 1-2.3-2.3l8.6-8.6"/></svg>
-            Dodaj prilogo
-          </button>
-          <small id="feedback-file-hint">JPG, PNG, WebP, PDF, DOCX ali TXT · do 1,5 MB</small>
-          <div id="feedback-file-selected" class="feedback-file-selected" hidden>
-            <span id="feedback-file-name" aria-live="polite"></span>
-            <button type="button" class="chip" id="feedback-file-remove" aria-label="Odstrani prilogo">✕</button>
-          </div>
+        <input type="file" id="feedback-file" accept=".jpg,.jpeg,.png,.webp,.pdf,.docx,.txt" hidden>
+        <span id="feedback-file-hint" hidden>JPG, PNG, WebP, PDF, DOCX ali TXT · do 1,5 MB</span>
+        <div id="feedback-file-selected" class="feedback-file-selected" hidden>
+          <span id="feedback-file-name" aria-live="polite"></span>
+          <button type="button" class="chip" id="feedback-file-remove" aria-label="Odstrani prilogo">✕</button>
         </div>
         <p id="feedback-error" class="feedback-error" role="alert" hidden></p>
       </form>
